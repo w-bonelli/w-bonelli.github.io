@@ -1,0 +1,12 @@
+---
+layout: default
+title: Publications
+---
+<ul>
+  {% for publication in site.publications %}
+    <li>
+      <h2>{{ publication.name }}</h2>
+      <p>{{ publication.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
