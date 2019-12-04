@@ -1,6 +1,17 @@
----
-layout: default
----
-<h4>{{ page.date | date_to_string }}</h4>
-
-{{ content }}
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Wes Bonelli</title>
+        <link rel="stylesheet" href="/assets/css/styles.css">
+        {% feed_meta %}
+        {% seo %}
+    </head>
+    <body>
+        <h1><a href="/">Wes Bonelli</a></h1>
+        <hr>
+        <h3>{{ page.title }}</h3>
+        <h4>{{ page.date | date_to_string }}</h4>
+        {{ content }}
+    </body>
+</html>
