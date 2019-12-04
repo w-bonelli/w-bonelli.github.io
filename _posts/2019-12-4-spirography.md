@@ -56,6 +56,6 @@ Points which connect to themselves (save for the initial point) indicate that a 
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-**TL;DR:** "Lobes" correspond to cycles in the spirograph. Each cycle is preceded by a bisection. Each bisection entails a small, darkly-shaded "node" near its initial point, and a larger, lightly-shaded "lobe" directly opposite (while resolution holds, that is: patterns tend to recede into more evenly distributed noise for large values of *k* relative to *n*).
+**TL;DR:** "Lobes" correspond to cycles in the spirograph. Each cycle is preceded by a bisection. Each bisection entails a small, darkly-shaded "node" near its initial point, and a larger, lightly-shaded "lobe" directly opposite (for small values of *k*, that is: patterns tend to recede into noise then re-emerge in more complex formulations as *k* increases).
 
 Now my lobes are tired. That's it for this post. Thanks again to Cody for providing the basis for it.
