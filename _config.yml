@@ -1,13 +1,14 @@
+title: wes bonelli
+author: wes bonelli
+email: wes@wesbonelli.com
+
 collections:
   publications:
     output: true
+  software:
+    output: true
 
 defaults:
-  - scope:
-      path: ""
-      type: "publication"
-    values:
-      layout: "publication"
   - scope:
       path: ""
       type: "post"
