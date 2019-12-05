@@ -1,1 +1,1 @@
-Personal (Jekyll) site.
+Personal Jekyll site.
