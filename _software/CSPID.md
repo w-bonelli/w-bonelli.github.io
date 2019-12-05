@@ -1,7 +1,6 @@
 ---
 name: CSPID
 link: "https://github.com/w-bonelli/CSPID"
-role: Primary Maintainer
+role: Maintainer
+descr: (pronounced "speedy") is a C# proportional-integral-derivative controller targeting .NET Standard 2.0.
 ---
-
-CSPID (pronounced "speedy") is a C# proportional-integral-derivative controller targeting .NET Standard 2.0.

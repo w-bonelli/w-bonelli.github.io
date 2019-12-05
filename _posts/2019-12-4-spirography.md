@@ -6,13 +6,13 @@ date: 2019-12-4
 
 I stumbled across a cool problem presented [here](http://codyraskin.com/research/?p=158) by Cody Raskin. His post is short, so I'll reproduce it in full:
 
-> Suppose you had a circle made of a hundred or so equidistant points on its circumference. If you drew straight lines connecting distant points on this circle (chords) in some systematic way, you’d produce a kind of spirograph. I don’t know what these plots are actually called, and “spirograph” is actually just the brand-name of a popular toy, but in any case, most people have probably drawn something like this at some point in their lives.
+> "Suppose you had a circle made of a hundred or so equidistant points on its circumference. If you drew straight lines connecting distant points on this circle (chords) in some systematic way, you’d produce a kind of spirograph. I don’t know what these plots are actually called, and “spirograph” is actually just the brand-name of a popular toy, but in any case, most people have probably drawn something like this at some point in their lives.
 
 > The most common form of these that I’ve encountered are ones where the pattern for connecting the points is to simply connect every point *p<sub>i</sub>* to *p<sub>i + k</sub>* where *k* is some fixed offset. What if instead we connected *p<sub>i</sub>* to *p<sub>ik</sub>* where *k* is now a fixed multiplier?
 
 > I used the Desmos graphing calculator to play around with different values of *k* in real time. I did not expect the “lobe” count to scale as *∝ k−1*.
 
-> I wonder if someone could come up with some hand-wavy argument as to why this behaves this way? In any case, you can try it out at Desmos [here](https://www.desmos.com/calculator/yjayzmpgzr).
+> I wonder if someone could come up with some hand-wavy argument as to why this behaves this way? In any case, you can try it out at Desmos [here](https://www.desmos.com/calculator/yjayzmpgzr)."
 
 These things are kind of beautiful. I don't recall ever drawing one when I was a kid. To make up for it, I've tried to reason through the question with the help of [D3.js](https://d3js.org/). (Let me know if I got anything wrong, please!)
 
@@ -40,19 +40,21 @@ When does *j* = *ik* = *i*? When *i* = 0, to begin with. Hence the very first st
 
 Points which connect to themselves (save for the initial point) indicate that a *cycle* has been completed: that is, *p<sub>j</sub>* has "caught up to" *p<sub>i</sub>*. One will always find *k* - 1 cycles because *p<sub>j</sub>* ultimately "travels" *k* times farther than *p<sub>i</sub>*, and must "lap" it *k* - 1 times. If we were to plot *d* for the multiplier case, we would get something like a sine wave with domain [0, *n* - 1] and range [0, *n* / 2]. Intuitively, lobe count scales at *k* - 1 because each darkly-shaded cycle is a kind of "shadow" directly opposite a lightly shaded "lobe". "Shading" is lighter within each lobe and darker without because as you move away from a lobe center and nearer to a midpoint between lobes, each point's outgoing connection line departs further from the tangent and approaches orthogonality: that is, the line bisects the circle. At bisection, *p<sub>i</sub>* is maximally distant from *p<sub>j</sub>*: *d* = *n* / 2 (remainder 1 when *n* is odd). Outgoing connections swing back toward the tangent as you move toward the center of the next lobe. Dark shading occurs in small "shadows" near bisection initial points (opposite "lobes") and forms lobe boundaries where chords "stack" tightly around the tangent line. Here's what that looks like for  *k* = 2 and *k* = 4 (*p<sub>i</sub>* is red and *p<sub>j</sub>* is green):
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="w-bonelli" data-slug-hash="NWPPgrm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spiro_k2">
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="w-bonelli" data-slug-hash="NWPPgrm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spiro_k2">
   <span>See the Pen <a href="https://codepen.io/w-bonelli/pen/NWPPgrm">
   Spiro_k2</a> by w-bonelli (<a href="https://codepen.io/w-bonelli">@w-bonelli</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="w-bonelli" data-slug-hash="eYmmRZp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spiro_k4">
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="w-bonelli" data-slug-hash="eYmmRZp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spiro_k4">
   <span>See the Pen <a href="https://codepen.io/w-bonelli/pen/eYmmRZp">
   Spiro_k4</a> by w-bonelli (<a href="https://codepen.io/w-bonelli">@w-bonelli</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+---
 
 **TL;DR:** "Lobes" correspond to cycles in the spirograph. Each cycle is preceded by a bisection. Each bisection entails a small, darkly-shaded "shadow" near its initial point, and a larger, lightly-shaded "lobe" directly opposite (for small values of *k*, that is: patterns tend to recede into noise then re-emerge in more complex formulations as *k* increases).
 
