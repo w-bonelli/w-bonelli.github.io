@@ -9,12 +9,20 @@
         {% seo %}
     </head>
     <body>
-        <a href="/">wes bonelli</a>
-        <hr>
-        {{ content }}
-        <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
-	<script src="{{'/node_modules/popper.js/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
-	<script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">wes bonelli</a>
+        </nav>
+        <nav aria-label="breadcrumb"> 
+            <ol class="breadcrumb"> 
+                <li class="breadcrumb-item active" aria-current="page"><a href="/">home</a></li> 
+            </ol> 
+        </nav>
+        <div class="container-fluid">
+            {{ content }}
+            <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+            <script src="{{'/node_modules/popper.js/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
+            <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+        </div>
     </body>
 </html>
 

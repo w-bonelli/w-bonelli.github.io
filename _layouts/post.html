@@ -8,10 +8,24 @@
         {% seo %}
     </head>
     <body>
-        <a href="/">wes bonelli</a>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="/">wes bonelli</a>
+        </nav>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item active" aria-current="page"><a href="/">home</a></li>
+                <li class="breadcrumb-item active" aria-current="page"><a href="/blog">blog</a></li>
+                <li class="breadcrumb-item active" aria-current="page"><a href="#">{{ page.title }} ({{ page.date | date_to_string }})</a></li>
+            </ol>
+        </nav>
+        <div class="container-fluid">
+            <h3>{{ page.title }}</h3>
+            <h4>{{ page.date | date_to_string }}</h4>
+            {{ content }}
+        </div>
         <hr>
-        <h3>{{ page.title }}</h3>
-        <h4>{{ page.date | date_to_string }}</h4>
-        {{ content }}
+        <div class="container-fluid">
+            <p><a href="http://dismagazine.com/disillusioned/discussion-disillusioned/68280/hans-ulrich-obrist-timothy-morton/">Morton suggests</a> we think social systems like toys: things to play with, share peacefully, and which we may grow out of at some point. "There's no one toy to rule them all". Likewise with ideas, maybe? Do not hesitate to tell me if you think I have misstepped.</p>
+        </div>
     </body>
 </html>
