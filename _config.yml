@@ -1,6 +1,6 @@
 title: wes bonelli
 author: wes bonelli
-email: wes@wesbonelli.com
+email: wpbonelli@gmail.com
 
 collections:
   publications:
@@ -11,13 +11,13 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "post"
+      type: "posts"
     values:
       layout: "post"
   - scope:
       path: ""
     values:
-      layout: "default"
+      layout: "main"
 
 plugins:
   - jekyll-feed

@@ -4,33 +4,21 @@ title: Home
 ---
 
 <h3>About</h3>
-I'm trained in computer science and psychology, with 4+ years of experience developing software for research and enterprise. I'm presently most interested in the human ecology of environmental crisis mitigation/adaptation. Other interests include:
-<ul>
-    <li>Applied mathematics (category theory, linear control systems)</li>
-    <li>Data visualization</li>
-    <li>Linguistics/literature</li>
-    <li>Philosophy of science</li>
-    <li>Social/cognitive psychology and cognitive science</li>
-</ul>
+I am trained in computer science and psychology, with experience developing software for research and enterprise. Presently I am pursuing computational science in service of applied human ecology.
 <h3>Blog</h3>
-<p>I write things here sometimes. Usually I have no relevant qualifications to do so. Please don't hesitate to point out where and why I'm mistaken and I'll do my best to fix it.</p>
-<p><a href="http://dismagazine.com/disillusioned/discussion-disillusioned/68280/hans-ulrich-obrist-timothy-morton/">Morton suggests</a> we think social systems like toys: things to play with, share with one another (not fight over), and which we may grow out of at some point ("there's no one toy to rule them all"). I like to think words this way. All appearing here are artifacts of an ongoing process and ought never be considered definitive.</p>
 <ul>
     {% for post in site.posts %}
-        <li>
-            <h4><a href="{{ post.url }}">{{ post.title }} ({{ post.date | date_to_string }})</a></h4>
-        </li>
+        <li><h4><a href="{{ post.url }}">{{ post.title }} ({{ post.date | date_to_string }})</a></h4></li>
     {% endfor %}
 </ul>
+<p><a href="http://dismagazine.com/disillusioned/discussion-disillusioned/68280/hans-ulrich-obrist-timothy-morton/">Morton suggests</a> we think social systems like toys: things to play with, share peacefully, and which we may grow out of at some point. "There's no one toy to rule them all". Likewise with ideas, maybe? Do not hesitate to tell me if you think I have misstepped.</p>
 <h3>Contact</h3>
 <p><a href="mailto:wpbonelli@gmail.com">wpbonelli@gmail.com</a> | <a href="mailto:wpb3hw@virginia.edu">wpb3hw@virginia.edu</a></p>
 <p><a href="https://github.com/w-bonelli">Github</a> | <a href="https://www.linkedin.com/in/wesley-bonelli">LinkedIn</a> | <a href="https://www.researchgate.net/profile/Wes_Bonelli">ResearchGate</a></p>
 <h3>Publications</h3>
 <ul>
     {% for publication in site.publications %}
-        <li>
-            <p>{{ publication.content | markdownify }}</p>
-        </li>
+        <li><p>{{ publication.content | markdownify }}</p></li>
     {% endfor %}
 </ul>
 <h3>Software</h3>
@@ -38,7 +26,7 @@ I'm trained in computer science and psychology, with 4+ years of experience deve
     {% for ware in site.software %}
         <li>
             <h4><a href="{{ ware.link }}">{{ ware.name }}</a></h4>
-            <p>{{ ware.content | markdownify }}</p>
+            <p>{{ ware.content | markdownify }} ({{ ware.role }})</p>
         </li>
     {% endfor %}
 </ul>
