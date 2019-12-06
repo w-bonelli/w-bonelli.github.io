@@ -48,26 +48,15 @@ Here's a little animation of the multiplier case, constructed in real-time. You 
 </button><button type="button" class="btn btn-dark" onclick="incK()">&gt;</button>
 </div>
 <svg id="multiplier" class="container-fluid"></svg>
+
+---
+
+**TL;DR:** "Lobes" correspond to cycles in the spirograph. Each cycle is preceded by a bisection. Each bisection entails a small, darkly-shaded "shadow" near its initial point, and a larger, lightly-shaded "lobe" directly opposite (for small values of *k*, that is: patterns tend to recede into noise then re-emerge in more complex formulations as *k* increases). Cool, right?
+
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 var k = 2;  // multiplier
 var r = 40; // radius
-
-function incK() {
-    k += 1;
-    renderK();
-}
-
-function decK() {
-    if (k > 1) { 
-        k -= 1;
-    }
-    renderK();
-}
-
-function renderK() {
-    document.getElementById("k").innerHTML = "k = " + k;
-}
 
 var svg = d3
   .select("svg")
@@ -118,6 +107,22 @@ var pjDot = svg
 renderK();
 transition();
 
+function incK() {
+    k += 1;
+    renderK();
+}
+
+function decK() {
+    if (k > 1) { 
+        k -= 1;
+    }
+    renderK();
+}
+
+function renderK() {
+    document.getElementById("k").innerHTML = "k = " + k;
+}
+
 function transition() {
   piDot
     .transition()
@@ -154,21 +159,3 @@ function translateAlong(path, K) {
 }
 
 </script>
-
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="w-bonelli" data-slug-hash="NWPPgrm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spiro_k2">
-  <span>See the Pen <a href="https://codepen.io/w-bonelli/pen/NWPPgrm">
-  Spiro_k2</a> by w-bonelli (<a href="https://codepen.io/w-bonelli">@w-bonelli</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="w-bonelli" data-slug-hash="eYmmRZp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spiro_k4">
-  <span>See the Pen <a href="https://codepen.io/w-bonelli/pen/eYmmRZp">
-  Spiro_k4</a> by w-bonelli (<a href="https://codepen.io/w-bonelli">@w-bonelli</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
----
-
-**TL;DR:** "Lobes" correspond to cycles in the spirograph. Each cycle is preceded by a bisection. Each bisection entails a small, darkly-shaded "shadow" near its initial point, and a larger, lightly-shaded "lobe" directly opposite (for small values of *k*, that is: patterns tend to recede into noise then re-emerge in more complex formulations as *k* increases). Cool, right?
