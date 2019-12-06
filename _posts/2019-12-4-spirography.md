@@ -38,7 +38,122 @@ What happens when we take *p<sub>i</sub>* and try to connect it to point *p<sub>
 
 When does *j* = *ik* = *i*? When *i* = 0, to begin with. Hence the very first step in constructing any spirograph according to this sort of pattern: just connect the initial point to itself. When else? When *j* = *ik* = *n*, since *p<sub>n</sub>* *is* *p<sub>0</sub>* (this is equivalent to the example above, where we started from *a*, took *n* steps, and ended up back at *a*).
 
-Points which connect to themselves (save for the initial point) indicate that a *cycle* has been completed: that is, *p<sub>j</sub>* has "caught up to" *p<sub>i</sub>*. One will always find *k* - 1 cycles because *p<sub>j</sub>* ultimately "travels" *k* times farther than *p<sub>i</sub>*, and must "lap" it *k* - 1 times. If we were to plot *d* for the multiplier case, we would get something like a sine wave with domain [0, *n* - 1] and range [0, *n* / 2]. Intuitively, lobe count scales at *∝* *k* - 1 because each darkly-shaded cycle is a kind of "shadow" directly opposite a lightly shaded "lobe". "Shading" is lighter within each lobe and darker without because as you move away from a lobe center and nearer to a midpoint between lobes, each point's outgoing connection line departs further from the tangent and approaches orthogonality: that is, the line bisects the circle. At bisection, *p<sub>i</sub>* is maximally distant from *p<sub>j</sub>*: *d* = *n* / 2 (remainder 1 when *n* is odd). Outgoing connections swing back toward the tangent as you move toward the center of the next lobe. Dark shading occurs in small "shadows" near bisection initial points (opposite "lobes") and forms lobe boundaries where chords "stack" tightly around the tangent line. Here's what that looks like for  *k* = 2 and *k* = 4 (*p<sub>i</sub>* is red and *p<sub>j</sub>* is green):
+Points which connect to themselves (save for the initial point) indicate that a *cycle* has been completed: that is, *p<sub>j</sub>* has "caught up to" *p<sub>i</sub>*. One will always find *k* - 1 cycles because *p<sub>j</sub>* ultimately "travels" *k* times farther than *p<sub>i</sub>*, and must "lap" it *k* - 1 times. If we were to plot *d* for the multiplier case, we would get something like a sine wave with domain [0, *n* - 1] and range [0, *n* / 2]. Intuitively, lobe count scales at *∝* *k* - 1 because each darkly-shaded cycle is a kind of "shadow" directly opposite a lightly shaded "lobe". "Shading" is lighter within each lobe and darker without because as you move away from a lobe center and nearer to a midpoint between lobes, each point's outgoing connection line departs further from the tangent and approaches orthogonality: that is, the line bisects the circle. At bisection, *p<sub>i</sub>* is maximally distant from *p<sub>j</sub>*: *d* = *n* / 2 (remainder 1 when *n* is odd). Outgoing connections swing back toward the tangent as you move toward the center of the next lobe. Dark shading occurs in small "shadows" near bisection initial points (opposite "lobes") and forms lobe boundaries where chords "stack" tightly around the tangent line.
+
+Here's a little animation of the multiplier case, constructed in real-time. You can increment or decrement *k*, then watch how many times the green dot (*p<sub>j</sub>*) "laps" the red one (*p<sub>j</sub>*):
+
+<div class="btn-group" role="group">
+<button type="button" class="btn btn-dark" onclick="decK()">&lt;</button>
+<button id="k" type="button" disabled class="btn btn-dark">
+</button><button type="button" class="btn btn-dark" onclick="incK()">&gt;</button>
+</div>
+<svg id="multiplier" class="container-fluid"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+var k = 2;  // multiplier
+var r = 40; // radius
+
+function incK() {
+    k += 1;
+    renderK();
+}
+
+function decK() {
+    if (k > 1) { 
+        k -= 1;
+    }
+    renderK();
+}
+
+function renderK() {
+    document.getElementById("k").innerHTML = "k = " + k;
+}
+
+var svg = d3
+  .select("svg")
+  .attr("width", 960)
+  .style("height", 600);
+
+var path = svg
+  .append("path")
+  .attr(
+    "d",
+    "M " +
+      3 * r +
+      ", " +
+      2 * r +
+      " a " +
+      r +
+      "," +
+      r +
+      " 0 1,1 " +
+      -2 * r +
+      ",0 a " +
+      r +
+      "," +
+      r +
+      " 0 1,1 " +
+      2 * r +
+      ",0"
+  )
+  .attr("fill", "none")
+  .style("stroke", "gray")
+  .style("stroke-width", "3")
+  .style("stroke-opacity", 0.5);
+
+var piDot = svg
+  .append("circle")
+  .attr("fill", "red")
+  .style("fill-opacity", 0.5)
+  .attr("r", 6)
+  .attr("transform", "translate(" + 2 * r + "," + 3 * r + ")");
+
+var pjDot = svg
+  .append("circle")
+  .attr("fill", "green")
+  .style("fill-opacity", 0.5)
+  .attr("r", 6)
+  .attr("transform", "translate(" + 2 * r + "," + 3 * r + ")");
+
+renderK();
+transition();
+
+function transition() {
+  piDot
+    .transition()
+    .duration(5000)
+    .attrTween("transform", translateAlong(path.node(), k))
+    .on("end", function() {
+      d3.selectAll("line").remove();
+      transition();
+    });
+}
+
+// adapted from https://bl.ocks.org/mbostock/1705868
+function translateAlong(path, K) {
+  var l = path.getTotalLength();
+  return function(d, i, a) {
+    return function(t) {
+      var i = t * l;
+      var j = i * K;
+      var pi = path.getPointAtLength(i);
+      var pj = path.getPointAtLength(j <= l ? j : j % l);
+      svg
+        .append("line")
+        .attr("x1", pi.x)
+        .attr("y1", pi.y)
+        .attr("x2", pj.x)
+        .attr("y2", pj.y)
+        .style("stroke", "gray")
+        .style("stroke-opacity", 0.25)
+        .style("stroke-width", 1);
+      pjDot.attr("transform", "translate(" + pj.x + "," + pj.y + ")");
+      return "translate(" + pi.x + "," + pi.y + ")";
+    };
+  };
+}
+
+</script>
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="w-bonelli" data-slug-hash="NWPPgrm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spiro_k2">
   <span>See the Pen <a href="https://codepen.io/w-bonelli/pen/NWPPgrm">

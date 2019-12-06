@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/w-bonelli/w-bonelli.github.io/issues"
   },
-  "homepage": "https://github.com/w-bonelli/w-bonelli.github.io#readme"
+  "homepage": "https://github.com/w-bonelli/w-bonelli.github.io#readme",
+  "dependencies": {
+    "d3": "^5.14.2"
+  }
 }
