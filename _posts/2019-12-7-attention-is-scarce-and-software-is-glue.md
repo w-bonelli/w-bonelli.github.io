@@ -50,7 +50,7 @@ So claims Bendell. Morton posits in "agrilogistics" a far older demon. Denial, o
 
 ---
 
-We swim around in a wrinkly, porous windshield, where the air(row) we call time presses through us always in the same direction: forward. From behind. Something up ahead sucks.
+We swim in a wrinkly, porous windshield. The air(row) we call time presses through us always in the same direction: forward. From behind. Something up ahead sucks.
 
 As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
 
