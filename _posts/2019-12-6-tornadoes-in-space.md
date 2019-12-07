@@ -89,20 +89,20 @@ def __mapSimilarity(left, right):
     }
 
 # Define the operations. Pretty straightforward: just map each object to its
-# custom projection, then convert it to JSON. In the first 3 operations we're
-# returning arrays; in `similarity` we're returning a single object.
+# custom projection, then convert it to pretty-indented JSON. In the first 3
+# operations we're returning arrays; in `similarity` we're returning an object.
 
 def tokens(text):
-    return json.dumps([__mapToken(token) for token in nlp(text)])
+    return json.dumps([__mapToken(token) for token in nlp(text)]k, indent=4)
 
 def noun_chunks(text):
-    return json.dumps([__mapNounChunk(chunk) for chunk in __nlp(text).noun_chunks])
+    return json.dumps([__mapNounChunk(chunk) for chunk in __nlp(text).noun_chunks], indent=4)
 
 def entities(text):
-    return json.dumps([__mapEntity(entity) for entity in __nlp(text).ents])
+    return json.dumps([__mapEntity(entity) for entity in __nlp(text).ents], indent=4)
 
 def similarity(left, right):
-    return json.dumps(__mapSimilarity(nlp(left), nlp(right)))
+    return json.dumps(__mapSimilarity(nlp(left), nlp(right)), indent=4)
 ```
 
 ##### `handlers.py`
