@@ -2,17 +2,18 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>wes bonelli</title>
+        <title>Wes Bonelli</title>
         <link rel="stylesheet" href="/assets/css/styles.css">
         <link rel="stylesheet" href="{{'/assets/main.css' | prepend: site.baseurl}}">
         {% feed_meta %}
         {% seo %}
     </head>
     <body>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a class="breadcrumb body-text" href="/">wes bonelli</a>
-            <nav aria-label="breadcrumb"> 
+        <nav class="navbar navbar-expand-lg">
+            <a class="breadcrumb" href="/">Wes Bonelli</a>
+            <nav class="ml-auto" aria-label="breadcrumb"> 
                 <ol class="breadcrumb"> 
+                    <li class="breadcrumb-item" aria-current="page"></li>
                     <li class="breadcrumb-item active" aria-current="page"><a href="#">{{ page.title }} {{ page.date | date_to_string }}</a></li>
                 </ol> 
             </nav>  

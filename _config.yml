@@ -1,11 +1,11 @@
-title: wes bonelli
-author: wes bonelli
+title: Wes Bonelli
+author: Wes Bonelli
 email: wpbonelli@gmail.com
 
 collections:
   publications:
     output: true
-  software:
+  projects:
     output: true
 
 defaults:

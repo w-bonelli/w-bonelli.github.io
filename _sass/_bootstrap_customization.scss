@@ -8,22 +8,25 @@
 }
 
 .breadcrumb {
-  background-color: black !important;
+  background-color: transparent !important;
   font-weight: 600;
-  color: #66ff99;
+  color: #66ccff;
 }
 
 .navbar {
   font-weight: 900;
   height: 40px;
-  margin-top: 40px;
+  padding-left:0px;
+  padding-top: 50px;
   color: #66ff99;
+  background-color: black;
 }
 
 .navbar-brand {
   font-weight: 900;
   text-transform: lowercase;
   color: #66ff99;
+  background-color: white;
 }
 
 .body-text {
@@ -35,7 +38,6 @@
 
 body {
     font-family: $font-family;
-    background-color: white;
 }
 
 hr {
@@ -50,6 +52,12 @@ blockquote {
     color: #8FBC8F;
     border-left: 1px;
     display: inline-block;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+pre {
+    color: #8FBC8F;
     margin-left: 2em;
     margin-right: 2em;
 }

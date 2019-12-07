@@ -4,22 +4,13 @@ title: Home
 ---
 
 <div class="container-fluid">
-    <b>about</b>
+    <b>About</b>
     <hr>
     I am trained in computer science and psychology, with experience developing software for research and enterprise. Presently I am pursuing computational science in service of applied human ecology.
 </div>
 <br>
 <div class="container-fluid">
-    <b>blog</b>
-    <hr>
-    <ul>
-        {% for post in site.posts %}
-            <li><a href="{{ post.url }}">{{ post.title }} {{ post.date | date_to_string }}</a></li>
-        {% endfor %}
-    </ul>
-</div>
-<div class="container-fluid">
-    <b>contact</b>
+    <b>Contact</b>
     <hr>
     <div class="row">
         <div class="col-md-auto">
@@ -40,22 +31,31 @@ title: Home
     </div>
 </div>
 <div class="container-fluid">
-    <b>publications</b>
+    <b>Posts</b>
     <hr>
     <ul>
-        {% for publication in site.publications %}
-            <li>{{ publication.content }}</li>
+        {% for post in site.posts %}
+            <li><a href="{{ post.url }}">{{ post.title }} {{ post.date | date_to_string }}</a></li>
         {% endfor %}
     </ul>
 </div>
 <div class="container-fluid">
-    <b>software</b>
+    <b>Projects</b>
     <hr>
     <ul>
-        {% for ware in site.software %}
+        {% for project in site.projects %}
             <li>
-                <a href="{{ ware.link }}">{{ ware.name }}</a> {{ ware.descr }} <i>{{ ware.role }}</i>
+                <a href="{{ project.link }}">{{ project.name }}</a> {{ project.descr }} <i>{{ project.role }}</i>
             </li>
+        {% endfor %}
+    </ul>
+</div>
+<div class="container-fluid">
+    <b>Publications</b>
+    <hr>
+    <ul>
+        {% for publication in site.publications %}
+            <li>{{ publication.content }}</li>
         {% endfor %}
     </ul>
 </div>
