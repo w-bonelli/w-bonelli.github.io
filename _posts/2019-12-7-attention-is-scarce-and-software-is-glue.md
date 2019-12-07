@@ -36,7 +36,7 @@ Some might justifiably object to what I've just said. I certainly feel ill-quali
 
 1. I've been to them (and so occupy no privileged critical stance), and
 
-2. they bespeak the fact that to systemic change cultural inertia often exhibits apparently inexplicable ambivalence.
+2. they bespeak the fact that to behavioral change cultural inertia often exhibits apparently inexplicable ambivalence.
 
 Every decade or so (and with increasing rapidity, of late) massive cohorts of scientists attach their names and reputations to documents which urge more or less explicitly:
 
@@ -50,7 +50,7 @@ So claims Bendell. Morton posits in "agrilogistics" a far older demon. Denial, o
 
 ---
 
-We swim around in this wrinkly, porous windshield, where the air(row) we call time never stops pressing around and through us, always in the same direction: forward. From behind. Something up ahead sucks.
+We swim around in a wrinkly, porous windshield, where the air(row) we call time presses through us always in the same direction: forward. From behind. Something up ahead sucks.
 
 As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
 
