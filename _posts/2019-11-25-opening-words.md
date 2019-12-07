@@ -40,17 +40,17 @@ In certain situations, Hofstadter points out,
 
 > "the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens."[^4]
 
-He goes on to ask how one might best explain a prime-finding algorithm. Is it best to outline the computational medium's mode of operation? Or to describe the nature of prime numbers and the essence of the strategy for their detection? For that matter, could one not object that the algorithm might not today be known were Euclid never to have discovered (or invented) primes? Any single reply, given independently, adopts a restricted view of a limited space. Meanwhile cause shimmers nearly everywhere one looks.
+He goes on to ask how one might best explain a prime-finding algorithm. Is it best to outline the computational medium's mode of operation? Or to describe the nature of prime numbers and the essence of the strategy for their detection? For that matter, could one not object that the algorithm might not today be known were Euclid never to have discovered (or invented) primes?
 
 Faraday did convince himself, in the end.[^2] [Tong puts it well](https://youtu.be/zNVQfWC_evg?t=804):
 
 > "...this was Farraday's genius: to appreciate that, even though you can't see anything in between [two magnets] &mdash; even though, no matter how closely you look, the space between the magnets will seem to be empty &mdash; there's something real there."[^5]
 
-Perhaps we too might fruitfully consider the inevitability that there are regions of reality which we cannot directly or do not typically sense. This is not a new idea: much modern science rests on [constructs](https://en.wikipedia.org/wiki/Construct_(philosophy)) measured exclusively by proxy. Of hierarchical systems, [Dijkstra posits](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html):
+Is it then inevitable that there exist regions of reality which we cannot directly or do not typically sense? This is not a new idea: much modern science rests on [constructs](https://en.wikipedia.org/wiki/Construct_(philosophy)) measured exclusively by proxy. Of hierarchical systems, [Dijkstra posits](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html):
 
 > "...the number of levels that can be distinguished meaningfully... is kind of proportional to the logarithm of the ratio between the largest and the smallest grain."[^6]
 
-Whether there exists a bijection between "that which is" and "that which is hierarchical" I can't say. But this idea gracefully captures the necessarily limited nature of human cognition, I think. How ought we determine whether the grains we think we observe &mdash; from quarks, to fields of force, to ideas, to words, to wills, to identities, to ideologies, to values, to social facts, to cities, to cultures, to corporations and nations, to black holes, to dark matter, and so on &mdash; correspond sufficiently closely to *real* things they purport to denote? Do we not increasingly negotiate (and shape) consensus reality with language? How to avoid fallacies of reification? How to understand the various interwoven techniques of vocalization, inscription, transmission, and computation which have blossomed from the first words spoken some hundred thousand years ago?
+How ought we determine whether the grains we think we observe &mdash; from quarks, to fields of force, to ideas, to words, to wills, to identities, to ideologies, to values, to social facts, to cities, to cultures, to corporations and nations, to black holes, to dark matter, and so on &mdash; correspond sufficiently closely to *real* things they purport to denote? Do we not increasingly negotiate (and shape) consensus reality with language? How to avoid fallacies of reification? How to understand the various interwoven techniques of vocalization, inscription, transmission, and computation which have blossomed from the first words spoken some hundred thousand years ago?
 
 Might [Box's aphorism](https://en.wikipedia.org/wiki/All_models_are_wrong) help? He and Lucěno contend that
 

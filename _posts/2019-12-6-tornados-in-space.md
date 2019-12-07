@@ -96,10 +96,10 @@ def tokens(text):
     return json.dumps([__mapToken(token) for token in nlp(text)]k, indent=4)
 
 def noun_chunks(text):
-    return json.dumps([__mapNounChunk(chunk) for chunk in __nlp(text).noun_chunks], indent=4)
+    return json.dumps([__mapNounChunk(chunk) for chunk in nlp(text).noun_chunks], indent=4)
 
 def entities(text):
-    return json.dumps([__mapEntity(entity) for entity in __nlp(text).ents], indent=4)
+    return json.dumps([__mapEntity(entity) for entity in nlp(text).ents], indent=4)
 
 def similarity(left, right):
     return json.dumps(__mapSimilarity(nlp(left), nlp(right)), indent=4)
