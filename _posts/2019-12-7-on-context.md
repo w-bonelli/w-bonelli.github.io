@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (I/O)n Context
+title: On Context
 date: 2019-12-7
 ---
 

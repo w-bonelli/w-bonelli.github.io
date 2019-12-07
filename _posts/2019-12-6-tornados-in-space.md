@@ -4,7 +4,7 @@ title: Tornados in Space
 date: 2019-12-6
 ---
 
-Say we want a quick way to analyze snippets of text from diverse environments. Let's hide [SpaCy](https://spacy.io/) behind a little [Tornado](https://github.com/tornadoweb/tornado/blob/stable/docs/index.rst) API and call it, like, `spacetornado`. Yeah. We'll need a Unix terminal and some version of Python 3.
+Say we want a quick way to analyze snippets of text from diverse environments. Let's hide [SpaCy](https://spacy.io/) behind a little [Tornado](https://github.com/tornadoweb/tornado/blob/stable/docs/index.rst) API and call it, like, `spacetornado`. We'll need a Unix terminal and some version of Python 3.
 
 ---
 
@@ -191,14 +191,14 @@ if __name__ == "__main__":
 
 ---
 
-That's it: time to tokenenize.
+That's it: time to tokenize.
 
 ```
 > (spacetornado) python src/host.py
 > 2019-12-06 21:17:28,540 INFO [spacynlp] Listening at localhost:8888.
 ```
 
-Pop open a new terminal and let fly:
+Pop open a new terminal:
 
 ```
 > curl -X POST --data "text=Who said there were no tornados in space?" http://localhost:8888/tokens
