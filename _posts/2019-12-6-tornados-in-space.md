@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tornadoes in space
+title: Tornados in Space
 date: 2019-12-6
 ---
 
@@ -192,7 +192,7 @@ if __name__ == "__main__":
 
 ---
 
-That's it: time to tokenenize. Who said there were no tornadoes in space?
+That's it: time to tokenenize.
 
 ```
 > (spacetornado) python src/host.py
@@ -202,7 +202,7 @@ That's it: time to tokenenize. Who said there were no tornadoes in space?
 Pop open a new terminal and let fly:
 
 ```
-> curl -X POST --data "text=Who said there were no tornadoes in space?" http://localhost:8888/tokens
+> curl -X POST --data "text=Who said there were no tornados in space?" http://localhost:8888/tokens
 > [
     {
         "text": "Who",
@@ -260,7 +260,7 @@ Pop open a new terminal and let fly:
         "stop": "True"
     },
     {
-        "text": "tornadoes",
+        "text": "tornados",
         "lemma": "tornado",
         "pos": "NOUN",
         "tag": "NNS",

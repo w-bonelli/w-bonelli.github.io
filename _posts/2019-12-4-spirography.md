@@ -1,6 +1,6 @@
 ---
 layout: post
-title: spirography
+title: Spirography
 date: 2019-12-4
 ---
 

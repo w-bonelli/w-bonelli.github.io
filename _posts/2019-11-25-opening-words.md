@@ -1,6 +1,6 @@
 ---
 layout: post
-title: opening words
+title: Opening Words
 date: 2019-11-25
 ---
 
