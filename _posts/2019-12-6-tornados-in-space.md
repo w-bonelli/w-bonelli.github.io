@@ -25,7 +25,7 @@ Next we'll install Tornado and SpaCy, then download the small version of the (En
 > (spacetornado) $ python -m spacy download en_core_web_sm
 ```
 
-Great. Now to assemble the thing. We'll have 3 little modules:
+Great. Now to assemble the thing. We'll have 3 little modules (create a directory `src/` and drop them in):
 
 - `operations.py`: SpaCy operations
 - `handlers.py`: Tornado request handlers
