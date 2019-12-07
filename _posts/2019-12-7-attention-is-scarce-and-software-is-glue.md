@@ -30,7 +30,7 @@ My mistake! I forgot to give you the context.
 
 In a not-insignificant number of nations, working professionals regularly attend conventions wherein recent advancements, issues of concern, and industry standards &mdash; or, particularly in software, "workflow optimization": the ergonomics of our prosthetic fins and flippers, more or less &mdash; consume the attention of thousands of people for three to seven days. These events are often comfortable and occasionally lavish. Most are on-site: attendees fly in from all over the country or world.
 
-Few bat an eye at this. Many circles consider it an essential form of networking. One wonders in passing whether perhaps this might not be the worst indulgence to hold remotely. But then again, someone's probably working on electric planes, and China won't stop burning coal for another 20 years, so what's my drop in the bucket?
+Few bat an eye at this. Many circles consider it an essential form of networking. One wonders in passing whether perhaps this might not be the worst indulgence to hold remotely. But then again, someone's probably working on electric planes, and what's my drop in the bucket?
 
 Some might justifiably object to what I've just said. I certainly feel ill-qualified to say it. I've done so not as a moral injunction nor because I find these events the most deserving target of ecologically-minded criticism &mdash; not by a long shot &mdash; but because
 
@@ -52,7 +52,7 @@ So claims Bendell. Morton posits in "agrilogistics" a far older demon. Denial, o
 
 We swim around in this wrinkly, porous windshield, where the air(row) we call time never stops pressing around and through us, always in the same direction: forward. From behind. Something up ahead sucks.
 
-As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable sticky glob of stuff and life. In this warming web of whatever it is we are not alone.
+As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
 
 To anthropomorphize, most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, probably ought hereforward to care deeply for non-humans and humans both if either are to thrive.
 
