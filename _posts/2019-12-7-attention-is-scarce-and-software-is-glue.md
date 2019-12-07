@@ -44,7 +44,7 @@ Every decade or so (and with increasing rapidity, of late) massive cohorts of sc
 
 This is not a paltry requisition. It is the planetary equivalent of crying "Fire!" in a crowded theater. Meanwhile the usual business marches on.
 
-> "...vast numbers of people in the West [have] a low income, long commute and little career progression. Climate change will compound their difficulties, with increasing food prices and anxieties about the future. In such a context, it is unclear whether solidarity... will be a widespread response."
+> "...vast numbers of people... [have] a low income, long commute and little career progression. Climate change will compound their difficulties, with increasing food prices and anxieties about the future. In such a context, it is unclear whether solidarity... will be a widespread response."
 
 So claims Bendell. Morton posits in "agrilogistics" a far older demon. Denial, one often hears. I think both Morton and Butler would approve of it put this way: "being ecological", for most contemporary human beings, is not an easy thing to be.
 
@@ -54,7 +54,7 @@ We swim around in a wrinkly, porous windshield, where the air(row) we call time 
 
 As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
 
-To anthropomorphize, most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, probably ought hereforward to care deeply for non-humans and humans both if either are to thrive.
+To anthropomorphize, most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, probably ought hereforward to care deeply for non-humans and humans alike if either are to thrive.
 
 We live in a dewdrop on a blade of grass. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow. So we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easy problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's kind is pushing one's planet to the brink of unlivability.
 
