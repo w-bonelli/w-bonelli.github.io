@@ -108,7 +108,7 @@ One has the feeling there's an elephant in here. But it's uneven and slippery an
 
 Are words like black holes? They open to view and close to scrutiny. What do we see when we look at them? Accretion disks, sometimes: bits of stuff, or sensations, or memories, slowly circling. Warped images from around and behind. They have gravity. They feed on &mdash; into &mdash; others of their kind.
 
-Perhaps words are sharp: they have a point. Where is it? They point fingers. Usually they sling you around between them. Occasionally they suck you in and spit you out. You're moving &mdash; really moving &mdash; and then you're out of orbit and right *here, now*. The page might swim a little. Sometimes the ears ring. There's been a disturbance in the Force. You look back at what you read. It did something to you, when you zipped through it the first time. You're pretty sure it didn't damage you; nothing hurts. But you felt something move.
+Perhaps words are sharp: they have a point. Where is it? They point fingers. Usually they sling you around between them. Occasionally they suck you in and spit you out. You're moving &mdash; really moving &mdash; and then you're out of orbit and right *here, now*. The page might swim a little. Sometimes the ears ring. There's been a disturbance in the Force. You look back at what you read. It did something to you, when you zipped through it the first time. You felt something move.
 
 ---
 
