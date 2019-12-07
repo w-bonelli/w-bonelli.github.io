@@ -27,7 +27,7 @@ Next we'll install Tornado and SpaCy, then download the small version of the (En
 
 Great. Now to assemble the thing. We'll have 3 little modules:
 
-- `operations.py`: JSONified SpaCy operations
+- `operations.py`: SpaCy operations
 - `handlers.py`: Tornado request handlers
 - `host.py`: Tornado server
 
@@ -35,7 +35,7 @@ Great. Now to assemble the thing. We'll have 3 little modules:
 
 ##### `operations.py`
 
-Here we'll wrap SpaCy with a bit of code to mold responses and return them in JSON. We'll have 4 methods:
+Here we'll wrap SpaCy with a bit of code to mold responses. We'll have 4 methods:
 
 - tokens (everything)
 - noun_chunks (all your nouns are belong to me)
@@ -44,7 +44,6 @@ Here we'll wrap SpaCy with a bit of code to mold responses and return them in JS
 
 ```
 import spacy
-import json
 
 # Load the SpaCy model
 
@@ -88,21 +87,20 @@ def __mapSimilarity(left, right):
         'similarity'	: left.similarity(right)
     }
 
-# Define the operations. Pretty straightforward: just map each object to its
-# custom projection, then convert it to pretty-indented JSON. In the first 3
-# operations we're returning arrays; in `similarity` we're returning an object.
+# Define the operations. In the first 3 operations we're returning
+# arrays; in `similarity` we're returning a single object.
 
 def tokens(text):
-    return json.dumps([__mapToken(token) for token in nlp(text)]k, indent=4)
+    return [__mapToken(token) for token in nlp(text)]
 
 def noun_chunks(text):
-    return json.dumps([__mapNounChunk(chunk) for chunk in nlp(text).noun_chunks], indent=4)
+    return [__mapNounChunk(chunk) for chunk in nlp(text).noun_chunks]
 
 def entities(text):
-    return json.dumps([__mapEntity(entity) for entity in nlp(text).ents], indent=4)
+    return [__mapEntity(entity) for entity in nlp(text).ents]
 
 def similarity(left, right):
-    return json.dumps(__mapSimilarity(nlp(left), nlp(right)), indent=4)
+    return __mapSimilarity(nlp(left), nlp(right))
 ```
 
 ##### `handlers.py`
@@ -110,6 +108,7 @@ def similarity(left, right):
 Here we'll hook each operation into a Tornado request handler.
 
 ```
+import json
 import tornado.web
 import operations
 
@@ -122,25 +121,25 @@ content_type = "Content-Type", "application/json"
 class Tokens(tornado.web.RequestHandler):
     def post(self):
         self.set_header(content_type[0], content_type[1])
-        self.write(ops.tokens(self.get_body_argument("text")))
+        self.write(json.dumps(operations.tokens(self.get_body_argument("text")), indent=4))
 
 class NounChunks(tornado.web.RequestHandler):
     def post(self):
         self.set_header(content_type[0], content_type[1])
-        self.write(ops.noun_chunks(self.get_body_argument("text")))
+        self.write(json.dumps(operations.noun_chunks(self.get_body_argument("text")), indent=4))
 
 class Entities(tornado.web.RequestHandler):
     def post(self):
         self.set_header(content_type[0], content_type[1])
-        self.write(ops.entities(self.get_body_argument("text")))
+        self.write(json.dumps(operations.entities(self.get_body_argument("text")), indent=4))
 
 class Similarity(tornado.web.RequestHandler):
     def get(self):
         self.set_header(content_type[0], content_type[1])
-        self.write(ops.similarity(self.get_query_argument("left"), self.get_query_argument("right")))
+        self.write(json.dumps(operations.similarity(self.get_query_argument("left"), self.get_query_argument("right")), indent=4))
     def post(self):
         self.set_header(content_type[0], content_type[1])
-        self.write(ops.similarity(self.get_body_argument("left"), self.get_body_argument("right")))
+        self.write(json.dumps(operations.similarity(self.get_body_argument("left"), self.get_body_argument("right")), indent=4))
 ```
 
 ##### `host.py`
@@ -154,7 +153,7 @@ import tornado.web
 import spacy
 import handlers
 
-# Production-ready configuration solution
+# Production-ready configuration solution :)
 
 host = "localhost"
 port = "8888"
