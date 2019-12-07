@@ -56,7 +56,7 @@ As Morton points out, wicked problems tend to be things we're on the insides of:
 
 To anthropomorphize, most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, probably ought hereforward to care deeply for non-humans and humans both if either are to thrive.
 
-We live in a dewdrop on a blade of grass. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow. So we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easy problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's civilization is pushing one's planet to the brink of unlivability.
+We live in a dewdrop on a blade of grass. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow. So we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easy problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's kind is pushing one's planet to the brink of unlivability.
 
 ---
 
