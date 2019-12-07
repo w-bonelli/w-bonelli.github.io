@@ -4,7 +4,7 @@ title: Tornados in Space
 date: 2019-12-6
 ---
 
-Natural language is cool! So is [SpaCy](https://spacy.io/). Say we want a quick way to analyze snippets of text from diverse environments. Let's hide SpaCy behind a little [Tornado](https://github.com/tornadoweb/tornado/blob/stable/docs/index.rst) API and call it `spacetornado` or something. We'll need a Unix terminal and some version of Python 3.
+Say we want a quick way to analyze snippets of text from diverse environments. Let's hide [SpaCy](https://spacy.io/) behind a little [Tornado](https://github.com/tornadoweb/tornado/blob/stable/docs/index.rst) API and call it, like, `spacetornado`. Yeah. We'll need a Unix terminal and some version of Python 3.
 
 ---
 

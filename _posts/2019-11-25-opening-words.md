@@ -104,9 +104,9 @@ Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.p
 
 ---
 
-One has the feeling there's an elephant in here. But it's uneven and slippery and one can't really see it. Parts of it are prickly. Sometimes one feels tempted to stop struggling. It's a bit like ironing a stubborn shirt: one can only get the kinks out of one or two regions of the fabric at once. The wrinkles don't disappear. They just show up elsewhere.
+One has the feeling there's an elephant in here. But it's uneven and slippery and one can't really see it. Parts of it are prickly. It's a bit like ironing a stubborn shirt: one can only get the kinks out of one or two strips of the fabric at once. The wrinkles don't disappear. They just show up elsewhere.
 
-Are words like black holes? They open to view and close to scrutiny. What do we see when we look at them? Accretion disks, sometimes: bits of stuff, or sensations, or memories, slowly circling. Warped images from around and behind. They have gravity. They feed on &mdash; into &mdash; others of their kind.
+Words open to view and close to scrutiny. What do we see when we look at them? Accretion disks, sometimes: bits of stuff, or sensations, or memories, slowly circling. Warped images from around and behind. They have gravity. They feed on &mdash; into &mdash; others of their kind.
 
 Perhaps words are sharp: they have a point. Where is it? They point fingers. Usually they sling you around between them. Occasionally they suck you in and spit you out. You're moving &mdash; really moving &mdash; and then you're out of orbit and right *here, now*. The page might swim a little. Sometimes the ears ring. There's been a disturbance in the Force. You look back at what you read. It did something to you, when you zipped through it the first time. You felt something move.
 

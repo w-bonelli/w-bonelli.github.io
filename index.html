@@ -4,27 +4,6 @@ title: Home
 ---
 
 <div class="container-fluid">
-    <b>Contact</b>
-    <hr>
-    <div class="row">
-        <div class="col-md-auto">
-            <i>email</i>
-            <ul>
-                <li><a href="mailto:wpbonelli@gmail.com">wpbonelli@gmail.com</a></li>
-                <li><a href="mailto:wpb3hw@virginia.edu">wpb3hw@virginia.edu</a></li>
-            </ul>
-        </div>
-        <div class="col-md-auto">
-            <i>web</i>
-            <ul>
-                <li><a href="https://github.com/w-bonelli">Github</a></li>
-                <li><a href="https://www.linkedin.com/in/wesley-bonelli">LinkedIn</a></li>
-                <li><a href="https://www.researchgate.net/profile/Wes_Bonelli">ResearchGate</a></li>
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="container-fluid">
     <b>Posts</b>
     <hr>
     <ul>
@@ -39,17 +18,15 @@ title: Home
     <ul>
         {% for project in site.projects %}
             <li>
-                <a href="{{ project.link }}">{{ project.name }}</a> {{ project.descr }} <i>{{ project.role }}</i>
+                <a href="{{ project.link }}">{{ project.name }}</a> {{ project.descr }}
             </li>
         {% endfor %}
     </ul>
 </div>
 <div class="container-fluid">
-    <b>Publications</b>
+    <b>Not a Robot</b>
     <hr>
     <ul>
-        {% for publication in site.publications %}
-            <li>{{ publication.content }}</li>
-        {% endfor %}
+        <li><a href="mailto:ecusfujzxopoegsy@protonmail.com">ecusfujzxopoegsy@protonmail.com</a></li>
     </ul>
 </div>
