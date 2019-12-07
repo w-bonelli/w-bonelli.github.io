@@ -46,7 +46,7 @@ Faraday did convince himself, in the end.[^2] [Tong puts it well](https://youtu.
 
 > "...this was Farraday's genius: to appreciate that, even though you can't see anything in between [two magnets] &mdash; even though, no matter how closely you look, the space between the magnets will seem to be empty &mdash; there's something real there."[^5]
 
-Is it then inevitable that there exist regions of reality which we cannot directly or do not typically sense? This is not a new idea: much modern science rests on [constructs](https://en.wikipedia.org/wiki/Construct_(philosophy)) measured exclusively by proxy. Of hierarchical systems, [Dijkstra posits](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html):
+Is it then inevitable that there exist regions of reality which we cannot directly or do not typically sense? Does science rest necessarily on [constructs](https://en.wikipedia.org/wiki/Construct_(philosophy)) measured by proxy? Of hierarchical systems, [Dijkstra posits](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html):
 
 > "...the number of levels that can be distinguished meaningfully... is kind of proportional to the logarithm of the ratio between the largest and the smallest grain."[^6]
 
