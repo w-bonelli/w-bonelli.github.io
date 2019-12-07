@@ -160,7 +160,7 @@ port = "8888"
 
 # Ready the loggers
 
-logger = logging.getLogger('spacynlp')
+logger = logging.getLogger('spacetornado')
 
 def loggers():
     handler = logging.StreamHandler()
@@ -195,7 +195,7 @@ That's it: time to tokenize.
 
 ```
 > (spacetornado) python src/host.py
-> 2019-12-06 21:17:28,540 INFO [spacynlp] Listening at localhost:8888.
+> 2019-12-06 21:17:28,540 INFO [spacetornado] Listening at localhost:8888.
 ```
 
 Pop open a new terminal:
