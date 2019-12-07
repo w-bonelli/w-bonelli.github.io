@@ -40,7 +40,7 @@ Some might justifiably object to what I've just said. I certainly feel ill-quali
 
 Every decade or so (and with increasing rapidity, of late) massive cohorts of scientists attach their names and reputations to documents which urge more or less explicitly:
 
-> If we don't get a grip, bad things will happen. Huge chunks of the planet &mdash; if not all of it &mdash; could become uninhabitable.
+> If we don't get a grip, bad things will happen. Huge chunks of the planet &mdash; maybe all of it &mdash; could become uninhabitable.
 
 This is not a paltry requisition. It is the planetary equivalent of crying "Fire!" in a crowded theater. Meanwhile the usual business marches on.
 
