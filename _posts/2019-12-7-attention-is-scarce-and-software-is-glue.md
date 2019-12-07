@@ -36,7 +36,7 @@ Some might justifiably object to what I've just said. I certainly feel ill-quali
 
 1. I've been to them (and so occupy no privileged critical stance), and
 
-2. they bespeak the fact that to behavioral change cultural inertia often exhibits apparently inexplicable ambivalence.
+2. they bespeak the fact that to behavioral change cultural inertia often exhibits ambivalence or hostility.
 
 Every decade or so (and with increasing rapidity, of late) massive cohorts of scientists attach their names and reputations to documents which urge more or less explicitly:
 
