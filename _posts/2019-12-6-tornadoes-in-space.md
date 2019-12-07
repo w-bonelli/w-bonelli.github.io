@@ -4,7 +4,7 @@ title: tornadoes in space
 date: 2019-12-6
 ---
 
-Natural language is cool! So is [SpaCy](https://spacy.io/). Say we want a quick way to analyze snippets of text without Python. Let's hide SpaCy behind a little [Tornado](https://github.com/tornadoweb/tornado/blob/stable/docs/index.rst) API. Call it `spacetornado` or something. We'll need some version of Python 3 before we can begin.
+Natural language is cool! So is [SpaCy](https://spacy.io/). Say we want a quick way to analyze snippets of text without Python. Let's hide SpaCy behind a little [Tornado](https://github.com/tornadoweb/tornado/blob/stable/docs/index.rst) API and call it `spacetornado` or something. We'll need a Unix terminal and some version of Python 3.
 
 ---
 
@@ -113,7 +113,7 @@ Here we'll hook each operation into a Tornado request handler.
 import tornado.web
 import operations
 
-# JSON for everybody!
+# JSON for everyone!
 
 content_type = "Content-Type", "application/json"
 
