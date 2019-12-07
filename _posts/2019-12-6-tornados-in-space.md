@@ -105,7 +105,7 @@ def similarity(left, right):
 
 ##### `handlers.py`
 
-Here we'll hook each operation into a Tornado request handler.
+Here we'll hook each operation into a Tornado request handler and convert it to pretty-indented JSON.
 
 ```
 import json
