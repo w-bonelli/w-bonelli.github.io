@@ -17,7 +17,6 @@
   font-weight: 900;
   height: 40px;
   padding-left:0px;
-  padding-top: 50px;
   color: #66ff99;
   background-color: black;
 }
@@ -37,6 +36,7 @@
 }
 
 body {
+    margin-top: 1em;
     font-family: $font-family;
     background-color: black;
 }
