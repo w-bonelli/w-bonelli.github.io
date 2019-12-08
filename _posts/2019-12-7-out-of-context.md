@@ -10,7 +10,7 @@ This post's content may be challenging to engage with. It is for me.
 
 > "The wish to found action on perfect insight means to nip it in the bud. Politics are action, always built on inadequate survey. But a world-view, too, is action; embracing the manifold universe is an anticipation of unpredictable efforts. In the end all our thinking depends on such inadequacies. We must advance, even without certainty! The only question is whether we are aware of it or not." - Otto Neurath
 
-Attention is scarce and software is glue. It sticks: to minds and bodies and things. And to itself. It gets kinky. The art of untangling knots &mdash; there's no keeping them out &mdash; is called "managing complexity". This is hard to do. It's made increasingly difficult by the late profusion of people and tools with which people program themselves.
+Attention is scarce and software is glue. It sticks: to minds and bodies and things. And to itself. It gets kinky. The art of untangling knots &mdash; there's no keeping them out &mdash; is called "managing complexity". This is hard to do. It's made increasingly difficult by the late profusion of machinery with which people program themselves.
 
 Good jokes turn on grains of truth. Here's one: software engineers tend to secrete more complexity than they absorb. In this I am thus far no exception. Even so, the old tale about digging a moat for occupational security seems less true of the individual &mdash; though they certainly may be out there &mdash; than of the industry. Of industry itself, maybe.
 
@@ -32,11 +32,11 @@ In a not-insignificant number of nations, working professionals regularly attend
 
 Few bat an eye at this. Many circles consider it an essential form of networking. One wonders in passing whether perhaps this might not be the worst indulgence to hold remotely. But then again, someone's probably working on electric planes, and what's my drop in the bucket?
 
-Some might justifiably object to what I've just said. I certainly feel ill-qualified to say it. I've done so not as a moral injunction nor because I find these events the most deserving target of ecologically-minded criticism &mdash; not by a long shot &mdash; but because
+There exist many eminently reasonable objections to what I've just said. I am without doubt ill-qualified to say it. I've done so neither as an injunction nor because I find these specific phenomena the most deserving of redress &mdash; not by a long shot &mdash; but because
 
 1. I've been to them (and so occupy no privileged critical stance), and
 
-2. they bespeak the fact that to behavioral change cultural inertia often exhibits ambivalence or hostility.
+2. they bespeak something like cultural inertia: socially-reinforced ambivalence to behavior alteration whose subdued expression goes largely unnoticed or unspoken.
 
 Every decade or so (and with increasing rapidity, of late) massive cohorts of scientists attach their names and reputations to documents which urge more or less explicitly:
 
@@ -46,23 +46,22 @@ This is not a paltry requisition. It is the planetary equivalent of crying "Fire
 
 > "...vast numbers of people... [have] a low income, long commute and little career progression. Climate change will compound their difficulties, with increasing food prices and anxieties about the future. In such a context, it is unclear whether solidarity... will be a widespread response."
 
-So claims Bendell. Morton posits in "agrilogistics" a far older demon. Denial, one often hears. I think both Morton and Butler would approve of it put this way: "being ecological", for most contemporary human beings, is not an easy thing to be.
-
----
-
-We swim in a wrinkly, porous windshield. The air(row) we call time presses through us always in the same direction: forward. From behind. Something up ahead sucks.
-
-As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
-
-To anthropomorphize, most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, probably ought hereforward to care deeply for non-humans and humans alike if either are to thrive.
-
-We live in a dewdrop on a blade of grass. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow. So we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easy problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's kind is pushing one's planet to the brink of unlivability.
+So claims Bendell. Morton posits in "agrilogistics" a far older demon. Denial, one often hears. I think both Morton and Butler would approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
 ---
 
 Resisting inertia is hard. It's not so difficult to imagine alternatives. What's hard is to pull out of one groove and into another. It's like climbing out of a hole. To disengage from a gravity well and skip out into the space between them, we execute controlled thrusts. Getting the trajectory right isn't easy, nor is coordinating all the little nozzles to point in the same direction.
 
-We're like fish. Ponds dot the landscape. Maybe the one we're stuck in is stagnant and a little rancid. We can try to flop into another one &mdash; sort of *heave*, with the tail &mdash; but we're disadvantageously equipped for this sort of locomotion.
+We're like fish. Ponds dot the landscape. We're turning ours a little rancid. Some of us are trying to flop to another one &mdash; sort of *heave*, with the tail &mdash; but we're disadvantageously equipped for that sort of locomotion. Others look to be constructing filters. Some, in the milder areas, have gone strangely still: conserving energy, maybe. Buying time. Countless elsewhere struggle for life even now.
 
-You know how the story goes, though. Fish grow legs.
+You know how it goes with fish. Give them long enough and they grow lungs and legs. How long do we have?
 
+---
+
+As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
+
+We live in a dewdrop on a blade of grass. The air(row) we call time presses through us always in the same direction: forward. From behind. Something up ahead must suck. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow. So we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easy problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's kind is pushing one's planet to the brink of unlivability.
+
+To anthropomorphize: most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, probably ought hereforward to care for non-humans and humans alike if either are to thrive.
+
+How best to do so is another question altogether. I have no pet "solution" to push, but I do think it's worth thinking (and talking) about.
