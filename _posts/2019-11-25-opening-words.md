@@ -4,25 +4,30 @@ title: Opening Words
 date: 2019-11-25
 ---
 
+<div class="btn-group" role="group">
+<button type="button" class="btn btn-dark" onclick="nounChunks()">Noun Chunks</button>
+<button type="button" class="btn btn-dark" onclick="entities()">Entities</button>
+<button type="button" class="btn btn-dark" onclick="similarity()">Similarity</button>
+</div>
+<svg id="multiplier" class="container-fluid"></svg>
+
 Are words real?
 
 Perhaps they are, you respond. Take fiction. One can hold it in one's hand. Look: here's a *Chronicles of Narnia*. C.S. Lewis was real, and so are his words, and so are his books. I own a few of them.
 
 But what of the ideas? The characters? The worlds? Are they real?
 
-Ah, now, surely not, you say. One shan't meet Aslan nor find Narnia no matter how many wardrobes one wanders into. Then again, one might find the good lion on an article of childrens' clothing, or a lunchbox. But no matter. Fiction is born in the imagination, and what happens in the imagination isn't real.
+Ah, now, surely not, you say. One shan't meet Aslan nor find Narnia no matter how many wardrobes one wanders into. Then again, one might encounter the good lion on an article of childrens' clothing, or a lunchbox. But fiction is born in the imagination, and what's imagined isn't real.
 
-Well, I say, I'm stymied. Here before us lies a thing with which we decorate our children and their accessories. It's all in one's head? It isn't real?
+Well, I say, I'm stymied. Here before us lies a thing with which we decorate our children and their accessories. It's not real? It's all in one's head?
 
-Don't be ridiculous, you might sputter. Clearly it is real, in a way. Lewis thought about it, then wrote about it, then millions read him and thought about it some more. A film and plenty of merchandise were made. Aslan the *idea* is real. Aslan the *lion* is not. On this we agree, yes?
+Don't be ridiculous, you sputter. Of course it's real. Lewis thought about it, then wrote about it, then millions read him and thought about it some more. A film and plenty of profitable merchandise were made. Aslan the *idea* is real. Aslan the *lion* is not. On this we agree, yes?
 
-Well, sure. But consider what we've just said: Aslan the *idea* is real, and Aslan the *lion* is not. What is Aslan the lion?
-
-One might be forgiven for losing patience with this extended dramatization. I'm being deliberately dense, one might judge. This is not unreasonable.
+Well, I might press, what's Aslan the *lion* if not an *idea*? at which point one might be forgiven for flying into a rage or, at least, abandoning the conversation.
 
 ---
 
-Again: are words real?
+Are words real?
 
 The causalist, Hacking tells us[^2], might say yes. Like electrons, we can spray them at things with consistent results. For instance, I can spew "Don't pay attention to your tongue" into the void and thus ensure you'll do the opposite. Other things, like Yeti or *later* (as in, "I'll do it later"), aren't real, because we can't seem to locate or deploy them predictably. Where we can point to a cause, per this view, we can say a thing is real.
 
@@ -34,7 +39,7 @@ Says Nietzsche:
 
 > "What is a word? The image of a nerve stimulus in sounds."[^1]
 
-Do words (and the mental models they encode) simply stand in for otherwise unmanageable complexity? Do words ever cause things to happen? Did you become aware of your tongue because I told you not to? Because some arcane symbols I arranged caused your neurons to fire in a peculiar way? Because the force-field ripples we call particles obeyed the rules physicists have so meticulously derived for them? What does it mean to think causality at diverse scales?
+Do words (and the mental models they encode) simply stand in for otherwise unmanageable complexity? Do words ever cause things to happen? Did you become aware of your tongue because I told you not to? Because some arcane symbols I arranged caused your neurons to fire in a peculiar way? Because the force-field ripples we call particles obeyed the rules physicists have so meticulously derived for them?
 
 In certain situations, Hofstadter points out,
 
@@ -46,13 +51,13 @@ Faraday did convince himself, in the end.[^2] [Tong puts it well](https://youtu.
 
 > "...this was Farraday's genius: to appreciate that, even though you can't see anything in between [two magnets] &mdash; even though, no matter how closely you look, the space between the magnets will seem to be empty &mdash; there's something real there."[^5]
 
-Is it then inevitable that there exist regions of reality which we cannot directly or do not typically sense? Does science rest necessarily on [constructs](https://en.wikipedia.org/wiki/Construct_(philosophy)) measured by proxy? Of hierarchical systems, [Dijkstra posits](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html):
+Does knowledge rest necessarily on [constructs](https://en.wikipedia.org/wiki/Construct_(philosophy)) measured by proxy? Of hierarchical systems, [Dijkstra posits](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html):
 
 > "...the number of levels that can be distinguished meaningfully... is kind of proportional to the logarithm of the ratio between the largest and the smallest grain."[^6]
 
-How ought we determine whether the grains we think we observe &mdash; from quarks, to fields of force, to ideas, to words, to wills, to identities, to ideologies, to values, to social facts, to cities, to cultures, to corporations and nations, to black holes, to dark matter, and so on &mdash; correspond sufficiently closely to *real* things they purport to denote? Do we not increasingly negotiate (and shape) consensus reality with language? How to avoid fallacies of reification? How to understand the various interwoven techniques of vocalization, inscription, transmission, and computation which have blossomed from the first words spoken some hundred thousand years ago?
+How ought we determine whether the grains we observe correspond sufficiently closely to *real* things they purport to denote? Do we not increasingly negotiate (and shape) consensus reality with language? How to avoid fallacies of reification? How to understand the various interwoven techniques of vocalization, inscription, transmission, and computation which have blossomed so vigorously from the first words spoken some hundred thousand years ago?
 
-Might [Box's aphorism](https://en.wikipedia.org/wiki/All_models_are_wrong) help? He and Lucěno contend that
+[Box](https://en.wikipedia.org/wiki/All_models_are_wrong) and Lucěno contend that
 
 > "...any model is at best a useful fiction... Nevertheless enormous progress has been made by entertaining such fictions and using them as approximations."[^7]
 
@@ -61,8 +66,6 @@ Affirms Morton:
 > "The first task is to abolish the idea of the possibility of a metalanguage that could account for things while remaining uncontaminated by them... [but] some metaphors are better than others."[^8]
 
 ---
-
-Words refract, I think. They glow faintly. Some, like "red", twinkle in ways no one can precisely characterize except that they're *just so* &mdash; unless one feels that "the subjective quality of the visual experience of electromagnetic radiation with wavelength between 625 and 740 nanometers" is all there is to say about it. In any case none emit light themselves. Things and beings do. Words bend it and slice it. Negative spaces emerge: distinctions. It's hard to see the lines, though. It's dark in here. The light flickers.
 
 Marx, at least in his youth, held:
 
@@ -88,6 +91,10 @@ Heidegger tried anyway (here I conceal the object of his discussion, since it is
 
 > "We are now no longer interpreting [X] in terms of [Y], nor comparing it with [Z]... Although we dealt directly with [X] itself - indeed precisely because of this - we have shirked in the face of [X]. We have indeed not spoken of other things... but of [X] yet not directly and concretely from *out of it*, but *about it*."[^12]
 
+Words open to survey and close to scrutiny. What does one see when one looks at them? Accretion disks, sometimes: bits of stuff, or sensations, or memories, slowly circling. Warped images from around and behind. They feed on &mdash; into &mdash; others of their kind.
+
+Some are sharp: they have a point. Where is it? They point fingers. Usually you're slung around between them. Occasionally you're sucked in and spit out. You're zipping along and then suddenly you're out of orbit and *here, now*. The page might swim. There's been a disturbance in the Force. You look back at what you read. It did something to you. You felt something move.
+
 ---
 
 Formal systems, like natural languages, are shifty. Godel interrogated them and found their self-descriptions incomplete. Tarski proved them incapable of defining their motives. Said Poincare:
@@ -102,13 +109,11 @@ Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.p
 
 > "To define the [words] we intend to study, we often &mdash; perhaps always &mdash; first make it understood, more implicitly than explicitly, how we intend these [words] to be presented to us, thereby delineating a kind of super-[word]; that is, a species of [word] garnished with a repertoire of modes of presentation. Only once this is done do we try to erase the scaffolding of the presentation, to say when two of these super-[words] &mdash; possibly presented to us in wildly different ways &mdash; are to be considered equal. In this oblique way, the [words] that we truly want enter the scene only defined as equivalence classes of explicitly presented [words]. That is, as specifically presented [words] with the specific presentation ignored, in the spirit of 'ham and eggs, but hold the ham.'"[^14]
 
----
+Words refract, I think. Some, like "red", twinkle in ways no one can precisely characterize except that they're *just so* &mdash; unless one feels that "the subjective quality of the visual experience of electromagnetic radiation with wavelength between 625 and 740 nanometers" is all there is to say about it.
 
-One has the feeling there's an elephant in here. But it's uneven and slippery and one can't really see it. Parts of it are prickly. It's a bit like ironing a stubborn shirt: one can only get the kinks out of one or two strips of the fabric at once. The wrinkles don't disappear. They just show up elsewhere.
+In any case none emit light themselves. Things and beings do. Words bend it and slice it. Negative spaces emerge: distinctions. It's hard to see the lines, though. It's dark and the light flickers.
 
-Words open to view and close to scrutiny. What do we see when we look at them? Accretion disks, sometimes: bits of stuff, or sensations, or memories, slowly circling. Warped images from around and behind. They have gravity. They feed on &mdash; into &mdash; others of their kind.
-
-Perhaps words are sharp: they have a point. Where is it? They point fingers. Usually they sling you around between them. Occasionally they suck you in and spit you out. You're moving &mdash; really moving &mdash; and then you're out of orbit and right *here, now*. The page might swim a little. Sometimes the ears ring. There's been a disturbance in the Force. You look back at what you read. It did something to you, when you zipped through it the first time. You felt something move.
+One has the feeling there's an elephant in here. But it's uneven and slippery and parts of it are prickly. It's a bit like ironing a stubborn shirt: one can only get the kinks out of one or two strips of fabric at once. The wrinkles don't disappear. They just show up somewhere else.
 
 ---
 
@@ -139,3 +144,9 @@ Perhaps words are sharp: they have a point. Where is it? They point fingers. Usu
 [^13]: Eves, Howard. *Foundations and Fundamental Concepts of Mathematics.* 1958.
 
 [^14]: Mazur, Barry. *When is one thing equal to some other thing?* 12 June 2007.
+
+ <script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+
+</script>
