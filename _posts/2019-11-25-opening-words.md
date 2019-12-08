@@ -4,13 +4,6 @@ title: Opening Words
 date: 2019-11-25
 ---
 
-<div class="btn-group" role="group">
-<button type="button" class="btn btn-dark" onclick="nounChunks()">Noun Chunks</button>
-<button type="button" class="btn btn-dark" onclick="entities()">Entities</button>
-<button type="button" class="btn btn-dark" onclick="similarity()">Similarity</button>
-</div>
-<svg id="multiplier" class="container-fluid"></svg>
-
 Are words real?
 
 Perhaps they are, you respond. Take fiction. One can hold it in one's hand. Look: here's a *Chronicles of Narnia*. C.S. Lewis was real, and so are his words, and so are his books. I own a few of them.
@@ -145,8 +138,3 @@ One has the feeling there's an elephant in here. But it's uneven and slippery an
 
 [^14]: Mazur, Barry. *When is one thing equal to some other thing?* 12 June 2007.
 
- <script src="https://d3js.org/d3.v4.min.js"></script>
-<script>
-
-
-</script>
