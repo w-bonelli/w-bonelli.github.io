@@ -10,11 +10,11 @@ This post's content may be challenging to engage with. It is for me.
 
 > "The wish to found action on perfect insight means to nip it in the bud. Politics are action, always built on inadequate survey. But a world-view, too, is action; embracing the manifold universe is an anticipation of unpredictable efforts. In the end all our thinking depends on such inadequacies. We must advance, even without certainty! The only question is whether we are aware of it or not." - Otto Neurath
 
-Attention is scarce and software is glue. It sticks: to minds and bodies and things. And to itself. It gets kinky. The art of untangling knots &mdash; there's no keeping them out &mdash; is called "managing complexity". This is hard to do. It's made increasingly difficult by the late profusion of people and computers and tools with which people program themselves.
+Attention is scarce and software is glue. It sticks: to minds and bodies and things. And to itself. It gets kinky. The art of untangling knots &mdash; there's no keeping them out &mdash; is called "managing complexity". This is hard to do. It's made increasingly difficult by the late profusion of people and tools with which people program themselves.
 
 Good jokes turn on grains of truth. Here's one: software engineers tend to secrete more complexity than they absorb. In this I am thus far no exception. Even so, the old tale about digging a moat for occupational security seems less true of the individual &mdash; though they certainly may be out there &mdash; than of the industry. Of industry itself, maybe.
 
-Software, like language, depends on context. On this nearly everybody agrees. The proper balance of implicit and explicit detail to hold in view at any one time, however, is hotly debated.
+Software, like language, depends on context. On this nearly everyone agrees. The proper balance of implicit and explicit detail to hold in view at any one time, however, is hotly debated.
 
 Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated silliness in one's face. It's justified, asserts the KISSer, because there must exist local complexity in order to engender global simplicity. Boilerplate is preferable to bespoke abstraction.
 
