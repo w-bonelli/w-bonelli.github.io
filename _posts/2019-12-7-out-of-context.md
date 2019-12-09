@@ -18,7 +18,7 @@ Software, like language, depends on context. On this nearly everyone agrees. The
 
 Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated shit in one's face. It's justified, asserts the KISSer, because a tolerance for local complexity engenders global simplicity. Boilerplate is usually preferable to bespoke abstraction.
 
-On the other side of the room cluster several ragged groups. All stand united by a steadfast refusal to type more than necessary. Some nurse a suspicion that complexity arises when simplicity is proferred undue priority. One or two wonder whether everybody truly disagrees after all.
+On the other side of the room cluster several ragged groups. All stand united by a steadfast refusal to type more than necessary. Some nurse a suspicion that complexity arises when simplicity is proferred undue priority. One or two wonder aloud whether everybody truly disagrees after all.
 
 Some few stand independent of the cliques. These are sullen or enigmatic types who will not be retained by ping-pong and beer. A couple have fallen asleep. Two more whisper between themselves about "trustless protocols" and "principles". One peers at you furtively.
 
