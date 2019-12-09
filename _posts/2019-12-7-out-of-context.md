@@ -16,7 +16,7 @@ Good jokes turn on grains of truth. Here's one: software engineers tend to secre
 
 Software, like language, depends on context. On this nearly everyone agrees. The proper balance of implicit and explicit detail to hold in view at any one time, however, is hotly debated.
 
-Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated silliness in one's face. It's justified, asserts the KISSer, because there must exist local complexity in order to engender global simplicity. Boilerplate is preferable to bespoke abstraction.
+Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated shit in one's face. It's justified, asserts the KISSer, because there must exist local complexity to engender global simplicity. Boilerplate is usually preferable to bespoke abstraction.
 
 On the other side of the room cluster several ragged groups. All stand united by a steadfast refusal to type more than necessary. Some nurse a suspicion that complexity arises when simplicity is proferred undue priority.
 
@@ -36,9 +36,9 @@ There exist many eminently reasonable objections to what I've just said. I am wi
 
 1. I've been to them (and so occupy no privileged critical stance), and
 
-2. they bespeak something like cultural inertia: socially-reinforced ambivalence to behavior alteration whose subdued expression goes largely unnoticed or unspoken.
+2. they bespeak a far larger form of cultural-material inertia wherein habits of thought and behavior enmesh themselves in the physical world and are subsequently reinforced by social convention, sunk costs, and silence.
 
-Every decade or so (and with increasing rapidity, of late) massive cohorts of scientists attach their names and reputations to documents which urge more or less explicitly:
+With increasing frequency and urgency, massive cohorts of scientists &mdash; many of whom, for utterly defensible reasons of technical development or academic standing, fly regularly to and from conferences &mdash; attach their names and reputations to documents which urge more or less explicitly:
 
 > If we don't get a grip, bad things will happen. Huge chunks of the planet &mdash; maybe all of it &mdash; could become uninhabitable.
 
@@ -48,20 +48,18 @@ This is not a paltry requisition. It is the planetary equivalent of crying "Fire
 
 So claims Bendell. Morton posits in "agrilogistics" a far older demon. Denial, one often hears. I think both Morton and Butler would approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
+As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
+
+We live in a dewdrop on a blade of grass. The air(row) we call time presses through us always in the same direction: forward. From behind. Something up ahead must suck. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow, so we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easy problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's kind is pushing one's planet to the brink of unlivability.
+
+To anthropomorphize: most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, probably ought hereforward to care for non-humans and humans alike if either are to thrive.
+
+How best to do so is another question altogether.
+
 ---
 
 Resisting inertia is hard. It's not so difficult to imagine alternatives. What's hard is to pull out of one groove and into another. It's like climbing out of a hole. To disengage from a gravity well and skip out into the space between them, we execute controlled thrusts. Getting the trajectory right isn't easy, nor is coordinating all the little nozzles to point in the same direction.
 
-We're like fish. Ponds dot the landscape. We're turning ours a little rancid. Some of us are trying to flop to another one &mdash; sort of *heave*, with the tail &mdash; but we're disadvantageously equipped for that sort of locomotion. Others look to be constructing filters. Some, in the milder areas, have gone strangely still: conserving energy, maybe. Buying time. Countless elsewhere struggle for life even now.
+We're like fish. Ponds dot the landscape. Seems we're turning ours a little rancid. Some of us are trying to flop to another one &mdash; sort of *heave*, with the tail &mdash; but we're disadvantageously equipped for that sort of locomotion. Others look to be constructing filters. Some, in the milder areas, have gone strangely still: conserving energy, maybe. Buying time. Countless elsewhere struggle for life even now.
 
 You know how it goes with fish. Give them long enough and they grow lungs and legs. How long do we have?
-
----
-
-As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
-
-We live in a dewdrop on a blade of grass. The air(row) we call time presses through us always in the same direction: forward. From behind. Something up ahead must suck. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow. So we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easy problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's kind is pushing one's planet to the brink of unlivability.
-
-To anthropomorphize: most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, probably ought hereforward to care for non-humans and humans alike if either are to thrive.
-
-How best to do so is another question altogether. I have no pet "solution" to push, but I do think it's worth thinking (and talking) about.
