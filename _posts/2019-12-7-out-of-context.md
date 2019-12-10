@@ -32,7 +32,7 @@ My mistake! I forgot to give you the context.
 
 In a not-insignificant number of nations, working professionals regularly attend conventions wherein recent advancements, issues of concern, and industry standards &mdash; or, particularly in software, "workflow optimization": the ergonomics of our prosthetic fins and flippers, more or less &mdash; consume the attention of thousands of people for three to seven days. These events are often comfortable and occasionally lavish. Most are on-site: attendees fly in from all over the country or world.
 
-Few bat an eye at this. Many circles consider it an essential form of networking. One wonders in passing whether perhaps this might not be the worst indulgence to hold remotely. But then again, someone's probably working on electric planes, and what's my drop in the bucket?
+Few bat an eye at this. Many circles consider it an essential form of networking. It strikes one in passing that this might not be the worst indulgence to hold remotely, but then again, someone's probably working on electric planes, and what's my drop in the bucket?
 
 There exist many eminently reasonable objections to what I've just said. I am without doubt ill-qualified to say it. I've done so neither as an injunction nor because I find these specific phenomena the most deserving of redress &mdash; not by a long shot &mdash; but because
 
