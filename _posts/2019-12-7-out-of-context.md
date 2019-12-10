@@ -36,7 +36,7 @@ There exist many eminently reasonable objections to what I've just said. I am wi
 
 1. I've been to them (and so occupy no privileged critical stance), and
 
-2. they bespeak a far larger form of cultural-material inertia wherein habits of thought and behavior enmesh themselves in the physical world and are subsequently reinforced by social convention, sunk costs, and silence.
+2. they bespeak a far larger form of stickiness wherein habits of thought and behavior enmesh themselves in the physical world and are reinforced by social convention, sunk costs, and silence.
 
 With increasing frequency and urgency, massive cohorts of scientists &mdash; many of whom, for utterly defensible reasons of technical development or academic standing, fly regularly to and from conferences &mdash; attach their names and reputations to documents which urge more or less explicitly:
 
@@ -52,13 +52,13 @@ As Morton points out, wicked problems tend to be things we're on the insides of:
 
 We live in a dewdrop on a blade of grass. The air(row) we call time presses through us always in the same direction: forward. From behind. Something up ahead must suck. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow, so we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easy problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's kind is pushing one's planet to the brink of unlivability.
 
-To anthropomorphize: most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, probably ought hereforward to care for non-humans and humans alike if either are to thrive.
+To anthropomorphize: most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, appear obliged hereforward to care for non-humans and humans alike if either are to thrive.
 
 How best to do so is another question altogether.
 
 ---
 
-Resisting inertia is hard. It's not so difficult to imagine alternatives. What's hard is to pull out of one groove and into another. It's like climbing out of a hole. To disengage from a gravity well and skip out into the space between them, we execute controlled thrusts. Getting the trajectory right isn't easy, nor is coordinating all the little nozzles to point in the same direction.
+Resisting inertia is hard. It's not so difficult to imagine alternatives. What's hard is to pull out of one groove and into another. It's like climbing out of a hole. To disengage from a gravity well and skip out into the space between them, we execute controlled thrusts. Getting the trajectory right isn't easy, [nor is coordinating all the little nozzles to point in the same direction](https://ncase.me/trust/).
 
 We're like fish. Ponds dot the landscape. Seems we're turning ours a little rancid. Some of us are trying to flop to another one &mdash; sort of *heave*, with the tail &mdash; but we're disadvantageously equipped for that sort of locomotion. Others look to be constructing filters. Some, in the milder areas, have gone strangely still: conserving energy, maybe. Buying time. Countless elsewhere struggle for life even now.
 
