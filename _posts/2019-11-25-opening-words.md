@@ -106,8 +106,6 @@ Words refract, I think. Some, like "red", twinkle in ways no one can precisely c
 
 In any case none emit light themselves. Things and beings do. Words bend it and slice it. Negative spaces emerge: distinctions. It's hard to see the lines, though. It's dark and the light flickers.
 
-One has the feeling there's an elephant in here. But it's uneven and slippery and parts of it are prickly. It's a bit like ironing a stubborn shirt: one can only get the kinks out of one or two strips of fabric at once. The wrinkles don't disappear. They just show up somewhere else.
-
 ---
 
 [^1]: Nietzsche, Friedrich. *On Truth and Lie in an Extra-Moral Sense.* 1873.

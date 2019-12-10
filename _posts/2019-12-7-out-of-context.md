@@ -12,6 +12,8 @@ This post's content may be challenging to engage with. It is for me.
 
 Attention is scarce and software is glue. It sticks: to minds and bodies and things. And to itself. It gets kinky. The art of untangling knots &mdash; there's no keeping them out &mdash; is called "managing complexity". This is hard to do. It's made increasingly difficult by the late profusion of machinery with which people program themselves.
 
+One has the feeling there's an elephant in here. But it's uneven and slippery and parts of it are prickly. It's a bit like ironing a stubborn shirt: one can only keep the wrinkles out of one or two strips of fabric at once. They don't disappear. They just show up somewhere else.
+
 Good jokes turn on grains of truth. Here's one: software engineers tend to secrete more complexity than they absorb. In this I am thus far no exception. Even so, the old tale about digging a moat for occupational security seems less true of the individual &mdash; though they certainly may be out there &mdash; than of the industry. Of industry itself, maybe.
 
 Software, like language, depends on context. On this nearly everyone agrees. The proper balance of implicit and explicit detail to hold in view at any one time, however, is hotly debated.
