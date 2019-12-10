@@ -62,6 +62,6 @@ How best to do so is another question altogether.
 
 Resisting inertia is hard. It's not so difficult to imagine alternatives. What's hard is to pull out of one groove and into another. It's like climbing out of a hole. To disengage from a gravity well and skip out into the space between them, we execute controlled thrusts. Getting the trajectory right isn't easy, [nor is coordinating all the little nozzles to point in the same direction](https://ncase.me/trust/).
 
-We're like fish. Ponds dot the landscape. Seems we're turning ours a little rancid. Some of us are trying to flop to another one &mdash; sort of *heave*, with the tail &mdash; but we're disadvantageously equipped for that sort of locomotion. Others look to be constructing filters. Some, in the milder areas, have gone strangely still: conserving energy, maybe. Buying time. Countless elsewhere struggle for life even now.
+We're like fish. Ponds dot the landscape. Seems we're turning ours a little rancid. Some of us are trying to flop to another one &mdash; sort of *heave*, with the tail &mdash; but we're disadvantageously equipped for that sort of locomotion. Others look to be constructing filters. Some, in the milder areas, have gone strangely still: conserving energy, maybe. Buying time. Millions elsewhere struggle for life even now.
 
 You know how it goes with fish. Give them long enough and they grow lungs and legs. How long do we have?
