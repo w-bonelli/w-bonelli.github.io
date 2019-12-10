@@ -52,13 +52,13 @@ So claims Bendell. Morton posits in "agrilogistics" a far older demon. Denial, o
 
 As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
 
-We live in a dewdrop on a blade of grass. The air(row) we call time presses through us always in the same direction: forward. From behind. Something up ahead must suck. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow, so we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easy problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's kind is pushing one's planet to the brink of unlivability.
-
 To anthropomorphize: most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, appear obliged hereforward to care for non-humans and humans alike if either are to thrive.
 
 How best to do so is another question altogether.
 
 ---
+
+We live in a dewdrop on a blade of grass. Time presses through us always in the same direction: forward. From behind. Something up ahead must suck. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow, so we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easy problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's kind is pushing one's planet to the brink of unlivability.
 
 Resisting inertia is hard. It's not so difficult to imagine alternatives. What's hard is to pull out of one groove and into another. It's like climbing out of a hole. To disengage from a gravity well and skip out into the space between them, we execute controlled thrusts. Getting the trajectory right isn't easy, [nor is coordinating all the little nozzles to point in the same direction](https://ncase.me/trust/).
 
