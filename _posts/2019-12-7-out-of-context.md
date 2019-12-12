@@ -10,7 +10,7 @@ This post's content may be challenging to engage with. It is for me.
 
 > "The wish to found action on perfect insight means to nip it in the bud. Politics are action, always built on inadequate survey. But a world-view, too, is action; embracing the manifold universe is an anticipation of unpredictable efforts. In the end all our thinking depends on such inadequacies. We must advance, even without certainty! The only question is whether we are aware of it or not." - Otto Neurath
 
-Attention is scarce and software is glue. It sticks: to minds and bodies and things. And to itself. It gets kinky. The art of untangling knots &mdash; there's no keeping them out &mdash; is called "managing complexity". This is hard to do. It's made increasingly difficult by the late profusion of machinery with which people program themselves.
+Attention is scarce and software is glue. It sticks: to minds and bodies and things. And to itself. It gets kinky. The art of untangling knots &mdash; there's no keeping them out &mdash; is called "managing complexity". This is hard to do. It's made increasingly difficult by the late profusion of mental and material machinery with which people program themselves.
 
 One has the feeling there's an elephant in here. But it's uneven and slippery and parts of it are prickly. It's a bit like ironing a stubborn shirt: one can only keep the wrinkles out of one or two strips of fabric at once. They don't disappear. They just show up somewhere else.
 
