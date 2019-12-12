@@ -18,7 +18,7 @@ Good jokes turn on grains of truth. Here's one: software engineers tend to secre
 
 Software, like language, depends on context. On this nearly everyone agrees. The proper balance of implicit and explicit detail to hold in view at any one time, however, is hotly debated.
 
-Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated shit in one's face. It's justified, asserts the KISSer, because a tolerance for local complexity engenders global simplicity. Boilerplate is usually preferable to bespoke abstraction.
+Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated shit in one's face. It's justified, asserts the KISSer, because a tolerance for local complexity engenders global simplicity. Boilerplate is usually better than bespoke abstraction.
 
 On the other side of the room cluster several ragged groups. All stand united by a steadfast refusal to type more than necessary. Some nurse a suspicion that complexity arises when simplicity is profferred undue priority. One or two wonder aloud whether everybody truly disagrees after all.
 
