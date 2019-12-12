@@ -60,6 +60,14 @@ Affirms Morton:
 
 ---
 
+How ought one define the thing which itself must make up the definition? Nietzsche warned:
+
+> "The 'thing in itself' is quite incomprehensible to the creators of language and not at all worth aiming for." [^1]
+
+Heidegger tried anyway (here I conceal the object of his discussion, since it is the form which is of interest):
+
+> "We are now no longer interpreting [X] in terms of [Y], nor comparing it with [Z]... Although we dealt directly with [X] itself - indeed precisely because of this - we have shirked in the face of [X]. We have indeed not spoken of other things... but of [X] yet not directly and concretely from *out of it*, but *about it*."[^12]
+
 Marx, at least in his youth, held:
 
 > "...the object itself must be studied in its development... [until it is] put alongside something else... [it] remains a mere abstract conception in space and does not develop into anything further.”[^9]
@@ -76,17 +84,7 @@ Derrida called his work an
 
 > "'operation'... which, although it is consumed by the reading of other texts, in a certain fashion refers only to its own writing."[^11]
 
-How ought one define the thing which itself must make up the definition? Nietzsche warned:
-
-> "The 'thing in itself' is quite incomprehensible to the creators of language and not at all worth aiming for." [^1]
-
-Heidegger tried anyway (here I conceal the object of his discussion, since it is the form which is of interest):
-
-> "We are now no longer interpreting [X] in terms of [Y], nor comparing it with [Z]... Although we dealt directly with [X] itself - indeed precisely because of this - we have shirked in the face of [X]. We have indeed not spoken of other things... but of [X] yet not directly and concretely from *out of it*, but *about it*."[^12]
-
-Words open to survey and close to scrutiny. What does one see when one looks at them? Accretion disks, sometimes: bits of stuff, or sensations, or memories, slowly circling. Warped images from around and behind. They feed on &mdash; into &mdash; others of their kind.
-
-Some are sharp: they have a point. Where is it? They point fingers. Usually you're slung around between them. Occasionally you're sucked in and spit out. You're zipping along and then suddenly you're out of orbit and *here, now*. The page might swim. There's been a disturbance in the Force. You look back at what you read. It did something to you. You felt something move.
+Words open to survey and close to scrutiny. What does one see when one looks at them? Accretion disks, sometimes: sensations or memories, slowly circling. Warped images from around and behind. They feed on &mdash; into &mdash; others of their kind. Some are sharp: they have a point. Where is it? They point fingers. Usually you're slung around between them. Occasionally you're sucked in and spit out. You're zipping along and then suddenly you're out of orbit and *here, now*. The page might swim. There's been a disturbance in the Force. You look back at what you read. It did something to you. You felt something move.
 
 ---
 
