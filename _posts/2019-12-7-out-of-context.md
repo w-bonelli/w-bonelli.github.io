@@ -24,7 +24,7 @@ On the other side of the room cluster several ragged groups. All stand united by
 
 Some few stand independent of the cliques. These are sullen or enigmatic types who will not be retained by ping-pong and beer. A couple have fallen asleep. Two more whisper between themselves. One peers at you furtively.
 
-"What's the deal?" you protest. "Why are we here? I must have missed something."
+"What's this?" you protest. "Why are we here? I must have missed something."
 
 My mistake! I forgot to give you the context.
 
