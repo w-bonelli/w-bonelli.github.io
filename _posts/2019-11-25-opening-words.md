@@ -14,7 +14,7 @@ Ah, now, surely not, you say. One shan't meet Aslan nor find Narnia no matter ho
 
 Well, I say, I'm stymied. Here before us lies a thing with which we decorate our children and their accessories. It's not real? It's all in one's head?
 
-Don't be ridiculous, you sputter. Of course it's real. Lewis thought about it, then wrote about it, then millions read him and thought about it some more. A film and plenty of profitable merchandise were made. Aslan the *idea* is real. Aslan the *lion* is not. On this we agree, yes?
+Don't be ridiculous, you may sputter. Of course it's real. Lewis thought about it, then wrote about it, then millions read him and thought about it some more. A film and plenty of profitable merchandise were made. Aslan the *idea* is real. Aslan the *lion* is not. On this we agree, yes?
 
 Well, I might press, what's Aslan the *lion* if not an *idea*? at which point one might be forgiven for flying into a rage or, at least, abandoning the conversation.
 
