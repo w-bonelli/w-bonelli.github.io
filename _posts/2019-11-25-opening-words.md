@@ -38,7 +38,7 @@ In certain situations, Hofstadter points out,
 
 > "the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens."[^4]
 
-He goes on to ask how one might best explain a prime-finding algorithm. Is it best to outline the computational medium's mode of operation? Or to describe the nature of prime numbers and the essence of the strategy for their detection? For that matter, could one not object that the algorithm might not today be known were Euclid never to have discovered (or invented) primes?
+He goes on to ask how one might best explain a prime-finding algorithm. Is it best to outline the computational medium's mode of operation? Or to describe the nature of prime numbers and the essence of the strategy for their detection? For that matter, could one not object that the algorithm might not today be known were Euclid never to have discovered (or did he invent) primes?
 
 Faraday did convince himself, in the end.[^2] [Tong puts it well](https://youtu.be/zNVQfWC_evg?t=804):
 
