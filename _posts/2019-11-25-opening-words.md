@@ -32,7 +32,7 @@ Says Nietzsche:
 
 > "What is a word? The image of a nerve stimulus in sounds."[^1]
 
-Do words (and the mental models they encode) simply stand in for otherwise unmanageable complexity? Do words ever cause things to happen? Did you become aware of your tongue because I told you not to? Because some arcane symbols I arranged caused your neurons to fire in a peculiar way? Because the force-field ripples we call particles obeyed the rules physicists have so meticulously derived for them?
+Do words simply stand in for otherwise unmanageable complexity? Do words ever cause things to happen? Did you become aware of your tongue because I told you not to? Because some arcane symbols I arranged caused your neurons to fire in a peculiar way? Because the force-field ripples we call particles obeyed the rules physicists have so meticulously derived for them?
 
 In certain situations, Hofstadter points out,
 
