@@ -48,7 +48,7 @@ Does knowledge rest necessarily on [constructs](https://en.wikipedia.org/wiki/Co
 
 > "...the number of levels that can be distinguished meaningfully... is kind of proportional to the logarithm of the ratio between the largest and the smallest grain."[^6]
 
-How ought we determine whether the grains we observe correspond sufficiently closely to *real* things they purport to denote? Do we not increasingly negotiate (and shape) consensus reality with language? How to avoid fallacies of reification? How to understand the various interwoven techniques of vocalization, inscription, transmission, and computation which have blossomed so vigorously from the first words spoken some hundred thousand years ago?
+How ought we determine whether the grains we observe correspond sufficiently closely to *real* things they purport to denote? Do we not increasingly negotiate and shape reality with language? How to avoid fallacies of reification? How to understand the various interwoven forms of vocalization, inscription, transmission, and computation which now surround us and have somehow blossomed from little more than a grunt some hundred thousand years ago?
 
 [Box](https://en.wikipedia.org/wiki/All_models_are_wrong) and Lucěno contend that
 
