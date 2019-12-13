@@ -48,7 +48,7 @@ This is not a paltry requisition. It is the planetary equivalent of crying "Fire
 
 > "...vast numbers of people... [have] a low income, long commute and little career progression. Climate change will compound their difficulties, with increasing food prices and anxieties about the future. In such a context, it is unclear whether solidarity... will be a widespread response."
 
-So claims Bendell. Morton posits in "agrilogistics" a far older demon. Denial, one often hears. I think both Morton and Butler would approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
+So claims Bendell. Morton posits in "agrilogistics" a far older demon. I think both Morton and Butler would approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
 As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
 
@@ -62,6 +62,6 @@ We live in a dewdrop on a blade of grass. Time presses through us always in the 
 
 Resisting inertia is hard. It's not so difficult to imagine alternatives. What's hard is to pull out of one groove and into another. It's like climbing out of a hole. To disengage from a gravity well and skip out into the space between them, we execute controlled thrusts. Getting the trajectory right isn't easy, [nor is coordinating all the little nozzles to point in the same direction](https://ncase.me/trust/).
 
-We're like fish. Ponds dot the landscape. Seems we're turning ours a little rancid. Some of us are trying to flop to another one &mdash; sort of *heave*, with the tail &mdash; but we're disadvantageously equipped for that sort of locomotion. Others look to be constructing filters. Some, in the milder areas, have gone strangely still: conserving energy, maybe. Buying time. Millions elsewhere struggle for life even now.
+We're like fish. Ponds dot the landscape. Seems we're turning ours a little sour. Some are trying to flop to another one &mdash; sort of *heave*, with the tail &mdash; but we're disadvantageously equipped for that sort of locomotion. Others look to be constructing filters. More try not to think about it. Most have more pressing problems.
 
 You know how it goes with fish. Give them long enough and they grow lungs and legs. How long do we have?
