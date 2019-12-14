@@ -18,7 +18,7 @@ Good jokes turn on grains of truth. Here's one: software engineers tend to secre
 
 Software, like language, depends on context. On this nearly everyone agrees. The proper balance of implicit and explicit detail to hold in view at any one time, however, is hotly debated.
 
-Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated silliness in one's face. It's justified, asserts the KISSer, because a tolerance for local complexity engenders global simplicity. Boilerplate is usually better than bespoke abstraction.
+Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated shit in one's face. It's justified, asserts the KISSer, because a tolerance for local complexity engenders global simplicity. Boilerplate is usually better than bespoke abstraction.
 
 On the other side of the room cluster several ragged groups. All stand united by a steadfast refusal to type more than necessary. Some, nursing a suspicion that nobody truly disagrees after all, have commandeered a whiteboard and drawn a series of neat little labeled tubes.
 
@@ -40,7 +40,7 @@ There exist many eminently reasonable objections to what I've just said. I am wi
 
 2. they bespeak a far larger form of stickiness wherein habits of thought and behavior enmesh themselves in the physical world and are reinforced by social convention, sunk costs, and silence.
 
-With increasing frequency and urgency, massive cohorts of scientists &mdash; many of whom, for utterly defensible reasons of technical development or academic standing, fly regularly to and from conferences &mdash; attach their names and reputations to documents which urge more or less explicitly:
+With increasing frequency and urgency, massive cohorts of scientists &mdash; many of whom, for utterly defensible reasons of technical development or academic standing, fly regularly to and from conferences &mdash; attach their names and reputations to documents which urge:
 
 > If we don't get a grip, bad things will happen. Huge chunks of the planet &mdash; maybe all of it &mdash; could become uninhabitable.
 
