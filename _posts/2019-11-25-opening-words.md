@@ -6,7 +6,7 @@ date: 2019-11-25
 
 Are words real?
 
-Perhaps they are, you respond. Take fiction. One can hold it in one's hand. Look: here's a *Chronicles of Narnia*. C.S. Lewis was real, and so are his words, and so are his books. I own a few of them.
+Perhaps they are, you might respond. Take fiction. One can hold it in one's hand. Look: here's a *Chronicles of Narnia*. C.S. Lewis was real, and so are his words, and so are his books. I own a few of them.
 
 But what of the ideas? The characters? The worlds? Are they real?
 
