@@ -42,7 +42,7 @@ He goes on to ask how one might best explain a prime-finding algorithm. Is it be
 
 Faraday did convince himself, in the end.[^2] [Tong puts it well](https://youtu.be/zNVQfWC_evg?t=804):
 
-> "...this was Farraday's genius: to appreciate that, even though you can't see anything in between [two magnets] &mdash; even though, no matter how closely you look, the space between the magnets will seem to be empty &mdash; there's something real there."[^5]
+> "...this was Faraday's genius: to appreciate that, even though you can't see anything in between [two magnets] &mdash; even though, no matter how closely you look, the space between the magnets will seem to be empty &mdash; there's something real there."[^5]
 
 Does knowledge rest necessarily on [constructs](https://en.wikipedia.org/wiki/Construct_(philosophy)) measured by proxy? Of hierarchical systems, [Dijkstra posits](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html):
 
@@ -96,9 +96,9 @@ Nietzsche, similarly:
 
 > "...every concept originates through our equating what is unequal."[^1]
 
-Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf) "mathematical objects", I have (I think justifiably) substituted "words":
+Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf) "mathematical object", I have (eloquently and, I think, justifiably) substituted "thing":
 
-> "To define the [words] we intend to study, we often &mdash; perhaps always &mdash; first make it understood, more implicitly than explicitly, how we intend these [words] to be presented to us, thereby delineating a kind of super-[word]; that is, a species of [word] garnished with a repertoire of modes of presentation. Only once this is done do we try to erase the scaffolding of the presentation, to say when two of these super-[words] &mdash; possibly presented to us in wildly different ways &mdash; are to be considered equal. In this oblique way, the [words] that we truly want enter the scene only defined as equivalence classes of explicitly presented [words]. That is, as specifically presented [words] with the specific presentation ignored, in the spirit of 'ham and eggs, but hold the ham.'"[^14]
+> "To define the [things] we intend to study, we often &mdash; perhaps always &mdash; first make it understood, more implicitly than explicitly, how we intend these [things] to be presented to us, thereby delineating a kind of super-[thing]; that is, a species of [thing] garnished with a repertoire of modes of presentation. Only once this is done do we try to erase the scaffolding of the presentation, to say when two of these super-[things] &mdash; possibly presented to us in wildly different ways &mdash; are to be considered equal. In this oblique way, the [things] that we truly want enter the scene only defined as equivalence classes of explicitly presented [things]. That is, as specifically presented [things] with the specific presentation ignored, in the spirit of 'ham and eggs, but hold the ham.'"[^14]
 
 Words refract, I think. Some, like "red", twinkle in ways no one can precisely characterize except that they're *just so* &mdash; unless one feels that "the subjective quality of the visual experience of electromagnetic radiation with wavelength between 625 and 740 nanometers" is all there is to say about it.
 
