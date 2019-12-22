@@ -49,7 +49,7 @@ Here's a little animation of the multiplier case, constructed in real-time. Incr
 </div>
 <svg id="multiplier" class="container-fluid"></svg>
 
-**TL;DR:** "Lobes" correspond to cycles in the spirograph. Each cycle is preceded by a bisection. Each bisection entails a small, darkly-shaded "shadow" near its initial point, and a larger, lightly-shaded "lobe" directly opposite (for small values of *k*, that is: patterns tend to recede into noise then re-emerge in more complex formulations as *k* increases). Cool, right?
+**TL;DR:** "Lobes" correspond to cycles in the spirograph. Each cycle is preceded by a bisection. Each bisection entails a small, densely-shaded "shadow" near its initial point, and a larger, sparsely-shaded "lobe" directly opposite (for small values of *k*, that is: patterns tend to recede into noise then re-emerge in more complex formulations as *k* increases).
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
