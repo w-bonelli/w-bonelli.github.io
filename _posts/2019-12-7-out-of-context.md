@@ -10,7 +10,7 @@ This post's content may be challenging to engage with. It is for me.
 
 > "The wish to found action on perfect insight means to nip it in the bud. Politics are action, always built on inadequate survey. But a world-view, too, is action; embracing the manifold universe is an anticipation of unpredictable efforts. In the end all our thinking depends on such inadequacies. We must advance, even without certainty! The only question is whether we are aware of it or not." - Otto Neurath
 
-Attention is scarce and software is glue. It sticks: to minds and bodies and things. And to itself. It gets kinky. The art of untangling knots &mdash; there's no keeping them out &mdash; is called "managing complexity". This is hard to do. It's made increasingly difficult by the late profusion of mental and material machinery with which people program themselves.
+Attention is scarce and software is glue: it sticks to minds and bodies and things. And to itself. It gets kinky. The art of untangling knots &mdash; there's no keeping them out &mdash; is called "managing complexity". This is hard to do. It's made increasingly difficult by the late profusion of mental and material machinery with which people program themselves.
 
 One has the feeling there's an elephant in here. But it's uneven and slippery and parts of it are prickly. It's a bit like ironing a stubborn shirt: one can only keep the wrinkles out of one or two strips of fabric at once. They don't disappear. They just show up somewhere else.
 
@@ -27,6 +27,16 @@ Some few stand independent of the cliques. These are sullen or enigmatic types w
 "What's this?" you protest. "Why are we here? I must have missed something."
 
 My mistake! I forgot to give you the context.
+
+---
+
+We live in a dewdrop on a blade of grass. Time presses through us always in the same direction: forward. From behind. Something up ahead must suck. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow, so we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easier problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's kind is pushing one's planet to the brink of unlivability.
+
+Resisting inertia is hard. It's not so difficult to imagine alternatives. What's hard is to pull out of one groove and into another. It's like climbing out of a hole. To disengage from a gravity well and skip out into the space between them, we execute controlled thrusts. Getting the trajectory right isn't easy, [nor is coordinating all the little nozzles to point in the same direction](https://ncase.me/trust/).
+
+We're like fish. Ponds dot the landscape. Seems we're turning ours a little sour. Some are trying to flop to another one &mdash; sort of *heave*, with the tail &mdash; but we're disadvantageously equipped for that sort of locomotion. Others look to be constructing filters. More try not to think about it. Most have more pressing problems.
+
+You know how it goes with fish. Give them long enough and they grow lungs and legs. How long do we have?
 
 ---
 
@@ -55,13 +65,3 @@ As Morton points out, wicked problems tend to be things we're on the insides of:
 To anthropomorphize: most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, appear obliged hereforward to care for non-humans and humans alike if either are to thrive.
 
 How best to do so is another question altogether.
-
----
-
-We live in a dewdrop on a blade of grass. Time presses through us always in the same direction: forward. From behind. Something up ahead must suck. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow, so we peer into space with powerful telescopes and craft elaborate schemes to shatter the thing or push it out of the way. That's an easier problem, and a fun one (ever play *Asteroids*?). It's not so fun to squint forward in time and entertain the idea that one's kind is pushing one's planet to the brink of unlivability.
-
-Resisting inertia is hard. It's not so difficult to imagine alternatives. What's hard is to pull out of one groove and into another. It's like climbing out of a hole. To disengage from a gravity well and skip out into the space between them, we execute controlled thrusts. Getting the trajectory right isn't easy, [nor is coordinating all the little nozzles to point in the same direction](https://ncase.me/trust/).
-
-We're like fish. Ponds dot the landscape. Seems we're turning ours a little sour. Some are trying to flop to another one &mdash; sort of *heave*, with the tail &mdash; but we're disadvantageously equipped for that sort of locomotion. Others look to be constructing filters. More try not to think about it. Most have more pressing problems.
-
-You know how it goes with fish. Give them long enough and they grow lungs and legs. How long do we have?
