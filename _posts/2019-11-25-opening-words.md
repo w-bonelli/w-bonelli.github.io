@@ -84,10 +84,6 @@ Derrida called his work an
 
 > "'operation'... which, although it is consumed by the reading of other texts, in a certain fashion refers only to its own writing."[^11]
 
-Words open to survey and close to scrutiny. What does one see when one looks at them? Accretion disks, sometimes: sensations or memories, slowly circling. Warped images from around and behind. They feed on &mdash; into &mdash; others of their kind. Some are sharp: they have a point. Where is it? They point fingers. Usually you're slung around between them. Occasionally you're sucked in and spit out. You're zipping along and then suddenly you're out of orbit and *here, now*. The page might swim. There's been a disturbance in the Force. You look back at what you read. It did something to you. You felt something move.
-
----
-
 Formal systems, like natural languages, are shifty. Godel interrogated them and found their self-descriptions incomplete. Tarski proved them incapable of defining their motives. Said Poincare:
 
 > "Mathematics is the art of giving the same name to different things."[^13]
@@ -100,9 +96,13 @@ Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.p
 
 > "To define the [things] we intend to study, we often &mdash; perhaps always &mdash; first make it understood, more implicitly than explicitly, how we intend these [things] to be presented to us, thereby delineating a kind of super-[thing]; that is, a species of [thing] garnished with a repertoire of modes of presentation. Only once this is done do we try to erase the scaffolding of the presentation, to say when two of these super-[things] &mdash; possibly presented to us in wildly different ways &mdash; are to be considered equal. In this oblique way, the [things] that we truly want enter the scene only defined as equivalence classes of explicitly presented [things]. That is, as specifically presented [things] with the specific presentation ignored, in the spirit of 'ham and eggs, but hold the ham.'"[^14]
 
+---
+
+Words open to survey and close to scrutiny. What does one see when one looks at them? Accretion disks, sometimes: sensations or memories, slowly circling. Warped images from around and behind. They feed on &mdash; into &mdash; others of their kind. Some are sharp: they have a point. Where is it? They point fingers. Usually you're slung around between them. Occasionally you're sucked in and spit out. You're zipping along and then suddenly you're out of orbit and *here, now*. The page might swim. You look back at what you read; it did something to you. You felt something move.
+
 Words refract, I think. Some, like "red", twinkle in ways no one can precisely characterize except that they're *just so* &mdash; unless one feels that "the subjective quality of the visual experience of electromagnetic radiation with wavelength between 625 and 740 nanometers" is all there is to say about it.
 
-In any case none emit light themselves. Things and beings do. Words bend it and slice it. Negative spaces emerge: distinctions. It's hard to see the lines, though. It's dark and the light flickers.
+In any case none emit light themselves. We do that. Words bend it and slice it. Negative spaces emerge: distinctions. It's hard to see the lines, though. It's dark and the light flickers.
 
 ---
 
