@@ -66,6 +66,8 @@ To anthropomorphize: most of the things and beings in the universe appear to car
 
 How best to do so is another question altogether.
 
+---
+
 [^1]: Neurath, Otto. *Anti-Spengler*. 1921.
 [^2]: Bendell, Jem. *Will We Care Enough to Matter to Them? Climate Justice, Solidarity and Deep Adaptation.* 5 Nov. 2019.
 [^3]: Dark Ecology: For a Logic of Future Coexistence. Columbia University Press, 2018.
