@@ -58,7 +58,7 @@ This is not a paltry requisition. It is the planetary equivalent of crying "Fire
 
 > "...vast numbers of people... [have] a low income, long commute and little career progression. Climate change will compound their difficulties, with increasing food prices and anxieties about the future. In such a context, it is unclear whether solidarity... will be a widespread response."[^2]
 
-So claims Bendell. Morton posits in "agrilogistics" a far older demon[^3]. I think both Morton and Butler would approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
+So claims Bendell. Morton posits in "agrilogistics" a far older demon.[^3] I think both Morton and Butler would approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
 As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
 
