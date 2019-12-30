@@ -66,7 +66,7 @@ How ought one define the thing which itself must make up the definition? Nietzsc
 
 Heidegger tried anyway (here I conceal the object of his discussion, since it is the form which is of interest):
 
-> "We are now no longer interpreting [X] in terms of [Y], nor comparing it with [Z]... Although we dealt directly with [X] itself - indeed precisely because of this - we have shirked in the face of [X]. We have indeed not spoken of other things... but of [X] yet not directly and concretely from *out of it*, but *about it*."[^12]
+> "We are now no longer interpreting [X] in terms of [Y], nor comparing it with [Z]... Although we dealt directly with [X] itself &mdash; indeed precisely because of this &mdash; we have shirked in the face of [X]. We have indeed not spoken of other things... but of [X] yet not directly and concretely from *out of it*, but *about it*."[^12]
 
 Marx, at least in his youth, held:
 
