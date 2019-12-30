@@ -5,10 +5,10 @@ date: 2019-12-7
 ---
 
 <div class="alert alert-warning" role="alert">
-This post's content may be challenging to engage with. It is for me.
+This post may be challenging to engage with. It is for me.
 </div>
 
-> "The wish to found action on perfect insight means to nip it in the bud. Politics are action, always built on inadequate survey. But a world-view, too, is action; embracing the manifold universe is an anticipation of unpredictable efforts. In the end all our thinking depends on such inadequacies. We must advance, even without certainty! The only question is whether we are aware of it or not." - Otto Neurath
+> "The wish to found action on perfect insight means to nip it in the bud. Politics are action, always built on inadequate survey. But a world-view, too, is action; embracing the manifold universe is an anticipation of unpredictable efforts. In the end all our thinking depends on such inadequacies. We must advance, even without certainty! The only question is whether we are aware of it or not." - Otto Neurath[^1]
 
 Attention is scarce and software is glue: it sticks to minds and bodies and things. And to itself. It gets kinky. The art of untangling knots &mdash; there's no keeping them out &mdash; is called "managing complexity". This is hard to do. It's made increasingly difficult by the late profusion of mental and material machinery with which people program themselves.
 
@@ -56,12 +56,16 @@ With increasing frequency and urgency, massive cohorts of scientists &mdash; man
 
 This is not a paltry requisition. It is the planetary equivalent of crying "Fire!" in a crowded theater. Meanwhile the usual business marches on.
 
-> "...vast numbers of people... [have] a low income, long commute and little career progression. Climate change will compound their difficulties, with increasing food prices and anxieties about the future. In such a context, it is unclear whether solidarity... will be a widespread response."
+> "...vast numbers of people... [have] a low income, long commute and little career progression. Climate change will compound their difficulties, with increasing food prices and anxieties about the future. In such a context, it is unclear whether solidarity... will be a widespread response."[^2]
 
-So claims Bendell. Morton posits in "agrilogistics" a far older demon. I think both Morton and Butler would approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
+So claims Bendell. Morton posits in "agrilogistics" a far older demon[^3]. I think both Morton and Butler would approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
 As Morton points out, wicked problems tend to be things we're on the insides of: global heating, for example, or the bacteriological arms race. What's the medium? We are. We and an unthinkable mass of stuff and life. In this warming web of whatever it is we are not alone.
 
 To anthropomorphize: most of the things and beings in the universe appear to care not a wit about the human condition. We, on the other hand, appear obliged hereforward to care for non-humans and humans alike if either are to thrive.
 
 How best to do so is another question altogether.
+
+[^1]: Neurath, Otto. *Anti-Spengler*. 1921.
+[^2]: Bendell, Jem. *Will We Care Enough to Matter to Them? Climate Justice, Solidarity and Deep Adaptation.* 5 Nov. 2019.
+[^3]: Dark Ecology: For a Logic of Future Coexistence. Columbia University Press, 2018.
