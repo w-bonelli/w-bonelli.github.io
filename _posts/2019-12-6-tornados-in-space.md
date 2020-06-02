@@ -4,7 +4,7 @@ title: Tornados in Space
 date: 2019-12-6
 ---
 
-Say we want a quick way to analyze snippets of text from diverse environments. Let's hide [SpaCy](https://spacy.io/) behind a little [Tornado](https://github.com/tornadoweb/tornado/blob/stable/docs/index.rst) API and call it, like, `spacetornado`. We'll need a Unix terminal and some version of Python 3.
+Say we want a quick way to analyze snippets of text from diverse environments. Let's hide [SpaCy](https://spacy.io/) behind a little [Tornado](https://github.com/tornadoweb/tornado/blob/stable/docs/index.rst) API and call it `spacetornado`. We'll need a Unix terminal and some version of Python 3.
 
 ---
 
@@ -25,7 +25,7 @@ Next we'll install Tornado and SpaCy, then download the small version of the (En
 > (spacetornado) $ python -m spacy download en_core_web_sm
 ```
 
-Great. Now to assemble the thing. We'll have 3 little modules (create a directory `src/` and drop them in):
+Now to assemble the thing. We'll have 3 little modules (create a directory `src/` and drop them in):
 
 - `operations.py`: SpaCy operations
 - `handlers.py`: Tornado request handlers
@@ -304,5 +304,3 @@ Pop open a new terminal:
     }
 ]
 ```
-
-Not bad!

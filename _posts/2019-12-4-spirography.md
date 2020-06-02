@@ -4,7 +4,7 @@ title: Spirography
 date: 2019-12-4
 ---
 
-I stumbled across a cool problem presented [here](http://codyraskin.com/research/?p=158) by Cody Raskin. His post is short, so I'll reproduce it in full:
+I stumbled across a cool problem presented [here](http://codyraskin.com/research/?p=158) by Cody Raskin. Here's his post in full:
 
 > "Suppose you had a circle made of a hundred or so equidistant points on its circumference. If you drew straight lines connecting distant points on this circle (chords) in some systematic way, you’d produce a kind of spirograph. I don’t know what these plots are actually called, and “spirograph” is actually just the brand-name of a popular toy, but in any case, most people have probably drawn something like this at some point in their lives.
 
@@ -14,9 +14,9 @@ I stumbled across a cool problem presented [here](http://codyraskin.com/research
 
 > I wonder if someone could come up with some hand-wavy argument as to why this behaves this way? In any case, you can try it out at Desmos [here](https://www.desmos.com/calculator/yjayzmpgzr)."
 
-These things are kind of beautiful. I don't recall ever drawing one when I was a kid. To make up for it, I've tried to reason through the question with the help of [D3.js](https://d3js.org/). (Let me know if I got anything wrong, please!)
+I don't recall ever drawing one of these when I was a kid. To make up for it, I've tried to reason through the question with the help of [D3.js](https://d3js.org/).
 
-If you haven't clicked on the [Desmos link](https://www.desmos.com/calculator/yjayzmpgzr) yet, I encourage you to fiddle with it and see if you can get a sense for how it works.
+If you haven't clicked on the [Desmos link](https://www.desmos.com/calculator/yjayzmpgzr) yet, fiddle with it and see if you can get a sense for how it works!
 
 ---
 
