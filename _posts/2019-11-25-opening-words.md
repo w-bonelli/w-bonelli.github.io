@@ -59,7 +59,7 @@ Derrida called his work an
 
 ---
 
-Formal systems, like natural languages, are shifty. Godel found their descriptions incomplete. Tarski proved them incapable of defining their motives. Said Poincare:
+Formal systems, like natural languages, are slippery. Godel found their descriptions incomplete. Tarski proved them incapable of reciting their motives. Said Poincare:
 
 > "Mathematics is the art of giving the same name to different things."[^12]
 
