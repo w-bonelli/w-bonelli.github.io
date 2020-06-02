@@ -4,7 +4,17 @@ title: Home
 ---
 
 <div class="container-fluid">
-    <b>Projects</b>
+    <b>present occupation</b>
+    <hr>
+    <p>
+    scientific computing specialist
+    <br>
+    <a href="https://www.computational-plant-science.org/joomla30/">computational plant science lab</a>
+    <br>
+    </p>
+</div>
+<div class="container-fluid">
+    <b>projects</b>
     <hr>
     <ul>
         {% for project in site.projects %}
@@ -15,18 +25,7 @@ title: Home
     </ul>
 </div>
 <div class="container-fluid">
-    <b>Publications</b>
-    <hr>
-    <ul>
-        {% for publication in site.publications %}
-            <li>
-                <a href="{{ publication.link }}">{{ publication.name }}</a> {{ publication.authors }}
-            </li>
-        {% endfor %}
-    </ul>
-</div>
-<div class="container-fluid">
-    <b>Posts</b>
+    <b>posts</b>
     <hr>
     <ul>
         {% for post in site.posts %}
@@ -35,13 +34,13 @@ title: Home
     </ul>
 </div>
 <div class="container-fluid">
-    <b>Present Occupation</b>
+    <b>publications</b>
     <hr>
-    Scientific Computing Specialist
-    <br>
-    <a href="https://www.computational-plant-science.org/joomla30/">Computational Plant Science Lab</a>
-    <br>
-    University of Georgia
-    <br>
-    <a href="mailto:wbonelli@uga.edu">wbonelli@uga.edu</a>
+    <ul>
+        {% for publication in site.publications %}
+            <li>
+                <a href="{{ publication.link }}">{{ publication.name }}</a> {{ publication.authors }}
+            </li>
+        {% endfor %}
+    </ul>
 </div>

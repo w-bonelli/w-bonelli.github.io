@@ -10,7 +10,11 @@
 .breadcrumb {
   background-color: transparent !important;
   font-weight: 600;
-  color: #66ccff;
+  color: black;
+}
+
+.breadcrumb:hover {
+  color: #8FBC8F;
 }
 
 .navbar {
@@ -19,13 +23,14 @@
   padding-left:0px;
   padding-right:0px;
   color: #66ff99;
-  background-color: black;
+  background-color: white;
+  box-shadow: 0px 2px 3px 0px #8FBC8F;
 }
 
 .navbar-brand {
   font-weight: 900;
   text-transform: lowercase;
-  color: #66ff99;
+  color: black;
   background-color: white;
 }
 

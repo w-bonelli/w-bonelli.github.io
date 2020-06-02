@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tornados in Space
+title: tornados in space
 date: 2019-12-6
 ---
 

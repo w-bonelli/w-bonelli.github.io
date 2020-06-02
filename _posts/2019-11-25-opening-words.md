@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Opening Words
-date: 2019-11-25
+title: opening words
 ---
 
 Are words real? Nietzsche was skeptical:

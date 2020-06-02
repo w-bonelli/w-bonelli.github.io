@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Out of Context
+title: out of context
 date: 2019-12-7
 ---
 
