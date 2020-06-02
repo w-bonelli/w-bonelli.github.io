@@ -4,15 +4,6 @@ title: Home
 ---
 
 <div class="container-fluid">
-    <b>Posts</b>
-    <hr>
-    <ul>
-        {% for post in site.posts %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
-</div>
-<div class="container-fluid">
     <b>Projects</b>
     <hr>
     <ul>
@@ -24,11 +15,33 @@ title: Home
     </ul>
 </div>
 <div class="container-fluid">
-    <b>Person</b>
+    <b>Publications</b>
     <hr>
-    Scientific Computing Specialist @ <a href="https://www.computational-plant-science.org/joomla30/">Computational Plant Science Lab</a>
-    <br>
-        <a href="mailto:ecusfujzxopoegsy@protonmail.com">workingbackwords@protonmail.com</a></li> | 
-	<a href="mailto:wbonelli@uga.edu">wbonelli@uga.edu</a></li>
+    <ul>
+        {% for publication in site.publications %}
+            <li>
+                <a href="{{ publication.link }}">{{ publication.name }}</a> {{ publication.authors }}
+            </li>
+        {% endfor %}
     </ul>
+</div>
+<div class="container-fluid">
+    <b>Posts</b>
+    <hr>
+    <ul>
+        {% for post in site.posts %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+<div class="container-fluid">
+    <b>Present Occupation</b>
+    <hr>
+    Scientific Computing Specialist
+    <br>
+    <a href="https://www.computational-plant-science.org/joomla30/">Computational Plant Science Lab</a>
+    <br>
+    University of Georgia
+    <br>
+    <a href="mailto:wbonelli@uga.edu">wbonelli@uga.edu</a>
 </div>

@@ -22,19 +22,15 @@ My mistake! I forgot to give you the context.
 
 ---
 
-We live in a dewdrop on a blade of grass. Time presses through us always in the same direction: forward. From behind. Something up ahead must suck. An errant lump of rock and metal traveling 40 times the speed of sound could threaten it all tomorrow, so we hatch schemes to shatter the thing or push it out of the way. That's comparatively easy.
-
-We're like fish. Ponds dot the landscape. We've turned ours a little sour. Some seem to want to flop to another one &mdash; mostly frozen, come to think of it &mdash; but we're disadvantageously equipped for that. More try not to think about it. Most have more pressing problems.
-
-Give fish long enough and they grow lungs and legs, evidently. We don't have quite so long.
+We live in a dewdrop on a blade of grass. Time presses through us always in the same direction: forward. Something up ahead must suck.
 
 ---
 
 In a not-insignificant number of nations, working professionals regularly attend conventions wherein a variety of topics &mdash; recent advancements, industry standards, the ergonomics of our prosthetic fins and flippers &mdash; consume the attention of thousands of people for three to seven days.
 
-With increasing frequency and urgency, large cohorts of these same people &mdash; many of them scientists, who for utterly defensible reasons fly regularly to and from conferences &mdash; attach their names and reputations to documents which urge, more or less:
+With increasing frequency, large cohorts of these same people &mdash; many of them scientists, who for utterly defensible reasons fly regularly to and from conferences &mdash; attach their names and reputations to documents which urge, more or less:
 
-> If we don't change our ways, most or all of the planet may become uninhabitable.
+> If humankind does not dramatically alter its behavior, most or all of the planet may become uninhabitable.
 
 This is not a paltry requisition. Meanwhile the usual business carries on.
 
