@@ -44,6 +44,8 @@ Points which connect to themselves (save for the initial point) indicate that a 
 
 Intuitively, lobe count scales at *∝* *k* - 1 because each darkly-shaded cycle is a kind of "shadow" directly opposite a lightly shaded "lobe". "Shading" is lighter within each lobe and darker without because as you move away from a lobe center and nearer to a midpoint between lobes, each point's outgoing connection line departs further from the tangent and approaches orthogonality: that is, the line bisects the circle. At bisection, *p<sub>i</sub>* is maximally distant from *p<sub>j</sub>*: *d* = *n* / 2 (remainder 1 when *n* is odd). Outgoing connections swing back toward the tangent as you move toward the center of the next lobe. Dark shading occurs in small "shadows" near bisection initial points (opposite "lobes") and forms lobe boundaries where chords "stack" tightly around the tangent line.
 
+**TL;DR:** "Lobes" correspond to cycles in the spirograph. Each cycle is preceded by a bisection. Each bisection entails a small, densely-shaded "shadow" near its initial point, and a larger, sparsely-shaded "lobe" directly opposite (for small values of *k*, that is: patterns tend to recede into noise then re-emerge in more complex formulations as *k* increases).
+
 Here's a little animation of the multiplier case, constructed in real-time. Increment or decrement *k*, then watch how many times the green dot (*p<sub>j</sub>*) "laps" the red one (*p<sub>i</sub>*)!
 
 <div class="btn-group" role="group">
@@ -51,19 +53,19 @@ Here's a little animation of the multiplier case, constructed in real-time. Incr
 <button id="k" type="button" disabled class="btn btn-dark">
 </button><button type="button" class="btn btn-dark" onclick="incK()">&gt;</button>
 </div>
-<svg id="multiplier" class="container-fluid"></svg>
-
-**TL;DR:** "Lobes" correspond to cycles in the spirograph. Each cycle is preceded by a bisection. Each bisection entails a small, densely-shaded "shadow" near its initial point, and a larger, sparsely-shaded "lobe" directly opposite (for small values of *k*, that is: patterns tend to recede into noise then re-emerge in more complex formulations as *k* increases).
+<div class="container-fluid" style="width: 100%">
+<svg id="multiplier" style="width: 100%; height: 500px"></svg>
+</div>
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 var k = 2;  // multiplier
-var r = 40; // radius
+var r = 150; // radius
 
 var svg = d3
   .select("svg")
-  .attr("width", 960)
-  .style("height", 600);
+  .attr("width", 2000)
+  .style("height", 2000);
 
 var path = svg
   .append("path")
