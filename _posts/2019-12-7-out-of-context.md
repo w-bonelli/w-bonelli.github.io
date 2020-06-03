@@ -10,7 +10,7 @@ One has the feeling there's an elephant in here. It's uneven and slippery, and p
 
 Software, like language, depends on context. On this nearly everyone agrees. The proper balance of implicit and explicit detail to hold in view at any one time, however, is hotly debated.
 
-Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated shit in one's face. A tolerance for local complexity engenders global simplicity, it's said. Boilerplate is better than bespoke abstraction.
+Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated shit in one's face. A tolerance for local complexity engenders global simplicity, it's said.
 
 On the other side of the room cluster several ragged groups. Some, nursing a suspicion that nobody truly disagrees after all, have commandeered a whiteboard and drawn a series of neat little labeled tubes.
 
@@ -34,7 +34,7 @@ This is not a paltry requisition. Meanwhile the usual business carries on.
 
 [So claims Bendell](https://jembendell.com/2019/11/05/will-we-care-enough-to-matter-to-them-climate-justice-solidarity-and-deep-adaptation/). Morton posits in "agrilogistics" a far older demon.[^2] Maybe he and Butler would approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
-Wicked problems tend to be things we're *inside*: like global heating, the bacteriological arms race, systems of state-sanctioned police brutality, or SARS-CoV-2. In this warming web of stuff and life we are not alone. What now?
+Wicked problems tend to be things we're *inside*: like global heating, the bacteriological arms race, systems of state-sanctioned brutality, or SARS-CoV-2. In this warming web of stuff and life we are not alone. What now?
 
 [^1]: Bendell, Jem. *Will We Care Enough to Matter to Them? Climate Justice, Solidarity and Deep Adaptation.* 5 Nov. 2019.
 [^2]: Morton, Timothy. *Dark Ecology: For a Logic of Future Coexistence.* Columbia University Press, 2018.
