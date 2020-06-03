@@ -22,9 +22,7 @@ My mistake! I forgot to give you the context.
 
 We live in a dewdrop on a blade of grass. Time presses through us always in the same direction: forward. Something up ahead sucks.
 
-In a not-insignificant number of nations, working professionals regularly attend conventions wherein a variety of topics &mdash; recent advancements, industry standards, the ergonomics of the discipline's material and mental prosthetics &mdash; consume the attention of thousands of people for three to seven days.
-
-With increasing frequency, large cohorts of these same people &mdash; many of them scientists, who for utterly defensible reasons fly regularly to and from conferences &mdash; attach their names and reputations to documents which urge, more or less:
+With increasing frequency, large cohorts of scientists attach their names and reputations to documents which urge, more or less:
 
 > If humankind does not dramatically alter its behavior, most or all of the planet may become uninhabitable.
 
