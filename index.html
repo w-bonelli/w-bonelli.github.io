@@ -5,7 +5,6 @@ title: Home
 
 <div>
     <b class="header">present</b>
-    <p>
     <table style="vertical-align: start; padding-right: 5px">
     <tr>
     <th style="padding-right: 25px">
@@ -14,14 +13,13 @@ title: Home
     <a href="https://www.computational-plant-science.org/joomla30/">computational plant science lab</a>
     <br>
     <a href="https://www.uga.edu/">university of georgia</a>
-    </p>
     </th>
     </tr>
     </table>
+    <br>
 </div>
 <div>
     <b class="header">previous</b>
-    <p>
     <table style="vertical-align: start; padding-right: 5px">
     <tr>
     <th style="padding-right: 25px">
@@ -47,11 +45,10 @@ title: Home
     </th>
     </tr>
     </table>
-    </p>
+    <br>
 </div>
 <div>
     <b class="header">projects</b>
-    <br>
     <br>
     <ul>
         {% for project in site.projects %}
@@ -64,7 +61,6 @@ title: Home
 <div>
     <b class="header">posts</b>
     <br>
-    <br>
     <ul>
         {% for post in site.posts %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -74,12 +70,22 @@ title: Home
 <div>
     <b class="header">publications</b>
     <br>
-    <br>
     <ul>
         {% for publication in site.publications %}
             <li>
                 <a href="{{ publication.link }}">{{ publication.name }}</a> {{ publication.authors }}
             </li>
         {% endfor %}
+    </ul>
+</div>
+<div>
+    <b class="header">preoccupations</b>
+    <br>
+    <ul>
+        <li>self-organization</li>
+        <li>stochastic processes</li>
+        <li>philosophy of language</li>
+        <li>software as a tool for science</li>
+        <li>preservation of terrestrial conditions amenable to complex life, non-human and otherwise</li>
     </ul>
 </div>
