@@ -6,9 +6,7 @@ date: 2019-12-6
 
 Say we want a quick way to analyze snippets of text from diverse environments. Let's hide [SpaCy](https://spacy.io/) behind a little [Tornado](https://github.com/tornadoweb/tornado/blob/stable/docs/index.rst) API and call it `spacetornado`. We'll need a Unix terminal and some version of Python 3.
 
----
-
-To keep our workspace neat and tidy, we'll use `venv`. First, we create a new directory and initialize a Python 3 virtual environment:
+We'll use `venv`. Create a new directory and initialize a Python 3 virtual environment:
 
 ```
 > $ mkdir spacetornado
@@ -17,7 +15,7 @@ To keep our workspace neat and tidy, we'll use `venv`. First, we create a new di
 > $ source bin/activate
 ```
 
-Next we'll install Tornado and SpaCy, then download the small version of the (English) model:
+Install Tornado and SpaCy, then download the small version of the (English) model:
 
 ```
 > (spacetornado) $ pip install tornado
@@ -25,17 +23,16 @@ Next we'll install Tornado and SpaCy, then download the small version of the (En
 > (spacetornado) $ python -m spacy download en_core_web_sm
 ```
 
-Now to assemble the thing. We'll have 3 little modules (create a directory `src/` and drop them in):
+We'll have 3 little modules and a CLI:
 
 - `operations.py`: SpaCy operations
 - `handlers.py`: Tornado request handlers
-- `host.py`: Tornado server
-
----
+- `server.py`: Tornado server
+- `spacetornado`: CLI
 
 ##### `operations.py`
 
-Here we'll wrap SpaCy with a bit of code to mold responses. We'll have 4 methods:
+Here we'll wrap SpaCy with a bit of code to mold responses. We'll have 4 operations:
 
 - tokens (everything)
 - noun_chunks (all your nouns are belong to me)
@@ -45,62 +42,61 @@ Here we'll wrap SpaCy with a bit of code to mold responses. We'll have 4 methods
 ```
 import spacy
 
-# Load the SpaCy model
-
 nlp = spacy.load('en_core_web_sm')
 
-# Define the response shape for each API operation.
-# We'll follow SpaCy's structure and naming conventions pretty closely, but decoupling
-# the objects returned from the SpaCy domain model might make things easier later on.
 
-def __mapToken(token):
+def __token(token):
     return {
-        'text'		: str(token.text),
-        'lemma'         : str(token.lemma_),
-        'pos'           : str(token.pos_),
-        'tag'           : str(token.tag_),
-        'prettytag'     : str(spacy.explain(token.tag_)),
-        'dep'           : str(token.dep_),
-        'shape'         : str(token.shape_),
-        'alpha'         : str(token.is_alpha),
-        'stop'          : str(token.is_stop)
+        'text': str(token.text),
+        'lemma': str(token.lemma_),
+        'pos': str(token.pos_),
+        'tag': str(token.tag_),
+        'prettytag': str(spacy.explain(token.tag_)),
+        'dep': str(token.dep_),
+        'shape': str(token.shape_),
+        'alpha': str(token.is_alpha),
+        'stop': str(token.is_stop)
     }
 
-def __mapNounChunk(chunk):
+
+def __noun_chunk(chunk):
     return {
-        'text'		: str(chunk.text),
-        'roottext'	: str(chunk.root.text),
-        'rootdep'	: str(chunk.root.dep_),
-        'rootheadtext'	: str(chunk.root.head.text)
+        'text': str(chunk.text),
+        'roottext': str(chunk.root.text),
+        'rootdep': str(chunk.root.dep_),
+        'rootheadtext': str(chunk.root.head.text)
     }
 
-def __mapEntity(entity):
+
+def __entity(entity):
     return {
-        'text'		: str(entity.text),
-        'start'		: str(entity.start_char),
-        'end'		: str(entity.end_char),
-        'label'		: str(entity.label_)
+        'text': str(entity.text),
+        'start': str(entity.start_char),
+        'end': str(entity.end_char),
+        'label': str(entity.label_)
     }
 
-def __mapSimilarity(left, right):
+
+def __similarity(left, right):
     return {
-        'similarity'	: left.similarity(right)
+        'similarity': left.similarity(right)
     }
 
-# Define the operations. In the first 3 operations we're returning
-# arrays; in `similarity` we're returning a single object.
 
 def tokens(text):
-    return [__mapToken(token) for token in nlp(text)]
+    return [__token(token) for token in nlp(text)]
+
 
 def noun_chunks(text):
-    return [__mapNounChunk(chunk) for chunk in nlp(text).noun_chunks]
+    return [__noun_chunk(chunk) for chunk in nlp(text).noun_chunks]
+
 
 def entities(text):
-    return [__mapEntity(entity) for entity in nlp(text).ents]
+    return [__entity(entity) for entity in nlp(text).ents]
+
 
 def similarity(left, right):
-    return __mapSimilarity(nlp(left), nlp(right))
+    return __similarity(nlp(left), nlp(right))
 ```
 
 ##### `handlers.py`
@@ -110,98 +106,91 @@ Here we'll hook each operation into a Tornado request handler and convert it to 
 ```
 import json
 import tornado.web
-import operations
-
-# JSON for everyone!
+from .operations import *
 
 content_type = "Content-Type", "application/json"
 
-# Handlers for all the operations
 
 class Tokens(tornado.web.RequestHandler):
     def post(self):
         self.set_header(content_type[0], content_type[1])
-        self.write(json.dumps(operations.tokens(self.get_body_argument("text")), indent=4))
+        self.write(json.dumps(tokens(self.get_body_argument("text")), indent=4))
+
 
 class NounChunks(tornado.web.RequestHandler):
     def post(self):
         self.set_header(content_type[0], content_type[1])
-        self.write(json.dumps(operations.noun_chunks(self.get_body_argument("text")), indent=4))
+        self.write(json.dumps(noun_chunks(self.get_body_argument("text")), indent=4))
+
 
 class Entities(tornado.web.RequestHandler):
     def post(self):
         self.set_header(content_type[0], content_type[1])
-        self.write(json.dumps(operations.entities(self.get_body_argument("text")), indent=4))
+        self.write(json.dumps(entities(self.get_body_argument("text")), indent=4))
+
 
 class Similarity(tornado.web.RequestHandler):
     def get(self):
         self.set_header(content_type[0], content_type[1])
-        self.write(json.dumps(operations.similarity(self.get_query_argument("left"), self.get_query_argument("right")), indent=4))
+        self.write(json.dumps(similarity(self.get_query_argument("left"), self.get_query_argument("right")), indent=4))
+
     def post(self):
         self.set_header(content_type[0], content_type[1])
-        self.write(json.dumps(operations.similarity(self.get_body_argument("left"), self.get_body_argument("right")), indent=4))
+        self.write(json.dumps(similarity(self.get_body_argument("left"), self.get_body_argument("right")), indent=4))
 ```
 
-##### `host.py`
+##### `server.py`
 
 Tie it all together:
 
 ```
 import logging
-import tornado.ioloop
+from tornado.ioloop import IOLoop
 import tornado.web
-import spacy
-import handlers
+from .handlers import *
 
-# Production-ready configuration solution :)
 
-host = "localhost"
-port = "8888"
+class Server:
 
-# Ready the loggers
+    # Production-ready configuration solution :)
+    host = "localhost"
+    port = 8888
+    logger = None
 
-logger = logging.getLogger('spacetornado')
+    def __loggers(self):
+        self.logger = logging.getLogger('spacetornado')
+        handler = logging.StreamHandler()
+        handler.setFormatter(logging.Formatter('%(asctime)s %(levelname)s [%(name)s] %(message)s'))
+        self.logger.addHandler(handler)
+        tornadoLogger = logging.getLogger("tornado.access")
+        tornadoLogger.propagate = False
+        tornadoLogger.setLevel(logging.DEBUG)
+        tornadoLogger.handlers = [handler]
 
-def loggers():
-    handler = logging.StreamHandler()
-    handler.setFormatter(logging.Formatter('%(asctime)s %(levelname)s [%(name)s] %(message)s'))
-    logger.addHandler(handler)
-    tornadoLogger = logging.getLogger("tornado.access")
-    tornadoLogger.propagate = False
-    tornadoLogger.setLevel(logging.DEBUG)
-    tornadoLogger.handlers = [handler]
+    @staticmethod
+    def __app():
+        return tornado.web.Application([
+            (r"/tokens", Tokens),
+            (r"/noun_chunks", NounChunks),
+            (r"/entities", Entities),
+            (r"/similarity", Similarity)])
 
-# Bind endpoints to handlers
-
-def app():
-    return tornado.web.Application([
-        (r"/tokens", handlers.Tokens),
-        (r"/noun_chunks", handlers.NounChunks),
-        (r"/entities", handlers.Entities),
-        (r"/similarity", handlers.Similarity)])
-
-# Spin it up!
-
-if __name__ == "__main__":
-    loggers()
-    app().listen(port)
-    logger.info("Listening at %s:%s." % (host, port))
-    tornado.ioloop.IOLoop.current().start()
+    def run(self):
+        self.__loggers()
+        self.__app().listen(self.port)
+        IOLoop.current().start()
 ```
 
----
-
-That's it: time to tokenize.
+Time to tokenize. Spin it up with:
 
 ```
-> (spacetornado) python src/host.py
-> 2019-12-06 21:17:28,540 INFO [spacetornado] Listening at localhost:8888.
+> $ (spacetornado) spacetornado
 ```
 
 Pop open a new terminal:
 
 ```
-> curl -X POST --data "text=Who said there were no tornados in space?" http://localhost:8888/tokens
+> $ curl -X POST --data "text=Who said there were no tornados in space?" http://localhost:8888/tokens
 > [
     {
         "text": "Who",
@@ -213,7 +202,7 @@ Pop open a new terminal:
         "shape": "Xxx",
         "alpha": "True",
         "stop": "True"
-    },
+    ,
     {
         "text": "said",
         "lemma": "say",

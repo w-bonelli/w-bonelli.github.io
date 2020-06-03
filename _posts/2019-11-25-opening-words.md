@@ -23,8 +23,6 @@ Consider his own example: primes. Their nature &mdash; that is, the strategy for
 
 How? It did not all begin between Euclid's ears. Perhaps with a grunt some hundred thousand years ago: humanity's first word, so to speak. Which one was that?
 
----
-
 Some words are sharp: they have a point. Where is it? They point fingers. Cartwright cautions:
 
 > “The fundamental laws of physics do not describe true facts about reality. Rendered as descriptions of facts, they are false; amended to be true, they lose... explanatory force.”[^5]
@@ -57,9 +55,7 @@ Derrida called his work an
 
 > "'operation'... which, although it is consumed by the reading of other texts, in a certain fashion refers only to its own writing."[^11]
 
----
-
-Formal systems, like natural languages, are slippery. Godel found their descriptions incomplete. Tarski proved them incapable of reciting their motives. Said Poincare:
+Formal systems, like natural languages, are slippery. Godel found their descriptions incomplete. Tarski proved them incapable of defining their motives. Said Poincare:
 
 > "Mathematics is the art of giving the same name to different things."[^12]
 
@@ -70,8 +66,6 @@ Nietzsche, similarly:
 Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf) "mathematical object", I have substituted "thing":
 
 > "To define the [things] we intend to study, we often &mdash; perhaps always &mdash; first make it understood, more implicitly than explicitly, how we intend these [things] to be presented to us, thereby delineating a kind of super-[thing]; that is, a species of [thing] garnished with a repertoire of modes of presentation. Only once this is done do we try to erase the scaffolding of the presentation, to say when two of these super-[things] &mdash; possibly presented to us in wildly different ways &mdash; are to be considered equal. In this oblique way, the [things] that we truly want enter the scene only defined as equivalence classes of explicitly presented [things]. That is, as specifically presented [things] with the specific presentation ignored, in the spirit of 'ham and eggs, but hold the ham.'"[^13]
-
----
 
 [^1]: Nietzsche, Friedrich. *On Truth and Lie in an Extra-Moral Sense.* 1873.
 

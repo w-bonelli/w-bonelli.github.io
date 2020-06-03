@@ -10,7 +10,7 @@
 .breadcrumb {
   background-color: transparent !important;
   font-weight: 600;
-  color: black;
+  color: #8FBC8F;
 }
 
 .breadcrumb:hover {
@@ -24,7 +24,7 @@
   padding-right:0px;
   color: #66ff99;
   background-color: white;
-  box-shadow: 0px 1px 2px 0px #66ff99;
+  border-bottom: 1px solid #373737;
 }
 
 .navbar-brand {
@@ -50,7 +50,7 @@ body {
 }
 
 hr {
-    background-color: #66ff99;
+    background-color: #373737;
 }
 
 a {
@@ -59,7 +59,6 @@ a {
 
 blockquote {
     color: #8FBC8F;
-    border-left: 1px;
     display: inline-block;
     margin-left: 2em;
     margin-right: 2em;

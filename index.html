@@ -5,17 +5,16 @@ title: Home
 
 <div class="container-fluid">
     <b>present occupation</b>
-    <hr>
     <p>
     scientific computing specialist
     <br>
     <a href="https://www.computational-plant-science.org/joomla30/">computational plant science lab</a>
     <br>
+    university of georgia
     </p>
 </div>
 <div class="container-fluid">
     <b>projects</b>
-    <hr>
     <ul>
         {% for project in site.projects %}
             <li>
@@ -26,7 +25,6 @@ title: Home
 </div>
 <div class="container-fluid">
     <b>posts</b>
-    <hr>
     <ul>
         {% for post in site.posts %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -35,7 +33,6 @@ title: Home
 </div>
 <div class="container-fluid">
     <b>publications</b>
-    <hr>
     <ul>
         {% for publication in site.publications %}
             <li>
