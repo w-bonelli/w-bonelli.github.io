@@ -3,8 +3,15 @@
 }
 
 .bg-dark {
-  background-color: black !important;
+  background-color: black;
+  padding-top: 50px;
   color: #66ff99;
+}
+
+.header {
+  background-color: transparent !important;
+  font-weight: 600;
+  color: #373737;
 }
 
 .breadcrumb {

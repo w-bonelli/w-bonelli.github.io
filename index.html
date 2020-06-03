@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div>
-    <b>present</b>
+    <b class="header">present</b>
     <p>
     <table style="vertical-align: start; padding-right: 5px">
     <tr>
@@ -20,23 +20,16 @@ title: Home
     </table>
 </div>
 <div>
-    <b>previous</b>
+    <b class="header">previous</b>
     <p>
     <table style="vertical-align: start; padding-right: 5px">
     <tr>
     <th style="padding-right: 25px">
     software engineer
     <br>
-    <a href="https://www.aamva.org/State-to-State/">s2s</a>
+    <a href="https://www.aamva.org/State-to-State/">state-to-state verification services</a>
     <br>
-    <a href="https://www.aamva.org/">aamva</a>
-    </th>
-    <th style="padding-right: 25px">
-    associate software engineer
-    <br>
-    <a href="https://www.aamva.org/State-to-State/">s2s</a>
-    <br>
-    <a href="https://www.aamva.org/">aamva</a>
+    <a href="https://www.aamva.org/">american association of motor vehicle administrators</a>
     </th>
     <th style="padding-right: 25px">
     undergraduate researcher
@@ -46,7 +39,7 @@ title: Home
     <a href="https://www.virginia.edu/">university of virginia</a>
     </th>
     <th style="padding-right: 25px">
-    software development intern
+    intern software developer
     <br>
     <a href=https://slingmax.com/">slingmax</a>
     <br>
@@ -57,7 +50,9 @@ title: Home
     </p>
 </div>
 <div>
-    <b>projects</b>
+    <b class="header">projects</b>
+    <br>
+    <br>
     <ul>
         {% for project in site.projects %}
             <li>
@@ -67,7 +62,9 @@ title: Home
     </ul>
 </div>
 <div>
-    <b>posts</b>
+    <b class="header">posts</b>
+    <br>
+    <br>
     <ul>
         {% for post in site.posts %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -75,7 +72,9 @@ title: Home
     </ul>
 </div>
 <div>
-    <b>publications</b>
+    <b class="header">publications</b>
+    <br>
+    <br>
     <ul>
         {% for publication in site.publications %}
             <li>
