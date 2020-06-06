@@ -7,11 +7,9 @@ Are words real? Nietzsche was skeptical:
 
 > "What is a word? The image of a nerve stimulus in sounds."[^1]
 
-The causalist, Hacking tells us[^2], is more confident. Like electrons, we can spray them at things with consistent results. I can breathe "Don't pay attention to your tongue" into the void and thus ensure you'll do the opposite. Things we can't locate or operationalize predictably, on the other hand, aren't real: Yeti, for instance, or the instant in time known as *later*.
+The causalist, Hacking tells us[^2], is more confident. Like electrons, we can spray them at things with (somewhat) consistent results. I can type "Don't pay attention to your tongue" into the void and thus ensure you'll do the opposite.
 
-Did you become aware of your tongue because I told you not to? Because some arcane symbols I arranged caused your neurons to fire in a peculiar way? Because the force-field ripples we call particles, all throughout the observable universe, continue to behave with some measure of statistical regularity?
-
-Of hierarchical systems, [Dijkstra posits](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html):
+Of complex systems, [Dijkstra posits](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html):
 
 > "...the number of levels that can be distinguished meaningfully... is kind of proportional to the logarithm of the ratio between the largest and the smallest grain."[^3]
 
@@ -19,27 +17,27 @@ In certain situations, claims Hofstadter,
 
 > "the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens."[^4]
 
-Consider his own example: primes. Their nature &mdash; that is, the strategy for their detection &mdash; can be communicated regardless of transmission language and computational substrate. Standard English, Brainfuck, or pig latin: it matters not which.
+His example is primes. Their nature &mdash; the strategy for their detection &mdash; is communicable regardless of transmission language and can be realized in silicon and grey matter alike.
 
 How? It did not all begin between Euclid's ears. Perhaps with a grunt some hundred thousand years ago: humanity's first word, so to speak. Which one was that?
 
-Some words are sharp: they have a point. Where is it? They point fingers. Cartwright cautions:
+Some words are sharp: they have a point. Where? They point fingers. Cartwright cautions:
 
 > “The fundamental laws of physics do not describe true facts about reality. Rendered as descriptions of facts, they are false; amended to be true, they lose... explanatory force.”[^5]
 
-According to [Box](https://en.wikipedia.org/wiki/All_models_are_wrong) and Lucěno,
+Per [Box](https://en.wikipedia.org/wiki/All_models_are_wrong) and Lucěno,
 
 > "any model is at best a useful fiction... Nevertheless enormous progress has been made by entertaining such fictions and using them as approximations."[^6]
 
-Affirms Morton:
+Writes Morton:
 
 > "The first task is to abolish the idea of the possibility of a metalanguage that could account for things while remaining uncontaminated by them... [but] some metaphors are better than others."[^7]
 
-How ought one define the thing which itself must make up the definition? Nietzsche warned:
+How to define the which must make up the definition? Nietzsche warned:
 
 > "The 'thing in itself' is quite incomprehensible to the creators of language and not at all worth aiming for."[^1]
 
-Heidegger tried anyway (it is form, not object, which is of interest):
+Heidegger tried anyway:
 
 > "We are now no longer interpreting [X] in terms of [Y], nor comparing it with [Z]... Although we dealt directly with [X] itself &mdash; indeed precisely because of this &mdash; we have shirked in the face of [X]. We have indeed not spoken of other things... but of [X] yet not directly and concretely from *out of it*, but *about it*."[^8]
 
@@ -55,7 +53,7 @@ Derrida called his work an
 
 > "'operation'... which, although it is consumed by the reading of other texts, in a certain fashion refers only to its own writing."[^11]
 
-Formal systems, like natural languages, are slippery. Godel found their descriptions incomplete. Tarski proved them incapable of defining their motives. Said Poincare:
+Formal systems are slippery as they are portable. Godel found their descriptions incomplete. Tarski proved them incapable of defining their motives. Poincare is reported to have said
 
 > "Mathematics is the art of giving the same name to different things."[^12]
 
@@ -63,7 +61,7 @@ Nietzsche, similarly:
 
 > "...every concept originates through our equating what is unequal."[^1]
 
-Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf) "mathematical object", I have substituted "thing":
+Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf) "mathematical object", I have taken the liberty of substituting "thing":
 
 > "To define the [things] we intend to study, we often &mdash; perhaps always &mdash; first make it understood, more implicitly than explicitly, how we intend these [things] to be presented to us, thereby delineating a kind of super-[thing]; that is, a species of [thing] garnished with a repertoire of modes of presentation. Only once this is done do we try to erase the scaffolding of the presentation, to say when two of these super-[things] &mdash; possibly presented to us in wildly different ways &mdash; are to be considered equal. In this oblique way, the [things] that we truly want enter the scene only defined as equivalence classes of explicitly presented [things]. That is, as specifically presented [things] with the specific presentation ignored, in the spirit of 'ham and eggs, but hold the ham.'"[^13]
 
