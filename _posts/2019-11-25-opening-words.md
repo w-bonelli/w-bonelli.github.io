@@ -33,7 +33,7 @@ Writes Morton:
 
 > "The first task is to abolish the idea of the possibility of a metalanguage that could account for things while remaining uncontaminated by them... [but] some metaphors are better than others."[^7]
 
-How to define the which must make up the definition? Nietzsche warned:
+How to define the thing which must make up the definition? Nietzsche warned:
 
 > "The 'thing in itself' is quite incomprehensible to the creators of language and not at all worth aiming for."[^1]
 
