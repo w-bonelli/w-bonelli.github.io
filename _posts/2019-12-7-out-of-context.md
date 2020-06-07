@@ -6,7 +6,7 @@ date: 2019-12-7
 
 Attention is scarce and software is glue: it sticks to minds and bodies and itself. It gets kinky. Untangling knots is called "managing complexity". This is hard to do. It's made increasingly difficult by the late profusion of mental and material machinery with which people program&mdash; what, exactly?
 
-One has the feeling there's an elephant in here. It's uneven and slippery, and parts of it are prickly, and it won't go away. Its skin is a bit like a stubbornly wrinkled shirt: you can only keep one or two bits of it straight at once.
+One has the feeling there's an elephant in here. Its skin is a bit like a stubbornly wrinkled shirt: you can only keep one or two bits of it straight at once. Parts of it are prickly, and it won't go away.
 
 Software, like language, depends on context. On this nearly everyone agrees. The proper balance of implicit and explicit detail to hold in view at any one time, however, is hotly debated.
 
