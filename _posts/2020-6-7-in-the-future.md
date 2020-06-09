@@ -24,7 +24,7 @@ date: 2020-6-7
 
 - ~~In the future~~ there is artificial "intelligence": not a [singleton](https://nickbostrom.com/fut/singleton.html), but not exactly disjoint, either.[^11]
 
-- ~~In the future~~ there is elevated atmospheric CO2.[^12] This has happened before.[^13] High ambient CO2 levels have been shown to impair cognition.[^14]
+- ~~In the future~~ there is elevated atmospheric CO2.[^12] This has happened before.[^13] High ambient CO2 levels can impair cognition.[^14]
 
 ---
 
