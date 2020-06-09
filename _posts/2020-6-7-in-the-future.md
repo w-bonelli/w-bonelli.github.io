@@ -18,6 +18,14 @@ date: 2020-6-7
 
 - ~~In the future~~ there are fewer insects.[^9]
 
+- ~~In the future~~ there are contagions.[^10]
+
+- ~~In the future~~ there are [data brokers](https://www.schneier.com/essays/archives/2020/01/were_banning_facial_.html).
+
+- ~~In the future~~ there is artificial "intelligence": not a [singleton](https://nickbostrom.com/fut/singleton.html), exactly, but not exactly disjoint, either.[^11] Its alters play the game pretty well. Most ignore the meta.
+
+- ~~In the future~~ there is elevated atmospheric CO2.[^12] This has happened before.[^13] High ambient CO2 levels have been shown to impair cognition.[^14]
+
 ---
 
 [^1]: Kornhuber, K., Osprey, S., Coumou, D., Petri, S., Petoukhov, V., Rahmstorf, S., & Gray, L. (2019). Extreme weather events in early summer 2018 connected by a recurrent hemispheric wave-7 pattern. Environmental Research Letters, 14(5), 054002. <a href="https://doi.org/10.1088/1748-9326/ab13bf">https://doi.org/10.1088/1748-9326/ab13bf</a>.
@@ -37,4 +45,14 @@ date: 2020-6-7
 [^8]: Porter, J. R., & Christensen, S. (2013). Deconstructing crop processes and models via identities: Crop models for climate change. Plant, Cell & Environment, n/a-n/a. <a href="https://doi.org/10.1111/pce.12107">https://doi.org/10.1111/pce.12107</a>
 
 [^9]: Sánchez-Bayo, F., & Wyckhuys, K. A. G. (2019). Worldwide decline of the entomofauna: A review of its drivers. Biological Conservation, 232, 8–27. <a href="https://doi.org/10.1016/j.biocon.2019.01.020">https://doi.org/10.1016/j.biocon.2019.01.020</a>.
+
+[^10]: Jones, Robert T., et al. “The Impact of Industrial Activities on Vector-Borne Disease Transmission.” Acta Tropica, vol. 188, 2018, pp. 142–151., <a href="">doi:10.1016/j.actatropica.2018.08.033</a>.
+
+[^11]: Vitali, S., Glattfelder, J. B., & Battiston, S. (2011). The network of global corporate control. PLoS ONE, 6(10), e25995. <a href="https://doi.org/10.1371/journal.pone.0025995">https://doi.org/10.1371/journal.pone.0025995</a>
+
+[^12]: Foster, G. L., Royer, D. L., & Lunt, D. J. (2017). Future climate forcing potentially without precedent in the last 420 million years. Nature Communications, 8(1), 14845. <a href="https://doi.org/10.1038/ncomms14845">https://doi.org/10.1038/ncomms14845</a>
+
+[^13]: Wagner, F. (1999). Century-Scale Shifts in Early Holocene Atmospheric CO2 Concentration. Science, 284(5422), 1971–1973. <a href="https://doi.org/10.1126/science.284.5422.1971">https://doi.org/10.1126/science.284.5422.1971</a>
+
+[^14]: Allen, J. G., MacNaughton, P., Satish, U., Santanam, S., Vallarino, J., & Spengler, J. D. (2016). Associations of Cognitive Function Scores with Carbon Dioxide, Ventilation, and Volatile Organic Compound Exposures in Office Workers: A Controlled Exposure Study of Green and Conventional Office Environments. Environmental Health Perspectives, 124(6), 805–812. <a href="https://doi.org/10.1289/ehp.1510037">https://doi.org/10.1289/ehp.1510037</a>
 
