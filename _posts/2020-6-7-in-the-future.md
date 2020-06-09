@@ -24,7 +24,9 @@ date: 2020-6-7
 
 - ~~In the future~~ there is artificial "intelligence": not a [singleton](https://nickbostrom.com/fut/singleton.html), but not exactly disjoint, either.[^11]
 
-- ~~In the future~~ there is elevated atmospheric CO2.[^12] This has happened before.[^13] High ambient CO2 levels can impair cognition.[^14]
+- ~~In the future~~ there is elevated atmospheric CO2.[^12] High ambient CO2 levels can impair cognition.[^13]
+
+- ~~In the future~~ there is distress[^14] and depression.[^15] Feelings of insecurity may stimulate excessive patterns of consumption.[^16]
 
 ---
 
@@ -52,7 +54,11 @@ date: 2020-6-7
 
 [^12]: Foster, G. L., Royer, D. L., & Lunt, D. J. (2017). Future climate forcing potentially without precedent in the last 420 million years. Nature Communications, 8(1), 14845. <a href="https://doi.org/10.1038/ncomms14845">https://doi.org/10.1038/ncomms14845</a>
 
-[^13]: Wagner, F. (1999). Century-Scale Shifts in Early Holocene Atmospheric CO2 Concentration. Science, 284(5422), 1971–1973. <a href="https://doi.org/10.1126/science.284.5422.1971">https://doi.org/10.1126/science.284.5422.1971</a>
+[^13]: Allen, J. G., MacNaughton, P., Satish, U., Santanam, S., Vallarino, J., & Spengler, J. D. (2016). Associations of Cognitive Function Scores with Carbon Dioxide, Ventilation, and Volatile Organic Compound Exposures in Office Workers: A Controlled Exposure Study of Green and Conventional Office Environments. Environmental Health Perspectives, 124(6), 805–812. <a href="https://doi.org/10.1289/ehp.1510037">https://doi.org/10.1289/ehp.1510037</a>
 
-[^14]: Allen, J. G., MacNaughton, P., Satish, U., Santanam, S., Vallarino, J., & Spengler, J. D. (2016). Associations of Cognitive Function Scores with Carbon Dioxide, Ventilation, and Volatile Organic Compound Exposures in Office Workers: A Controlled Exposure Study of Green and Conventional Office Environments. Environmental Health Perspectives, 124(6), 805–812. <a href="https://doi.org/10.1289/ehp.1510037">https://doi.org/10.1289/ehp.1510037</a>
+[^14]: Blanco, C., Okuda, M., Wright, C., Hasin, D. S., Grant, B. F., Liu, S.-M., & Olfson, M. (2008). Mental Health of College Students and Their Non–College-Attending Peers: Results From the National Epidemiologic Study on Alcohol and Related Conditions. Archives of General Psychiatry, 65(12), 1429. <a href="https://doi.org/10.1001/archpsyc.65.12.1429">https://doi.org/10.1001/archpsyc.65.12.1429</a>
+
+[^15]: Chow, P. I., Fua, K., Huang, Y., Bonelli, W., Xiong, H., Barnes, L. E., & Teachman, B. A. (2017). Using Mobile Sensing to Test Clinical Models of Depression, Social Anxiety, State Affect, and Social Isolation Among College Students. Journal of Medical Internet Research, 19(3), e62. <a href="https://doi.org/10.2196/jmir.6820">https://doi.org/10.2196/jmir.6820</a>
+
+[^16]: Kasser, T., & Sheldon, K. M. (2000). Of Wealth and Death: Materialism, Mortality Salience, and Consumption Behavior. Psychological Science, 11(4), 348–351. <a href="https://doi.org/10.1111/1467-9280.00269">https://doi.org/10.1111/1467-9280.00269</a>
 
