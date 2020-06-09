@@ -22,7 +22,7 @@ date: 2020-6-7
 
 - ~~In the future~~ there are [data brokers](https://www.schneier.com/essays/archives/2020/01/were_banning_facial_.html).
 
-- ~~In the future~~ there is artificial "intelligence": not a [singleton](https://nickbostrom.com/fut/singleton.html), exactly, but not exactly disjoint, either.[^11] Its alters play the game pretty well. Most ignore the meta.
+- ~~In the future~~ there is artificial "intelligence": not a [singleton](https://nickbostrom.com/fut/singleton.html), but not exactly disjoint, either.[^11] It plays the short game and ignores the long one.
 
 - ~~In the future~~ there is elevated atmospheric CO2.[^12] This has happened before.[^13] High ambient CO2 levels have been shown to impair cognition.[^14]
 
