@@ -26,7 +26,7 @@ date: 2020-6-7
 
 - ~~In the future~~ there is elevated atmospheric CO2.[^12] High ambient CO2 levels can impair cognition.[^13]
 
-- ~~In the future~~ there is distress[^14] and depression.[^15] Feelings of insecurity may stimulate excessive patterns of consumption.[^16]
+- ~~In the future~~ there is distress[^14] and depression.[^15] Feelings of insecurity may stimulate over-consumption.[^16]
 
 ---
 
