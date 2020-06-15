@@ -4,6 +4,8 @@ title: in the future
 date: 2020-6-7
 ---
 
+This post is a perpetual work in progress.
+
 - ~~In the future~~ there is heat.[^1]
 
 - ~~In the future~~ there is geoengineering.[^2] If there is stratospheric aerosol injection, there may be ozone loss and elevated UV-B radiation.[^3] This has happened before.[^4]
@@ -26,7 +28,7 @@ date: 2020-6-7
 
 - ~~In the future~~ there is elevated atmospheric CO2.[^12] High ambient CO2 levels can impair cognition.[^13]
 
-- ~~In the future~~ there is distress,[^14] depression,[^15] and psychological insecurity, which may stimulate over-consumption.[^16]
+- ~~In the future~~ there is distress,[^14] anxiety, and depression.[^15] Feelings of existential insecurity may stimulate over-consumption.[^16]
 
 - ~~In the future~~ there is plastic pollution.[^17] Microplastic ingestion likely impairs cognition in hermit crabs.[^18] Americans now ingest between 39,000 and 142,000 microplastic particles per year, on average, and inhale between 74,000 and 121,000; moreover, "given methodological and data limitations, these values are likely underestimates."[^19]
 
