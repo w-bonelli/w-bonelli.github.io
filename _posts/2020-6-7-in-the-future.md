@@ -22,11 +22,13 @@ date: 2020-6-7
 
 - ~~In the future~~ there are [data brokers](https://www.schneier.com/essays/archives/2020/01/were_banning_facial_.html).
 
-- ~~In the future~~ there are [paperclip maximizers](https://nickbostrom.com/ethics/ai.html): definitely not a [singleton](https://nickbostrom.com/fut/singleton.html), but not exactly disjoint, either.[^11]
+- ~~In the future~~ there are [paperclip maximizers](https://nickbostrom.com/ethics/ai.html): not a [singleton](https://nickbostrom.com/fut/singleton.html), but not exactly disjoint, either.[^11]
 
 - ~~In the future~~ there is elevated atmospheric CO2.[^12] High ambient CO2 levels can impair cognition.[^13]
 
-- ~~In the future~~ there is distress,[^14] depression,[^15] and insecurity, which may stimulate over-consumption.[^16]
+- ~~In the future~~ there is distress,[^14] depression,[^15] and psychological insecurity, which may stimulate over-consumption.[^16]
+
+- ~~In the future~~ there is plastic pollution.[^17] Microplastic ingestion likely impairs cognition in hermit crabs.[^18] Americans now ingest between 39,000 and 142,000 microplastic particles per year, on average, and inhale between 74,000 and 121,000; moreover, "given methodological and data limitations, these values are likely underestimates."[^19]
 
 ---
 
@@ -61,4 +63,10 @@ date: 2020-6-7
 [^15]: Chow, P. I., Fua, K., Huang, Y., Bonelli, W., Xiong, H., Barnes, L. E., & Teachman, B. A. (2017). Using Mobile Sensing to Test Clinical Models of Depression, Social Anxiety, State Affect, and Social Isolation Among College Students. Journal of Medical Internet Research, 19(3), e62. <a href="https://doi.org/10.2196/jmir.6820">https://doi.org/10.2196/jmir.6820</a>
 
 [^16]: Kasser, T., & Sheldon, K. M. (2000). Of Wealth and Death: Materialism, Mortality Salience, and Consumption Behavior. Psychological Science, 11(4), 348–351. <a href="https://doi.org/10.1111/1467-9280.00269">https://doi.org/10.1111/1467-9280.00269</a>
+
+[^17]: Nielsen, T. D., Hasselbalch, J., Holmberg, K., & Stripple, J. (2020). Politics and the plastic crisis: A review throughout the plastic life cycle. WIREs Energy and Environment, 9(1). <a href="https://doi.org/10.1002/wene.360">https://doi.org/10.1002/wene.360</a>
+
+[^18]: Crump, A., Mullens, C., Bethell, E. J., Cunningham, E. M., & Arnott, G. (2020). Microplastics disrupt hermit crab shell selection. Biology Letters, 16(4), 20200030. <a href="https://doi.org/10.1098/rsbl.2020.0030">https://doi.org/10.1098/rsbl.2020.0030</a>
+
+[^19]: Cox, K. D., Covernton, G. A., Davies, H. L., Dower, J. F., Juanes, F., & Dudas, S. E. (2019). Human Consumption of Microplastics. Environmental Science & Technology, 53(12), 7068–7074. <a href="https://doi.org/10.1021/acs.est.9b01517">https://doi.org/10.1021/acs.est.9b01517</a>
 
