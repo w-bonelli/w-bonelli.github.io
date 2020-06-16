@@ -3,7 +3,7 @@ layout: post
 title: opening words
 ---
 
-Are words real? Nietzsche was skeptical:
+Are words real? Nietzsche wondered:
 
 > "What is a word? The image of a nerve stimulus in sounds."[^1]
 
