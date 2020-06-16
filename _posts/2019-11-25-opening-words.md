@@ -3,11 +3,9 @@ layout: post
 title: opening words
 ---
 
-Are words real? Nietzsche wondered:
-
 > "What is a word? The image of a nerve stimulus in sounds."[^1]
 
-The causalist, Hacking tells us[^2], is more confident. Like electrons, we can spray them at things with (somewhat) consistent results. I can type "Don't pay attention to your tongue" into the void and thus ensure you'll do the opposite.
+The causalist, Hacking tells us[^2], is not as skeptical as Nietzsche. Like electrons, we can spray them at things with (somewhat) consistent results. I can type "Don't pay attention to your tongue" into the void and thus ensure you'll do the opposite.
 
 Of complex systems, [Dijkstra posits](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html):
 
