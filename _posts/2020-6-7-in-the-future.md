@@ -36,7 +36,7 @@ This post is a perpetual work in progress.
 
 [^1]: Kornhuber, K., Osprey, S., Coumou, D., Petri, S., Petoukhov, V., Rahmstorf, S., & Gray, L. (2019). Extreme weather events in early summer 2018 connected by a recurrent hemispheric wave-7 pattern. Environmental Research Letters, 14(5), 054002. <a href="https://doi.org/10.1088/1748-9326/ab13bf">https://doi.org/10.1088/1748-9326/ab13bf</a>.
 
-[^2]: Brown, P. T., & Caldeira, K. (2017). Greater future global warming inferred from Earth’s recent energy budget. Nature, 552(7683), 45–50. <a href="">https://doi.org/10.1038/nature24672</a>.
+[^2]: Brown, P. T., & Caldeira, K. (2017). Greater future global warming inferred from Earth’s recent energy budget. Nature, 552(7683), 45–50. <a href="https://doi.org/10.1038/nature24672">https://doi.org/10.1038/nature24672</a>.
 
 [^3]: Heckendorn, P., Weisenstein, D., Fueglistaler, S., Luo, B. P., Rozanov, E., Schraner, M., Thomason, L. W., & Peter, T. (2009). The impact of geoengineering aerosols on stratospheric temperature and ozone. Environmental Research Letters, 4(4), 045108. <a href="https://doi.org/10.1088/1748-9326/4/4/045108">https://doi.org/10.1088/1748-9326/4/4/045108</a>.
 
@@ -52,7 +52,7 @@ This post is a perpetual work in progress.
 
 [^9]: Sánchez-Bayo, F., & Wyckhuys, K. A. G. (2019). Worldwide decline of the entomofauna: A review of its drivers. Biological Conservation, 232, 8–27. <a href="https://doi.org/10.1016/j.biocon.2019.01.020">https://doi.org/10.1016/j.biocon.2019.01.020</a>.
 
-[^10]: Jones, Robert T., et al. “The Impact of Industrial Activities on Vector-Borne Disease Transmission.” Acta Tropica, vol. 188, 2018, pp. 142–151., <a href="">doi:10.1016/j.actatropica.2018.08.033</a>.
+[^10]: Jones, Robert T., et al. “The Impact of Industrial Activities on Vector-Borne Disease Transmission.” Acta Tropica, vol. 188, 2018, pp. 142–151., <a href="doi:10.1016/j.actatropica.2018.08.033">doi:10.1016/j.actatropica.2018.08.033</a>.
 
 [^11]: Vitali, S., Glattfelder, J. B., & Battiston, S. (2011). The network of global corporate control. PLoS ONE, 6(10), e25995. <a href="https://doi.org/10.1371/journal.pone.0025995">https://doi.org/10.1371/journal.pone.0025995</a>
 
@@ -72,5 +72,5 @@ This post is a perpetual work in progress.
 
 [^19]: Cox, K. D., Covernton, G. A., Davies, H. L., Dower, J. F., Juanes, F., & Dudas, S. E. (2019). Human Consumption of Microplastics. Environmental Science & Technology, 53(12), 7068–7074. <a href="https://doi.org/10.1021/acs.est.9b01517">https://doi.org/10.1021/acs.est.9b01517</a>
 
-[^20]: Sun, X.-D., Yuan, X.-Z., Jia, Y., Feng, L.-J., Zhu, F.-P., Dong, S.-S., Liu, J., Kong, X., Tian, H., Duan, J.-L., Ding, Z., Wang, S.-G., & Xing, B. (2020). Differentially charged nanoplastics demonstrate distinct accumulation in Arabidopsis thaliana. Nature Nanotechnology. https://doi.org/10.1038/s41565-020-0707-4
+[^20]: Sun, X.-D., Yuan, X.-Z., Jia, Y., Feng, L.-J., Zhu, F.-P., Dong, S.-S., Liu, J., Kong, X., Tian, H., Duan, J.-L., Ding, Z., Wang, S.-G., & Xing, B. (2020). Differentially charged nanoplastics demonstrate distinct accumulation in Arabidopsis thaliana. Nature Nanotechnology. <a href="https://doi.org/10.1038/s41565-020-0707-4">https://doi.org/10.1038/s41565-020-0707-4</a>
 
