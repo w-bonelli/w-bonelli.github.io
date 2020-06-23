@@ -52,7 +52,7 @@ This post is a perpetual work in progress.
 
 [^9]: Sánchez-Bayo, F., & Wyckhuys, K. A. G. (2019). Worldwide decline of the entomofauna: A review of its drivers. Biological Conservation, 232, 8–27. <a href="https://doi.org/10.1016/j.biocon.2019.01.020">https://doi.org/10.1016/j.biocon.2019.01.020</a>.
 
-[^10]: Jones, Robert T., et al. “The Impact of Industrial Activities on Vector-Borne Disease Transmission.” Acta Tropica, vol. 188, 2018, pp. 142–151., <a href="https://doi:10.1016/j.actatropica.2018.08.033">https://doi:10.1016/j.actatropica.2018.08.033</a>.
+[^10]: Jones, Robert T., et al. “The Impact of Industrial Activities on Vector-Borne Disease Transmission.” Acta Tropica, vol. 188, 2018, pp. 142–151., <a href="https://doi.org/10.1016/j.actatropica.2018.08.033">https://doi.org/10.1016/j.actatropica.2018.08.033</a>.
 
 [^11]: Vitali, S., Glattfelder, J. B., & Battiston, S. (2011). The network of global corporate control. PLoS ONE, 6(10), e25995. <a href="https://doi.org/10.1371/journal.pone.0025995">https://doi.org/10.1371/journal.pone.0025995</a>
 
