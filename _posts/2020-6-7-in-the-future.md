@@ -30,7 +30,7 @@ This post is a perpetual work in progress.
 
 - ~~In the future~~ there is distress,[^14] anxiety, and depression.[^15] Feelings of existential insecurity may stimulate over-consumption.[^16]
 
-- ~~In the future~~ there is plastic pollution.[^17] Microplastic ingestion likely impairs cognition in hermit crabs.[^18] Americans now ingest between 39,000 and 142,000 microplastic particles per year, on average, and inhale between 74,000 and 121,000; moreover, "given methodological and data limitations, these values are likely underestimates."[^19]
+- ~~In the future~~ there is plastic pollution.[^17] Microplastic ingestion likely impairs cognition in hermit crabs.[^18] Americans now ingest between 39,000 and 142,000 microplastic particles per year, on average, and inhale between 74,000 and 121,000; "given methodological and data limitations, these values are likely underestimates."[^19] Nanoplastics have been shown to accumulate in *arabidopsis*.[^20]
 
 ---
 
@@ -71,4 +71,6 @@ This post is a perpetual work in progress.
 [^18]: Crump, A., Mullens, C., Bethell, E. J., Cunningham, E. M., & Arnott, G. (2020). Microplastics disrupt hermit crab shell selection. Biology Letters, 16(4), 20200030. <a href="https://doi.org/10.1098/rsbl.2020.0030">https://doi.org/10.1098/rsbl.2020.0030</a>
 
 [^19]: Cox, K. D., Covernton, G. A., Davies, H. L., Dower, J. F., Juanes, F., & Dudas, S. E. (2019). Human Consumption of Microplastics. Environmental Science & Technology, 53(12), 7068–7074. <a href="https://doi.org/10.1021/acs.est.9b01517">https://doi.org/10.1021/acs.est.9b01517</a>
+
+[^20]: Sun, X.-D., Yuan, X.-Z., Jia, Y., Feng, L.-J., Zhu, F.-P., Dong, S.-S., Liu, J., Kong, X., Tian, H., Duan, J.-L., Ding, Z., Wang, S.-G., & Xing, B. (2020). Differentially charged nanoplastics demonstrate distinct accumulation in Arabidopsis thaliana. Nature Nanotechnology. https://doi.org/10.1038/s41565-020-0707-4
 
