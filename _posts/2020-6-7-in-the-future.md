@@ -36,13 +36,13 @@ This post is a perpetual work in progress.
 
 [^1]: Kornhuber, K., Osprey, S., Coumou, D., Petri, S., Petoukhov, V., Rahmstorf, S., & Gray, L. (2019). Extreme weather events in early summer 2018 connected by a recurrent hemispheric wave-7 pattern. Environmental Research Letters, 14(5), 054002. <a href="https://doi.org/10.1088/1748-9326/ab13bf">https://doi.org/10.1088/1748-9326/ab13bf</a>.
 
-[^2]: Brown, P. T., & Caldeira, K. (2017). Greater future global warming inferred from Earth’s recent energy budget. Nature, 552(7683), 45–50. <a href="https://doi.org/10.1038/nature24672">https://doi.org/10.1038/nature24672</a>.
+[^2]: Steffen, W., Rockström, J., Richardson, K., Lenton, T. M., Folke, C., Liverman, D., Summerhayes, C. P., Barnosky, A. D., Cornell, S. E., Crucifix, M., Donges, J. F., Fetzer, I., Lade, S. J., Scheffer, M., Winkelmann, R., & Schellnhuber, H. J. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the National Academy of Sciences, 115(33), 8252–8259. <a href="https://doi.org/10.1073/pnas.1810141115">https://doi.org/10.1073/pnas.1810141115</a>.
 
 [^3]: Heckendorn, P., Weisenstein, D., Fueglistaler, S., Luo, B. P., Rozanov, E., Schraner, M., Thomason, L. W., & Peter, T. (2009). The impact of geoengineering aerosols on stratospheric temperature and ozone. Environmental Research Letters, 4(4), 045108. <a href="https://doi.org/10.1088/1748-9326/4/4/045108">https://doi.org/10.1088/1748-9326/4/4/045108</a>.
 
 [^4]: Marshall, J. E. A., Lakin, J., Troth, I., & Wallace-Johnson, S. M. (2020). UV-B radiation was the Devonian-Carboniferous boundary terrestrial extinction kill mechanism. Science Advances, 6(22), eaba0768. <a href="https://doi.org/10.1126/sciadv.aba0768">https://doi.org/10.1126/sciadv.aba0768</a>.
 
-[^5]: Steffen, W., Rockström, J., Richardson, K., Lenton, T. M., Folke, C., Liverman, D., Summerhayes, C. P., Barnosky, A. D., Cornell, S. E., Crucifix, M., Donges, J. F., Fetzer, I., Lade, S. J., Scheffer, M., Winkelmann, R., & Schellnhuber, H. J. (2018). Trajectories of the Earth System in the Anthropocene. Proceedings of the National Academy of Sciences, 115(33), 8252–8259. <a href="https://doi.org/10.1073/pnas.1810141115">https://doi.org/10.1073/pnas.1810141115</a>.
+[^5]: Brown, P. T., & Caldeira, K. (2017). Greater future global warming inferred from Earth’s recent energy budget. Nature, 552(7683), 45–50. <a href="https://doi.org/10.1038/nature24672">https://doi.org/10.1038/nature24672</a>.
 
 [^6]: Bradshaw, C. J. A., & Brook, B. W. (2014). Human population reduction is not a quick fix for environmental problems. Proceedings of the National Academy of Sciences, 111(46), 16610–16615. <a href="https://doi.org/10.1073/pnas.1410465111">https://doi.org/10.1073/pnas.1410465111</a>.
 
