@@ -20,7 +20,7 @@ This post is a perpetual work in progress.
 
 - ~~In the future~~ there are fewer insects.[^9]
 
-- ~~In the future~~ there are contagions.[^10]
+- ~~In the future~~ there are more contagions.[^10]
 
 - ~~In the future~~ there are [data brokers](https://www.schneier.com/essays/archives/2020/01/were_banning_facial_.html).
 
