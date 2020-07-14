@@ -5,7 +5,7 @@ title: opening words
 
 > "What is a word? The image of a nerve stimulus in sounds."[^1]
 
-The causalist, Hacking tells us[^2], is not as skeptical as Nietzsche. Like electrons, we can spray words at things with (somewhat) consistent results. I can type "Don't pay attention to your tongue" into the void and thus ensure you'll do the opposite.
+To the causalist, Hacking tells us[^2], words are like electrons: we can spray them at things with (sort of) consistent results. I can type "Don't pay attention to your tongue" into the void and thus ensure you'll do the opposite.
 
 Of complex systems, [Dijkstra posits](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD361.html):
 
