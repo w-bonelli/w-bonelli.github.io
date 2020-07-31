@@ -28,9 +28,9 @@ This post is a perpetual work in progress.
 
 - ~~In the future~~ there is elevated atmospheric CO2.[^12] High ambient CO2 levels can impair cognition.[^13]
 
-- ~~In the future~~ there is distress,[^14] anxiety, and depression.[^15] Feelings of existential insecurity may stimulate over-consumption.[^16]
+- ~~In the future~~ there is distress.[^14] Feelings of existential insecurity may stimulate over-consumption.[^15]
 
-- ~~In the future~~ there is plastic pollution.[^17] Microplastic ingestion likely impairs cognition in hermit crabs.[^18] Americans now ingest between 39,000 and 142,000 microplastic particles per year, on average, and inhale between 74,000 and 121,000; "given methodological and data limitations, these values are likely underestimates."[^19] Nanoplastics have been shown to accumulate in *arabidopsis*.[^20]
+- ~~In the future~~ there is plastic pollution.[^16] Microplastic ingestion likely impairs cognition in hermit crabs.[^17] Americans now ingest between 39,000 and 142,000 microplastic particles per year, on average, and inhale between 74,000 and 121,000; "given methodological and data limitations, these values are likely underestimates."[^18] Nanoplastics have been shown to accumulate in *arabidopsis*.[^19]
 
 ---
 
@@ -62,15 +62,13 @@ This post is a perpetual work in progress.
 
 [^14]: Blanco, C., Okuda, M., Wright, C., Hasin, D. S., Grant, B. F., Liu, S.-M., & Olfson, M. (2008). Mental Health of College Students and Their Non–College-Attending Peers: Results From the National Epidemiologic Study on Alcohol and Related Conditions. Archives of General Psychiatry, 65(12), 1429. <a href="https://doi.org/10.1001/archpsyc.65.12.1429">https://doi.org/10.1001/archpsyc.65.12.1429</a>
 
-[^15]: Chow, P. I., Fua, K., Huang, Y., Bonelli, W., Xiong, H., Barnes, L. E., & Teachman, B. A. (2017). Using Mobile Sensing to Test Clinical Models of Depression, Social Anxiety, State Affect, and Social Isolation Among College Students. Journal of Medical Internet Research, 19(3), e62. <a href="https://doi.org/10.2196/jmir.6820">https://doi.org/10.2196/jmir.6820</a>
+[^15]: Kasser, T., & Sheldon, K. M. (2000). Of Wealth and Death: Materialism, Mortality Salience, and Consumption Behavior. Psychological Science, 11(4), 348–351. <a href="https://doi.org/10.1111/1467-9280.00269">https://doi.org/10.1111/1467-9280.00269</a>
 
-[^16]: Kasser, T., & Sheldon, K. M. (2000). Of Wealth and Death: Materialism, Mortality Salience, and Consumption Behavior. Psychological Science, 11(4), 348–351. <a href="https://doi.org/10.1111/1467-9280.00269">https://doi.org/10.1111/1467-9280.00269</a>
+[^16]: Nielsen, T. D., Hasselbalch, J., Holmberg, K., & Stripple, J. (2020). Politics and the plastic crisis: A review throughout the plastic life cycle. WIREs Energy and Environment, 9(1). <a href="https://doi.org/10.1002/wene.360">https://doi.org/10.1002/wene.360</a>
 
-[^17]: Nielsen, T. D., Hasselbalch, J., Holmberg, K., & Stripple, J. (2020). Politics and the plastic crisis: A review throughout the plastic life cycle. WIREs Energy and Environment, 9(1). <a href="https://doi.org/10.1002/wene.360">https://doi.org/10.1002/wene.360</a>
+[^17]: Crump, A., Mullens, C., Bethell, E. J., Cunningham, E. M., & Arnott, G. (2020). Microplastics disrupt hermit crab shell selection. Biology Letters, 16(4), 20200030. <a href="https://doi.org/10.1098/rsbl.2020.0030">https://doi.org/10.1098/rsbl.2020.0030</a>
 
-[^18]: Crump, A., Mullens, C., Bethell, E. J., Cunningham, E. M., & Arnott, G. (2020). Microplastics disrupt hermit crab shell selection. Biology Letters, 16(4), 20200030. <a href="https://doi.org/10.1098/rsbl.2020.0030">https://doi.org/10.1098/rsbl.2020.0030</a>
+[^18]: Cox, K. D., Covernton, G. A., Davies, H. L., Dower, J. F., Juanes, F., & Dudas, S. E. (2019). Human Consumption of Microplastics. Environmental Science & Technology, 53(12), 7068–7074. <a href="https://doi.org/10.1021/acs.est.9b01517">https://doi.org/10.1021/acs.est.9b01517</a>
 
-[^19]: Cox, K. D., Covernton, G. A., Davies, H. L., Dower, J. F., Juanes, F., & Dudas, S. E. (2019). Human Consumption of Microplastics. Environmental Science & Technology, 53(12), 7068–7074. <a href="https://doi.org/10.1021/acs.est.9b01517">https://doi.org/10.1021/acs.est.9b01517</a>
-
-[^20]: Sun, X.-D., Yuan, X.-Z., Jia, Y., Feng, L.-J., Zhu, F.-P., Dong, S.-S., Liu, J., Kong, X., Tian, H., Duan, J.-L., Ding, Z., Wang, S.-G., & Xing, B. (2020). Differentially charged nanoplastics demonstrate distinct accumulation in Arabidopsis thaliana. Nature Nanotechnology. <a href="https://doi.org/10.1038/s41565-020-0707-4">https://doi.org/10.1038/s41565-020-0707-4</a>
+[^19]: Sun, X.-D., Yuan, X.-Z., Jia, Y., Feng, L.-J., Zhu, F.-P., Dong, S.-S., Liu, J., Kong, X., Tian, H., Duan, J.-L., Ding, Z., Wang, S.-G., & Xing, B. (2020). Differentially charged nanoplastics demonstrate distinct accumulation in Arabidopsis thaliana. Nature Nanotechnology. <a href="https://doi.org/10.1038/s41565-020-0707-4">https://doi.org/10.1038/s41565-020-0707-4</a>
 

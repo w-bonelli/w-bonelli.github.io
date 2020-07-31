@@ -30,9 +30,11 @@ This is not a paltry requisition. Meanwhile the usual business carries on.
 
 > "...vast numbers of people... [have] a low income, long commute and little career progression. Climate change will compound their difficulties, with increasing food prices and anxieties about the future. In such a context, it is unclear whether solidarity... will be a widespread response."[^1]
 
-[So claims Bendell](https://jembendell.com/2019/11/05/will-we-care-enough-to-matter-to-them-climate-justice-solidarity-and-deep-adaptation/). Morton posits in "agrilogistics" a far older demon.[^2] Maybe he and Butler would approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
+So claims Bendell. Morton posits in "agrilogistics" a far older demon.[^2] Maybe he and Butler would approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
-Wicked problems tend to be things we're *inside*: like global heating, the bacteriological arms race, systems of institutional racism and state-sanctioned brutality, or SARS-CoV-2. In this warming web of stuff and life we are not alone. What now?
+Wicked problems tend to be things we're *inside*: like global heating, the bacteriological arms race, systems of institutional racism and state-sanctioned brutality, the Holocene extinction, or SARS-CoV-2. In this warming web of stuff and life we are not yet alone. What now?
+
+---
 
 [^1]: Bendell, Jem. *Will We Care Enough to Matter to Them? Climate Justice, Solidarity and Deep Adaptation.* 5 Nov. 2019.
 [^2]: Morton, Timothy. *Dark Ecology: For a Logic of Future Coexistence.* Columbia University Press, 2018.
