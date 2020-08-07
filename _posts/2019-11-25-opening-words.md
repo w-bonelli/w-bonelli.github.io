@@ -33,7 +33,7 @@ Derrida called his work an
 
 > "'operation'... which, although it is consumed by the reading of other texts, in a certain fashion refers only to its own writing."[^7]
 
-Formal systems, like natural languages, are slippery. Godel found their statements contradictory and their descriptions incomplete. Tarski proved them incapable of defining their motives. Poincare is reported to have said:
+Formal systems, like natural languages, are slippery. Godel found their statements inconsistent and their descriptions incomplete. Tarski proved them incapable of defining their motives. Poincare is reported to have said:
 
 > "Mathematics is the art of giving the same name to different things."[^8]
 

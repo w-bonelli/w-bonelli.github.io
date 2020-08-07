@@ -8,9 +8,9 @@ This post is a perpetual work in progress.
 
 - ~~In the future~~ there is heat.[^1]
 
-- ~~In the future~~ there is geoengineering.[^2] If there is stratospheric aerosol injection, there may be ozone loss and elevated UV-B radiation.[^3] This has happened before.[^4]
+- ~~In the future~~ there is geoengineering,[^2] which [Wikipedia defines](https://en.wikipedia.org/wiki/Climate_engineering) as "deliberate and large-scale [intervention in the Earth's climate system](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_controversy)". If there is compensatory [stratospheric aerosol injection](https://en.wikipedia.org/wiki/Stratospheric_aerosol_injection), there may be ozone loss and elevated UV-B radiation.[^3] This has happened before.[^4]
 
-- ~~In the future~~ there is departure from the Holocene equilibrium.[^5]
+- ~~In the future~~ there is departure from the [Holocene](https://en.wikipedia.org/wiki/Holocene) equilibrium.[^5]
 
 - ~~In the future~~ there is [erratic weather](https://www.farmprogress.com/farm-operations/usda-crop-progress-corn-planting-drags-along).
 
@@ -26,7 +26,7 @@ This post is a perpetual work in progress.
 
 - ~~In the future~~ there are [paperclip maximizers](https://nickbostrom.com/ethics/ai.html): not a [singleton](https://nickbostrom.com/fut/singleton.html), but not exactly disjoint, either.[^11]
 
-- ~~In the future~~ there is elevated atmospheric CO2.[^12] High ambient CO2 levels can impair cognition.[^13]
+- ~~In the future~~ there is elevated atmospheric CO2,[^12] a known driver of [radiative forcing](https://en.wikipedia.org/wiki/Radiative_forcing). High ambient CO2 levels can also impair cognition.[^13]
 
 - ~~In the future~~ there is distress.[^14] Feelings of existential insecurity may stimulate over-consumption.[^15]
 
