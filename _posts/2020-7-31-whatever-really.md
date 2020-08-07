@@ -11,7 +11,7 @@ It is one thing for predictions made by two models to comport with one another. 
 
 > “The fundamental laws of physics do not describe true facts about reality. Rendered as descriptions of facts, they are false; amended to be true, they lose... explanatory force.”[^2]
 
-Should we really construe the physical *mode of presentation* not merely as an epistemological tool, but as an ontological truth? Ought biological research programs close ranks around &mdash; that is, adopt as a Lakatosian "hard core" &mdash; the idea that biology is strictly reducible to chemistry and physics, or attempt to coax useful predictions from any ground appearing sufficiently fertile to offer them? Can biology be understood exclusively in terms of its substrata?
+Should we really construe the physical *mode of presentation* not merely as an epistemological tool, but as an ontological truth? Ought biological research programs close ranks around &mdash; that is, adopt as a Lakatosian "hard core" &mdash; the idea that biology is strictly reducible to chemistry and physics? Or should we attempt to coax useful predictions from any ground appearing sufficiently fertile to offer them? Can biology really be understood exclusively in terms of its substrata?
 
 Without doubt some measure of physicalism does remain indispensable to biological science. Deacon reminds us:
 
