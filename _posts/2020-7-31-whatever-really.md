@@ -39,7 +39,7 @@ To Bach, Turing’s test is for us, not the machine[^9]: we will not understand 
 
 The former is sometimes said to be untrodden territory. It is not. The latter is. Both are said to be dangerous. I wholeheartedly agree. But it may now be more dangerous *not* to pursue both, precisely because we have manipulated the biosphere with increasingly wild abandon for the last several hundred years.
 
-This is not an enviable situation, but neither is it a boring one.
+This is not an enviable situation, but it is not a boring one either.
 
 ---
 
