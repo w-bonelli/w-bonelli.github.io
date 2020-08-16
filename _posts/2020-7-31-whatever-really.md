@@ -7,7 +7,9 @@ title: whatever really
 
 There is, by all accounts, some measure of order in the universe. Whether this is a timeless quality or a temporary aberration, we do not know. Nonetheless science presupposes signals in the noise around us. Phenomena, it seems, can be predicted. To predict, we model — that is, we represent. Informed thusly, we act. We hope our models correspond, in some useful way, to whatever really is there; to whatever there really is. But what *is* there, really? Can we know? And how best ought we model it?
 
-Some schools of thought assert that the world is exclusively [physical](https://en.wikipedia.org/wiki/Physicalism). It is not abundantly clear what exactly this means &mdash; it would be a gross oversimplification, for instance, to ascribe to all camps the view that all things may find satisfactory causal explanation in the states, motions, and collective configurations of particles &mdash; but there does seem to be a common thread: one of [Mazur's super-objects](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf), folded around its particular object so tightly that, much like the extra-dimensional compactification physicists propose, we may not notice it. But Cartwright cautions:
+Some schools of thought assert that the world is exclusively [physical](https://en.wikipedia.org/wiki/Physicalism). It is not always clear what this means &mdash; one cannot ascribe to all camps the view, for instance, that the states, motions, and collective configurations of particles suffice to explain all things. But there does seem to be a common thread &mdash; one of [Mazur's super-objects](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf), folded around its particular subject matter so tightly that, much like the extra-dimensional compactification physicists propose, we may not notice it.
+
+But Cartwright cautions:
 
 > “The fundamental laws of physics do not describe true facts about reality. Rendered as descriptions of facts, they are false; amended to be true, they lose... explanatory force.”[^2]
 
