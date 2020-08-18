@@ -5,6 +5,8 @@ title: whatever really
 
 > The relations that exist in the external world, and that govern their succession, collectively constitute what we call causality. Without a belief in causal order, there could be no science and, very probably, no sanity.[^1]
 
+> Science must answer... "Why?"; it must say, "Because". In so doing, depending on the context, science becomes the vehicle for both explanation and prediction... [but] there are *different* and *inequivalent*, but equally valid, ways of saying "because".[^1]
+
 There is, by all accounts, some measure of order in the universe. Whether this is a timeless quality or a temporary aberration, we do not know. Nonetheless science presupposes signals in the noise around us. Phenomena, it seems, can be predicted. To predict, we model — that is, we represent. Informed thusly, we act. We hope our models correspond, in some useful way, to whatever really is there; to whatever there really is. But what *is* there, really? Can we know? And how best ought we model it?
 
 Some schools of thought assert that the world is exclusively [physical](https://en.wikipedia.org/wiki/Physicalism). It is not always clear what this means: few seriously argue that the states, motions, and collective configurations of particles suffice to explain all things, for instance. But there does seem to be a common thread &mdash; one of [Mazur's super-objects](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf), folded around its particular subject matter so tightly that, much like the extra-dimensional compactification physicists propose, we may not notice it.
