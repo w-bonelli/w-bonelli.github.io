@@ -21,7 +21,7 @@ Without doubt some measure of physicalism remains indispensable. Deacon reminds:
 
 > “...although the abstract logic of natural selection may be multiply realizable, selection is dependent upon substrate properties and how they influence form generation.”[^4]
 
-A healthy respect for the everyday qualities of Euclidean 3-space — continuity, smoothness, volume exclusion — must underly morphological models. Turing[^5] and Wolpert[^6] established half a century ago that chemical processes — reaction-diffusion systems and morphogen gradients, respectively — explain a number of developmental patterns. But no modern molecular biologist denies that the graph, despite its abstract nature, aids the study of transcriptional gene regulation. Physicists admit that we do not live in Newton’s universe. Matter manifests just one fragment of the kaleidoscope of causality. Sometimes, as Hofstadter puts it,
+A healthy respect for the more obvious qualities of everyday objects in Euclidean 3-space — continuity, smoothness, volume exclusion — must underly morphological models. And Turing[^5] and Wolpert[^6] established half a century ago that chemical processes — reaction-diffusion systems and morphogen gradients, respectively — explain a number of developmental patterns. But no modern molecular biologist denies that the graph, despite its abstract nature, aids the study of transcriptional gene regulation. Physicists admit that we do not live in Newton’s universe. Matter manifests just one fragment of the kaleidoscope of causality. Sometimes, as Hofstadter puts it,
 
 > “the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens.”[^7]
 
