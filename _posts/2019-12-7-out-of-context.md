@@ -28,6 +28,6 @@ This is not a paltry requisition. Meanwhile the usual business carries on.
 
 [Butler](https://en.wikipedia.org/wiki/Judith_Butler) and [Morton](https://en.wikipedia.org/wiki/Timothy_Morton) might both approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
-Wicked problems &mdash; global heating, the bacteriological arms race, systems of institutional racism and state-sanctioned brutality, the [sixth mass extinction](https://en.wikipedia.org/wiki/Holocene_extinction), SARS-CoV-2 &mdash; are hard to think about. We live in them &mdash; they live in us.
+Wicked problems &mdash; global heating, systems of institutional racism and state-sanctioned brutality, the [sixth mass extinction](https://en.wikipedia.org/wiki/Holocene_extinction), SARS-CoV-2 &mdash; are hard to think about. We live in them; they live in us.
 
 In this warming web of stuff and life we are not alone. What now?
