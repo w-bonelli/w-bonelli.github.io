@@ -12,7 +12,7 @@ Software, like language, depends on context. On this nearly everyone agrees. The
 
 Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated shit in one's face. A tolerance for local complexity engenders global simplicity, it's said.
 
-On the other side of the room clusters a ragged group who, nursing a suspicion that nobody truly disagrees after all, have commandeered a whiteboard and drawn a series of neat little labeled arrows.
+On the other side of the room clusters a ragged assembly, united only by a steadfast refusal to type more than necessary. Some of these, nursing a suspicion that something can be abstracted, have commandeered a whiteboard and drawn a network of neatly labeled hieroglyphics.
 
 "What's this?" you protest. "I must have missed something."
 
@@ -28,6 +28,6 @@ This is not a paltry requisition. Meanwhile the usual business carries on.
 
 [Butler](https://en.wikipedia.org/wiki/Judith_Butler) and [Morton](https://en.wikipedia.org/wiki/Timothy_Morton) might both approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
-Wicked problems &mdash; global heating, the bacteriological arms race, systems of institutional racism and state-sanctioned brutality, the [sixth mass extinction](https://en.wikipedia.org/wiki/Holocene_extinction), SARS-CoV-2 &mdash; are hyperobjects. We live *inside* them. They're hard to think about, so we often don't.
+Wicked problems &mdash; global heating, the bacteriological arms race, systems of institutional racism and state-sanctioned brutality, the [sixth mass extinction](https://en.wikipedia.org/wiki/Holocene_extinction), SARS-CoV-2 &mdash; are hard to think about. We live in them &mdash; they live in us.
 
-In this warming web of stuff and life we are not yet alone. What now?
+In this warming web of stuff and life we are not alone. What now?
