@@ -15,27 +15,29 @@ But Cartwright cautions:
 
 > “The fundamental laws of physics do not describe true facts about reality. Rendered as descriptions of facts, they are false; amended to be true, they lose... explanatory force.”[^2]
 
-It is one thing for predictions made by two models to comport with one another. It is a different thing for a model to [supervene](https://en.wikipedia.org/wiki/Supervenience) on another, and another to [derive](https://en.wikipedia.org/wiki/Formal_proof) one model from the other. Is the physical mode of (re)presentation an epistemological tool or an ontological truth? Ought biological research programs close ranks, as many did[^3] and some continue to do, around the idea that biology is strictly reducible to its substrata? Or should we attempt to coax useful predictions from any ground fertile enough to offer them?
+Is the reductionist mode of (re)presentation best taken as epistemological tool or ontological truth? Ought biological research programs close ranks, as many did[^3] and some continue to do, around the idea that biology is strictly reducible to its substrata? Or should we attempt to coax useful predictions from any ground fertile enough to offer them?
 
-Without doubt some measure of physicalism remains indispensable to biological science. As Deacon reminds,
+Without doubt some measure of physicalism remains indispensable. Deacon reminds:
 
 > “...although the abstract logic of natural selection may be multiply realizable, selection is dependent upon substrate properties and how they influence form generation.”[^4]
 
-A healthy respect for the everyday qualities of Euclidean 3-space — continuity, smoothness, volume exclusion — must underly morphological models. Turing[^5] and Wolpert[^6] established half a century ago that chemical processes — reaction-diffusion systems and morphogen gradients, respectively — explain a number of developmental patterns. But no modern molecular biologist denies that the graph, despite its abstract nature, aids the study of transcriptional gene regulation. Physicists admit that we do not live in Newton’s universe. Matter manifests just one fragment of the kaleidoscope of causality. Sometimes, as Hofstadter puts it:
+A healthy respect for the everyday qualities of Euclidean 3-space — continuity, smoothness, volume exclusion — must underly morphological models. Turing[^5] and Wolpert[^6] established half a century ago that chemical processes — reaction-diffusion systems and morphogen gradients, respectively — explain a number of developmental patterns. But no modern molecular biologist denies that the graph, despite its abstract nature, aids the study of transcriptional gene regulation. Physicists admit that we do not live in Newton’s universe. Matter manifests just one fragment of the kaleidoscope of causality. Sometimes, as Hofstadter puts it,
 
-> “...the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens.”[^7]
+> “the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens.”[^7]
 
-Information is physical, claims Landauer: it is subject to physical constraints.[^8] Likewise, the physical systems we call living organisms are subject to informational constraints. The fundamental unit of terrestrial biology — which, as Bach[^9] and Brenner[^10] point out, looks quite like a self-replicating Turing machine, replete with read/write head and finite tape — is a vector for simultaneous spatial and temporal information transfer. Although plant cell identity seems primarily a result of location rather than lineage, Scheres reports:
+Downward causation, to Heylighen, occurs when "the higher level exerts its influence downward to the lower level" and "is to be contrasted with... reductionism, where the behavior of the whole is fully determined by the behavior of the parts."[^8]
 
-> “...ancestral or neighboring cells can determine the fate of a given cell.”[^11]
+Information is physical, claims Landauer: it is subject to physical constraints.[^9] Likewise, the physical systems we call living organisms are subject to informational constraints. The fundamental unit of terrestrial biology — which, as Bach[^10] and Brenner[^11] point out, looks quite like a self-replicating Turing machine, replete with read/write head and finite tape — is a vector for simultaneous spatial and temporal information transfer. Although plant cell identity seems primarily a result of location rather than lineage, Scheres reports:
+
+> “...ancestral or neighboring cells can determine the fate of a given cell.”[^12]
 
 Rosen says the *future* can too, by virtue of the cell’s internal model of its environment (a very primitive one, to be clear, but one which has proven remarkably resilient):
 
 > “...a predictive model serves precisely to pull the future into the present.”[^1]
 
-To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Regardless, bespoke abstractions &mdash; which may not be extracted easily, if at all, from strictly physical and chemical processes &mdash; are useful in the modeling of biological systems. In some cases derivations may be possible in principle, but remain infeasible given the current state of the art, in much the same way Jonas and Kording have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^13]
+To stand McLuhan[^13] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Regardless, bespoke abstractions &mdash; which may not be extracted easily, if at all, from strictly physical and chemical processes &mdash; are useful in the modeling of biological systems. In some cases derivations may be possible in principle, but remain infeasible given the current state of the art, in much the same way Jonas and Kording have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^14]
 
-To Bach, Turing’s test is for us, not the machine[^9]: we will not understand life or intelligence until we can make it, if we can make it at all. In this way, the aims of synthetic biology and artificial intelligence appear to converge: to more and more elaborate manipulation, if not ultimately to synthesis, of life. These are dangerous games which we are now compelled to play precisely because we have manipulated the biosphere with increasingly wild abandon for the last several hundred years.
+To Bach, Turing’s test is for us, not the machine[^10]: we will not understand life or intelligence until we can make it, if we can make it at all. In this way, the aims of synthetic biology and artificial intelligence appear to converge: to more and more elaborate manipulation, if not ultimately to synthesis, of life. These are dangerous games which we are now compelled to play precisely because we have manipulated the biosphere with increasingly wild abandon for the last several hundred years.
 
 This is not an enviable situation, but it isn't a boring one.
 
@@ -55,14 +57,16 @@ This is not an enviable situation, but it isn't a boring one.
 
 [^7]: Hofstadter, D. (2006). I Am a Strange Loop.
 
-[^8]: Landauer, R. (1996). The physical nature of information. Physics Letters A, 217(4–5), 188–193. [https://doi.org/10.1016/0375-9601(96)00453-7](https://doi.org/10.1016/0375-9601(96)00453-7)
+[^8]: Heylighen, F. (n.d.). The Science of Self-Organization and Adaptivity. 26.
 
-[^9]: Fridman, L. (Producer). (2020, June 13). Joscha Bach [Audio podcast]. [https://lexfridman.com/joscha-bach/](https://lexfridman.com/joscha-bach/).
+[^9]: Landauer, R. (1996). The physical nature of information. Physics Letters A, 217(4–5), 188–193. [https://doi.org/10.1016/0375-9601(96)00453-7](https://doi.org/10.1016/0375-9601(96)00453-7)
 
-[^10]: Brenner, S. (2012). Life’s code script. Nature, 482(7386), 461–461. [https://doi.org/10.1038/482461a](https://doi.org/10.1038/482461a)
+[^10]: Fridman, L. (Producer). (2020, June 13). Joscha Bach [Audio podcast]. [https://lexfridman.com/joscha-bach/](https://lexfridman.com/joscha-bach/).
 
-[^11]: Scheres, B. (2001). Plant Cell Identity. The Role of Position and Lineage. 3.
+[^11]: Brenner, S. (2012). Life’s code script. Nature, 482(7386), 461–461. [https://doi.org/10.1038/482461a](https://doi.org/10.1038/482461a)
 
-[^12]: McLuhan, M. (1964). Understanding Media: The Extensions of Man.
+[^12]: Scheres, B. (2001). Plant Cell Identity. The Role of Position and Lineage. 3.
 
-[^13]: Jonas, E., & Paul Kording, K. (2016). Could a Neuroscientist Understand a Microprocessor? [Preprint]. Neuroscience. [https://doi.org/10.1101/055624](https://doi.org/10.1101/055624)
+[^13]: McLuhan, M. (1964). Understanding Media: The Extensions of Man.
+
+[^14]: Jonas, E., & Paul Kording, K. (2016). Could a Neuroscientist Understand a Microprocessor? [Preprint]. Neuroscience. [https://doi.org/10.1101/055624](https://doi.org/10.1101/055624)
