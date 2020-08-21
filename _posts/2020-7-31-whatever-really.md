@@ -21,11 +21,13 @@ Without doubt some measure of physicalism remains indispensable. Deacon reminds:
 
 > “...although the abstract logic of natural selection may be multiply realizable, selection is dependent upon substrate properties and how they influence form generation.”[^4]
 
-A healthy respect for the more obvious qualities of everyday objects in Euclidean 3-space — continuity, smoothness, volume exclusion — must underly morphological models. And Turing[^5] and Wolpert[^6] established half a century ago that chemical processes — reaction-diffusion systems and morphogen gradients, respectively — explain a number of developmental patterns. But no modern molecular biologist denies that the graph, despite its abstract nature, aids the study of transcriptional gene regulation. Physicists admit that we do not live in Newton’s universe. Matter manifests just one fragment of the kaleidoscope of causality. Sometimes, as Hofstadter puts it,
+A healthy respect for the more obvious qualities of everyday objects in Euclidean 3-space — continuity, smoothness, volume exclusion — must underly morphological models. And Turing[^5] and Wolpert[^6] established half a century ago that chemical processes — reaction-diffusion systems and morphogen gradients, respectively — explain a number of developmental patterns. But no modern molecular biologist denies that the graph, despite its abstract nature, aids the study of transcriptional gene regulation. Physicists admit that we do not live in Newton’s universe. Matter manifests just one fragment of the kaleidoscope of causality. Downward causation, to Heylighen, occurs when
 
-> “the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens.”[^7]
+> "the higher level exerts its influence downward to the lower level [and] is to be contrasted with... reductionism, where the behavior of the whole is fully determined by the behavior of the parts."[^7]
 
-Downward causation, to Heylighen, occurs when "the higher level exerts its influence downward to the lower level" and "is to be contrasted with... reductionism, where the behavior of the whole is fully determined by the behavior of the parts."[^8]
+Sometimes, as Hofstadter puts it,
+
+> “the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens.”[^8]
 
 Information is physical, claims Landauer: it is subject to physical constraints.[^9] Likewise, the physical systems we call living organisms are subject to informational constraints. The fundamental unit of terrestrial biology — which, as Bach[^10] and Brenner[^11] point out, looks quite like a self-replicating Turing machine, replete with read/write head and finite tape — is a vector for simultaneous spatial and temporal information transfer. Although plant cell identity seems primarily a result of location rather than lineage, Scheres reports:
 
@@ -35,11 +37,9 @@ Rosen says the *future* can too, by virtue of the cell’s internal model of its
 
 > “...a predictive model serves precisely to pull the future into the present.”[^1]
 
-To stand McLuhan[^13] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Regardless, bespoke abstractions &mdash; which may not be extracted easily, if at all, from strictly physical and chemical processes &mdash; are useful in the modeling of biological systems. In some cases derivations may be possible in principle, but remain infeasible given the current state of the art, in much the same way Jonas and Kording have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^14]
+To stand McLuhan[^13] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Some derivations may be possible in principle or in the presence of privileged information, but remain infeasible given the current state of the art; Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^14] But bespoke abstractions &mdash; which may not be extracted easily, if at all, from strictly physical and chemical processes &mdash; are useful in the modeling of biological systems. Some causal models may truly be irreconcilable by formal means. 
 
-To Bach, Turing’s test is for us, not the machine[^10]: we will not understand life or intelligence until we can make it, if we can make it at all. In this way, the aims of synthetic biology and artificial intelligence appear to converge: to more and more elaborate manipulation, if not ultimately to synthesis, of life. These are dangerous games which we are now compelled to play precisely because we have manipulated the biosphere with increasingly wild abandon for the last several hundred years.
-
-This is not an enviable situation, but it isn't a boring one.
+To Bach, Turing’s test is for us, not the machine[^10]: we will not understand life or intelligence until we can make it, if we can make it at all. In this way, the aims of synthetic biology and artificial intelligence appear to converge: to more and more elaborate manipulation, if not ultimately to synthesis, of life. This is a risky game, and we are now compelled to play it precisely because we have manipulated the biosphere with increasingly wild abandon for the last several hundred years. It's not an enviable situation, but it isn't a boring one.
 
 ---
 
