@@ -12,7 +12,7 @@ Software, like language, depends on context. On this nearly everyone agrees. The
 
 Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated shit in one's face. A tolerance for local complexity engenders global simplicity, it's said.
 
-On the other side of the room clusters a ragged assembly, united only by a steadfast refusal to type more than necessary. Some of these, nursing a suspicion that something can be abstracted, have commandeered a whiteboard and drawn a network of neatly labeled hieroglyphics.
+On the other side of the room clusters a ragged group, united only by a steadfast refusal to type more than necessary. Some of these, nursing a suspicion that something can be abstracted, have commandeered a whiteboard and drawn a network of neatly labeled hieroglyphics.
 
 "What's this?" you protest. "I must have missed something."
 
