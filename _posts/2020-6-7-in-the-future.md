@@ -32,6 +32,8 @@ This post is a perpetual work in progress.
 
 - ~~In the future~~ there is plastic pollution.[^16] Microplastic ingestion likely impairs cognition in hermit crabs.[^17] Americans now ingest between 39,000 and 142,000 microplastic particles per year, on average, and inhale between 74,000 and 121,000; "given methodological and data limitations, these values are likely underestimates."[^18] Nanoplastics have been shown to accumulate in *arabidopsis*.[^19]
 
+- ~~In the future~~ there is [human migration](https://projects.propublica.org/climate-migration/).[^20]
+
 ---
 
 [^1]: Kornhuber, K., Osprey, S., Coumou, D., Petri, S., Petoukhov, V., Rahmstorf, S., & Gray, L. (2019). Extreme weather events in early summer 2018 connected by a recurrent hemispheric wave-7 pattern. Environmental Research Letters, 14(5), 054002. <a href="https://doi.org/10.1088/1748-9326/ab13bf">https://doi.org/10.1088/1748-9326/ab13bf</a>.
@@ -71,4 +73,6 @@ This post is a perpetual work in progress.
 [^18]: Cox, K. D., Covernton, G. A., Davies, H. L., Dower, J. F., Juanes, F., & Dudas, S. E. (2019). Human Consumption of Microplastics. Environmental Science & Technology, 53(12), 7068–7074. <a href="https://doi.org/10.1021/acs.est.9b01517">https://doi.org/10.1021/acs.est.9b01517</a>
 
 [^19]: Sun, X.-D., Yuan, X.-Z., Jia, Y., Feng, L.-J., Zhu, F.-P., Dong, S.-S., Liu, J., Kong, X., Tian, H., Duan, J.-L., Ding, Z., Wang, S.-G., & Xing, B. (2020). Differentially charged nanoplastics demonstrate distinct accumulation in Arabidopsis thaliana. Nature Nanotechnology. <a href="https://doi.org/10.1038/s41565-020-0707-4">https://doi.org/10.1038/s41565-020-0707-4</a>
+
+[^20]: Xu, C., Kohler, T. A., Lenton, T. M., Svenning, J.-C., & Scheffer, M. (2020). Future of the human climate niche. Proceedings of the National Academy of Sciences, 117(21), 11350–11355. <a href="https://doi.org/10.1073/pnas.1910114117">https://doi.org/10.1073/pnas.1910114117</a>
 
