@@ -8,7 +8,7 @@ This post is a perpetual work in progress.
 
 - ~~In the future~~ there is heat.[^1]
 
-- ~~In the future~~ there is geoengineering,[^2] which [Wikipedia defines](https://en.wikipedia.org/wiki/Climate_engineering) as "deliberate and large-scale [intervention in the Earth's climate system](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_controversy)". If there is compensatory [stratospheric aerosol injection](https://en.wikipedia.org/wiki/Stratospheric_aerosol_injection), there may be ozone loss and elevated UV-B radiation.[^3] This has happened before.[^4]
+- ~~In the future~~ there is geoengineering,[^2] which [Wikipedia defines](https://en.wikipedia.org/wiki/Climate_engineering) as "deliberate and large-scale [intervention in the Earth's climate system](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_controversy)". If there is compensatory [stratospheric aerosol injection](https://en.wikipedia.org/wiki/Stratospheric_aerosol_injection), there may be ozone loss and elevated UV-B radiation,[^3] which has happened before.[^4]
 
 - ~~In the future~~ there is departure from the [Holocene](https://en.wikipedia.org/wiki/Holocene) equilibrium.[^5]
 

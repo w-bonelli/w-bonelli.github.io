@@ -57,7 +57,7 @@ I like Penrose's quip:
 
 [^5]: Turing, A. M. (1962). The chemical basis of morphogenesis. (n.d.). 36.
 
-[^6]: Wolpert, L. (n.d.). Positional Information and the Spatial Pattern of Cellular Differentiationt. 47.
+[^6]: Wolpert, L. (n.d.). Positional Information and the Spatial Pattern of Cellular Differentiation. 47.
 
 [^7]: Hofstadter, D. (2006). I Am a Strange Loop.
 
@@ -73,6 +73,6 @@ I like Penrose's quip:
 
 [^13]: McLuhan, M. (1964). Understanding Media: The Extensions of Man.
 
-[^14]: Jonas, E., & Paul Kording, K. (2016). Could a Neuroscientist Understand a Microprocessor? [Preprint]. Neuroscience. [https://doi.org/10.1101/055624](https://doi.org/10.1101/055624)
+[^14]: Jonas, E., & Paul, K. (2016). Could a Neuroscientist Understand a Microprocessor? [Preprint]. Neuroscience. [https://doi.org/10.1101/055624](https://doi.org/10.1101/055624)
 
 [^15]: Fridman, L. (Producer). (2020, March 31). Roger Penrose [Audio podcast]. [https://lexfridman.com/roger-penrose/](https://lexfridman.com/roger-penrose/).
