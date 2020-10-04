@@ -23,27 +23,23 @@ Without doubt some measure of physicalism is indispensable. Deacon reminds that
 
 A healthy respect for the obvious qualities of everyday objects in Euclidean 3-space — continuity, smoothness, volume exclusion — must underly morphological models. And Turing[^5] and Wolpert[^6] established half a century ago that chemical processes — reaction-diffusion systems and morphogen gradients, respectively — explain a number of developmental patterns. But the modern molecular biologist reaches for the graph, despite (or due to) its abstract nature, to represent gene regulation. Physicists admit that we do not live in Newton’s universe. Matter manifests just one fragment of the kaleidoscope of causality.
 
-Downward causation, to Heylighen, occurs when
-
-> the higher level exerts its influence downward to the lower level [and] is to be contrasted with... reductionism, where the behavior of the whole is fully determined by the behavior of the parts.[^7]
-
 Sometimes, as Hofstadter puts it,
 
-> the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens.[^8]
+> the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens.[^7]
 
-Information is physical, claims Landauer: it is subject to physical constraints.[^9] Likewise, the physical systems we call organisms are subject to informational constraints. The fundamental unit of terrestrial biology — which, as Bach[^10] and Brenner[^11] point out, looks quite like a self-replicating Turing machine, replete with read/write head and finite tape — is a vector for simultaneous spatial and temporal information transfer. Although plant cell identity seems primarily a result of location rather than lineage, Scheres reports,
+Information is physical, claims Landauer: it is subject to physical constraints.[^8] Likewise, the physical systems we call organisms are subject to informational constraints. The fundamental unit of terrestrial biology — which, as Bach[^9] and Brenner[^10] point out, looks quite like a self-replicating Turing machine, replete with read/write head and finite tape — is a vector for simultaneous spatial and temporal information transfer. Although plant cell identity seems primarily a result of location rather than lineage, Scheres reports,
 
-> ancestral or neighboring cells can determine the fate of a given cell.[^12]
+> ancestral or neighboring cells can determine the fate of a given cell.[^11]
 
 Rosen says the *future* can too:
 
 > [A] predictive model serves precisely to pull the future into the present.[^1]
 
-To stand McLuhan[^13] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Some derivations, apparently possible in principle, may remain infeasible only because the appropriate methods have yet to be developed; Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^14] But some models, which may produce equally useful (if not entirely equal) results, may be impossible to reconcile by formal means. And it is by no means clear that any model, however useful, affords ontological certainty.
+To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Some derivations, apparently possible in principle, may remain infeasible only because the appropriate methods have yet to be developed; Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^13] But some models, which may produce equally useful (if not entirely equal) results, may be impossible to reconcile by formal means. And it is by no means clear that any model, however useful, affords ontological certainty.
 
-I like Penrose's quip:
+Penrose quips:
 
-> I don't like the word materialist because it suggests we know what the material is.[^15]
+> I don't like the word materialist because it suggests we know what the material is.[^14]
 
 ---
 
@@ -61,18 +57,16 @@ I like Penrose's quip:
 
 [^7]: Hofstadter, D. (2006). I Am a Strange Loop.
 
-[^8]: Heylighen, F. (n.d.). The Science of Self-Organization and Adaptivity. 26.
+[^8]: Landauer, R. (1996). The physical nature of information. Physics Letters A, 217(4–5), 188–193. [https://doi.org/10.1016/0375-9601(96)00453-7](https://doi.org/10.1016/0375-9601(96)00453-7)
 
-[^9]: Landauer, R. (1996). The physical nature of information. Physics Letters A, 217(4–5), 188–193. [https://doi.org/10.1016/0375-9601(96)00453-7](https://doi.org/10.1016/0375-9601(96)00453-7)
+[^9]: Fridman, L. (Producer). (2020, June 13). Joscha Bach [Audio podcast]. [https://lexfridman.com/joscha-bach/](https://lexfridman.com/joscha-bach/).
 
-[^10]: Fridman, L. (Producer). (2020, June 13). Joscha Bach [Audio podcast]. [https://lexfridman.com/joscha-bach/](https://lexfridman.com/joscha-bach/).
+[^10]: Brenner, S. (2012). Life’s code script. Nature, 482(7386), 461–461. [https://doi.org/10.1038/482461a](https://doi.org/10.1038/482461a)
 
-[^11]: Brenner, S. (2012). Life’s code script. Nature, 482(7386), 461–461. [https://doi.org/10.1038/482461a](https://doi.org/10.1038/482461a)
+[^11]: Scheres, B. (2001). Plant Cell Identity. The Role of Position and Lineage. 3.
 
-[^12]: Scheres, B. (2001). Plant Cell Identity. The Role of Position and Lineage. 3.
+[^12]: McLuhan, M. (1964). Understanding Media: The Extensions of Man.
 
-[^13]: McLuhan, M. (1964). Understanding Media: The Extensions of Man.
+[^13]: Jonas, E., & Paul, K. (2016). Could a Neuroscientist Understand a Microprocessor? [Preprint]. Neuroscience. [https://doi.org/10.1101/055624](https://doi.org/10.1101/055624)
 
-[^14]: Jonas, E., & Paul, K. (2016). Could a Neuroscientist Understand a Microprocessor? [Preprint]. Neuroscience. [https://doi.org/10.1101/055624](https://doi.org/10.1101/055624)
-
-[^15]: Fridman, L. (Producer). (2020, March 31). Roger Penrose [Audio podcast]. [https://lexfridman.com/roger-penrose/](https://lexfridman.com/roger-penrose/).
+[^14]: Fridman, L. (Producer). (2020, March 31). Roger Penrose [Audio podcast]. [https://lexfridman.com/roger-penrose/](https://lexfridman.com/roger-penrose/).
