@@ -24,7 +24,7 @@ This post is a perpetual work in progress.
 
 - ~~In the future~~ there are [data brokers](https://www.schneier.com/essays/archives/2020/01/were_banning_facial_.html).
 
-- ~~In the future~~ there are [paperclip maximizers](https://nickbostrom.com/ethics/ai.html): not a [singleton](https://nickbostrom.com/fut/singleton.html), but not exactly disjoint, either.[^11]
+- ~~In the future~~ there are [super-intelligences](https://nickbostrom.com/ethics/ai.html): not a [singleton](https://nickbostrom.com/fut/singleton.html), but not exactly disjoint, either.[^11]
 
 - ~~In the future~~ there is elevated atmospheric CO2,[^12] a known driver of [radiative forcing](https://en.wikipedia.org/wiki/Radiative_forcing). High ambient CO2 levels can also impair cognition.[^13]
 
