@@ -35,11 +35,13 @@ Rosen says the *future* can too:
 
 > [A] predictive model serves precisely to pull the future into the present.[^1]
 
-To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Some derivations, apparently possible in principle, may remain infeasible only because the appropriate methods have yet to be developed; Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^13] But some models, which may produce equally useful (if not entirely equal) results, may be impossible to reconcile by formal means. And it is by no means clear that any model, however useful, affords ontological certainty.
+To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Some derivations, apparently possible in principle, may remain infeasible only because the appropriate methods have yet to be developed; Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^13] But some models, which may produce equally useful (if not entirely equal) results, may be impossible to reconcile by formal means. And it is by no means clear that any model, however useful, affords ontological certainty. Nonetheless
+
+> "[t]he values a good theory is expected to embody enable comparisons to be made, even when the rival theories are incommensurable."[^14]
 
 Penrose quips:
 
-> I don't like the word materialist because it suggests we know what the material is.[^14]
+> I don't like the word materialist because it suggests we know what the material is.[^15]
 
 ---
 
@@ -69,4 +71,6 @@ Penrose quips:
 
 [^13]: Jonas, E., & Paul, K. (2016). Could a Neuroscientist Understand a Microprocessor? [Preprint]. Neuroscience. [https://doi.org/10.1101/055624](https://doi.org/10.1101/055624)
 
-[^14]: Fridman, L. (Producer). (2020, March 31). Roger Penrose [Audio podcast]. [https://lexfridman.com/roger-penrose/](https://lexfridman.com/roger-penrose/).
+[^14]: McMullin, E. (1993). Rationality and Paradigm Change in Science. 1.
+
+[^15]: Fridman, L. (Producer). (2020, March 31). Roger Penrose [Audio podcast]. [https://lexfridman.com/roger-penrose/](https://lexfridman.com/roger-penrose/).
