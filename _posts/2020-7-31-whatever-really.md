@@ -39,9 +39,13 @@ To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, en
 
 McMullin paraphrases Kuhn as such:
 
-> "...later theories solve more puzzles than earlier ones, or (to put this in a different idiom) they predict better. But there is... no reason to think that successive theories approximate more and more closely to the truth." Nonetheless the "values a good theory is expected to embody enable comparisons to be made, even when the rival theories are incommensurable".[^14]
+> "...later theories solve more puzzles than earlier ones, or (to put this in a different idiom) they predict better. But there is... no reason to think that successive theories approximate more and more closely to the truth."
 
-He argues this is too strong:
+Nonetheless
+
+> "[t]he values a good theory is expected to embody enable comparisons to be made, even when the rival theories are incommensurable".[^14]
+
+He then argues this is too strong:
 
 > "Kuhn emphasized the discontinuities of language across theory change so strongly that he left no room for the possibility of convergence, for the possibility that the theories of paleontologists of today, for example, not only solve more puzzles than those of yesteryear but also tell us, with high degree of likelihood, what actually happened at distant epochs in the earth's past."[^14]
 
