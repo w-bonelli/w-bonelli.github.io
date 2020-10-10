@@ -51,7 +51,7 @@ He then argues this is too strong:
 
 I don't agree. Paleontology can only claim "convergence", I think, because we have an intuitive grasp of its object. We are intimately familiar with what it means to be alive on planet earth, even if we have yet to locate any satisfactory intensive or extensive definition of life. Thus is born an illusion of certainty: we think we know what happened here, long ago, because we can discuss it in familiar terms.
 
-Penrose quips:
+I'm with Penrose, who quips:
 
 > I don't like the word materialist because it suggests we know what the material is.[^15]
 
