@@ -5,9 +5,9 @@ title: opening words
 
 > "What is a word? The image of a nerve stimulus in sounds."[^1]
 
-To the causalist, words are like electrons: we can spray them at things with (sort of) consistent results.[^2] I can type "Don't pay attention to your tongue" into the void and thus ensure you'll do the opposite.
+To the causalist, words are like electrons: we can spray them at things with (sort of) consistent results.[^2] I can type "Don't pay attention to your tongue" into the void and make you do the opposite.
 
-How did it all begin? Perhaps with a grunt some hundred thousand years ago: humanity's first word, so to speak. Which one was that?
+How did it all begin? Maybe with a grunt some hundred thousand years ago: humanity's first word, so to speak. Which one was that?
 
 Some words are sharp: they have a point. Where? They point fingers. Writes Morton:
 
