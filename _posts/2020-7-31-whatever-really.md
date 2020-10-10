@@ -35,9 +35,11 @@ Rosen says the *future* can too:
 
 > [A] predictive model serves precisely to pull the future into the present.[^1]
 
-To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Some derivations, apparently possible in principle, may remain infeasible only because the appropriate methods have yet to be developed; Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^13] But some models, which may produce equally useful (if not entirely equal) results, may be impossible to reconcile by formal means. And it is by no means clear that any model, however useful, affords ontological certainty. Nonetheless
+To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Some derivations, apparently possible in principle, may remain infeasible only because the appropriate methods have yet to be developed; Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^13] But some models, which may produce equally useful (if not entirely equal) results, may be impossible to reconcile by formal means. And it is by no means clear that any model, however useful, affords ontological certainty.
 
-> "[t]he values a good theory is expected to embody enable comparisons to be made, even when the rival theories are incommensurable."[^14]
+I like how McMullin paraphrases Kuhn:
+
+> "... later theories solve more puzzles than earlieir ones, or (to put this in a different idiom) they predict better. But there is... no reason to think that successive theories approximate more and more closely to the truth." Nonetheless the "values a good theory is expected to embody enable comparisons to be made, even when the rival theories are incommensurable".[^14]
 
 Penrose quips:
 
