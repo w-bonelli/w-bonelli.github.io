@@ -7,7 +7,7 @@ title: whatever really
 
 > Science must answer... "Why?"; it must say, "Because"... there are *different* and *inequivalent*, but equally valid, ways of saying "because".[^1]
 
-By all accounts there is order in the universe. Whether this quality is timeless or temporary, we do not know. Nonetheless science presupposes signals in the noise around us. Things, it seems, can be predicted. To predict, we model — we represent. Informed by our representations, we act. We hope our models correspond to whatever really is there; to whatever there really is. But what *is* there, really? And how ought we model it?
+By all accounts there is order in the universe. Whether this quality is timeless or temporary, we do not know. Nonetheless science presupposes signals in the noise around us. Things, evidently, can be predicted. To predict, we model — we represent. Informed by our representations, we act. We hope our models correspond to whatever really is there; to whatever there really is. But what *is* there, really? And how ought we model it?
 
 Some schools of thought assert that the world is exclusively [physical](https://en.wikipedia.org/wiki/Physicalism). Interpretations are complex, but there does seem to be a common thread &mdash; one of [Mazur's super-objects](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf), folded around its particular subject matter so tightly that, much like the extra-dimensional compactification physicists propose, we may not notice it.
 
