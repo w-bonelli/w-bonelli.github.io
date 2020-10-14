@@ -7,7 +7,7 @@ Technologists from Minsky to Musk have considered questions of incentive misalig
 
 One function of loss, in human and non-human intelligences alike, is to recalibrate models to the constraints imposed by reality. We have an intuitive and effortless grasp of some of these: we know we cannot walk through walls. We seem much less likely to recognize other constraint classes: those spanning much smaller or larger spatio-temporal scales than we, for instance; or those which, as Lippman put it a century ago, threaten "the security of that to which we've given our allegiance".[^1]
 
-Who can resist attachment to the things one sacrifices for and advances within? Who can live in the long now, immersed in the seamless hum of the moment? Loss functions are no use until you lose.
+Who can resist attachment to the systems one sacrifices for and advances within? Who can live in the long now, immersed in the seamless hum of the moment? Loss functions are no use until you lose.
 
 ---
 
