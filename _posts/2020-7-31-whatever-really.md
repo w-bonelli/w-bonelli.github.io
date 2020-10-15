@@ -49,7 +49,7 @@ He then argues this is too strong:
 
 > "Kuhn emphasized the discontinuities of language across theory change so strongly that he left no room for the possibility of convergence, for the possibility that the theories of paleontologists of today, for example, not only solve more puzzles than those of yesteryear but also tell us, with high degree of likelihood, what actually happened at distant epochs in the earth's past."[^14]
 
-Perhaps paleontology can claim "convergence" because we intuitively grasp its object. We know how it feels (and many claim to know what it means) to live on planet earth, even if we have yet to locate a satisfactory intensive definition of life. Do we really understand what happened here long ago because we can discuss it in familiar terms? How thoroughly do we really comprehend what occurs here now?
+Perhaps paleontology can claim "convergence" because we intuitively grasp its object. We know how it feels (and many claim to know what it means) to live on planet earth, even if we have yet to locate a satisfactory intensive definition of life. Do we really understand what happened here long ago, or are we just unusually well-equipped to discuss it? How thoroughly do we comprehend what occurs here now?
 
 Penrose quips:
 
