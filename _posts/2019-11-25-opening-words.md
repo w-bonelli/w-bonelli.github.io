@@ -33,17 +33,21 @@ Derrida called his work an
 
 > "'operation'... which, although it is consumed by the reading of other texts, in a certain fashion refers only to its own writing."[^7]
 
-Formal systems, like natural languages, are slippery. Godel found their statements inconsistent and their descriptions incomplete. Tarski proved them incapable of defining their motives. Poincare is reported to have said:
+Formal systems, like natural languages, are slippery. Godel found their statements inconsistent and their descriptions incomplete. Tarski proved them incapable of defining their motives. Poincare is reported to have dubbed mathematics
 
-> "Mathematics is the art of giving the same name to different things."[^8]
+> "the art of giving the same name to different things."[^8]
 
-Nietzsche, similarly:
+Nietzsche, similarly, wrote:
 
 > "...every concept originates through our equating what is unequal."[^1]
 
+Facts matter; unless they don't. Much mathematics rests on the vacuously true notion that, since one can never find an element of the empty set which is not in another set, all sets include the empty set. Did Deleuze have this in mind when he said reason is
+
+> "a region carved out... of delirium"?[^9]
+
 Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf) "mathematical object", I have taken the liberty of substituting "thing":
 
-> "To define the [things] we intend to study, we often &mdash; perhaps always &mdash; first make it understood, more implicitly than explicitly, how we intend these [things] to be presented to us, thereby delineating a kind of super-[thing]; that is, a species of [thing] garnished with a repertoire of modes of presentation. Only once this is done do we try to erase the scaffolding of the presentation, to say when two of these super-[things] &mdash; possibly presented to us in wildly different ways &mdash; are to be considered equal. In this oblique way, the [things] that we truly want enter the scene only defined as equivalence classes of explicitly presented [things]. That is, as specifically presented [things] with the specific presentation ignored, in the spirit of 'ham and eggs, but hold the ham.'"[^9]
+> "To define the [things] we intend to study, we often &mdash; perhaps always &mdash; first make it understood, more implicitly than explicitly, how we intend these [things] to be presented to us, thereby delineating a kind of super-[thing]; that is, a species of [thing] garnished with a repertoire of modes of presentation. Only once this is done do we try to erase the scaffolding of the presentation, to say when two of these super-[things] &mdash; possibly presented to us in wildly different ways &mdash; are to be considered equal. In this oblique way, the [things] that we truly want enter the scene only defined as equivalence classes of explicitly presented [things]. That is, as specifically presented [things] with the specific presentation ignored, in the spirit of 'ham and eggs, but hold the ham.'"[^10]
 
 ---
 
@@ -63,4 +67,6 @@ Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.p
 
 [^8]: Eves, Howard. *Foundations and Fundamental Concepts of Mathematics.* 1958.
 
-[^9]: Mazur, Barry. *When is one thing equal to some other thing?* 12 June 2007.
+[^9]: Deleuze, Gilles. *Desert Islands, and Other Texts* 1953-1974.
+
+[^10]: Mazur, Barry. *When is one thing equal to some other thing?* 12 June 2007.
