@@ -46,7 +46,7 @@ Intuitively, lobe count scales at <code>∝ k - 1</code> because each densely-sh
 
 **TL;DR:** "Lobes" correspond to cycles in the spirograph. Each cycle is preceded by a bisection. Each bisection entails a small, densely-shaded "shadow" near its initial point, and a larger, sparsely-shaded "lobe" directly opposite (for small values of <code>k</code>, that is: patterns tend to recede into noise then re-emerge in more complex formulations as <code>k</code> increases).
 
-Here's a little animation of the multiplier case. Increment or decrement <code>k</code>, then watch how many times the green dot (<code>p<sub>j</sub></code>) "laps" the red one (<code>p<sub>i</sub></code>)!
+Here's a little animation of the multiplier case (which, when <code>k = 2</code>, yields the Rebel Alliance's insignia)). You can also increment or decrement <code>k</code>, then watch how many times the green dot (<code>p<sub>j</sub></code>) "laps" the red one (<code>p<sub>i</sub></code>).
 
 <div class="btn-group" role="group">
 <button type="button" class="btn btn-dark" onclick="decK()">&lt;</button>
