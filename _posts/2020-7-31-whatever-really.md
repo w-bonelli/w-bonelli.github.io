@@ -35,7 +35,7 @@ Rosen says the *future* can too:
 
 > [A] predictive model serves precisely to pull the future into the present.[^1]
 
-To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Some derivations, apparently possible in principle, may remain infeasible only because the appropriate methods have yet to be developed; Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^13] But some models, which may produce equally useful (if not entirely equal) results, may be impossible to reconcile by formal means. And it is by no means clear that any model, however useful, affords ontological certainty.
+To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and self-replication via exploitation of negentropy. Or maybe that's not right and some model nobody has conceived of yet would better serve us. Some derivations, apparently possible in principle, may remain infeasible only because the appropriate methods have yet to be developed; Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^13] But some models, which may produce equally useful (if not entirely equal) results, may be impossible to reconcile by formal means. And it is by no means clear that any known model, however useful, affords ontological certainty.
 
 McMullin paraphrases Kuhn as such:
 
@@ -49,9 +49,9 @@ He then argues this is too strong:
 
 > "Kuhn emphasized the discontinuities of language across theory change so strongly that he left no room for the possibility of convergence, for the possibility that the theories of paleontologists of today, for example, not only solve more puzzles than those of yesteryear but also tell us, with high degree of likelihood, what actually happened at distant epochs in the earth's past."[^14]
 
-I don't agree. Paleontology can only claim "convergence", I think, because we have an intuitive grasp of its object. We are intimately familiar with what it means to be alive on planet earth, even if we have yet to locate any satisfactory intensive or extensive definition of life. Thus is born an illusion of certainty: we think we know what happened here, long ago, because we can discuss it in familiar terms.
+Perhaps paleontology can claim "convergence" because we have an intuitive grasp of its object. We know how it feels (and many claim to know what it means) to be alive on planet earth, even if we have yet to locate a satisfactory intensive definition of life. Do we really grasp what happened here, long ago, because we can discuss it in familiar terms? Do we really understand what occurs here now?
 
-I'm with Penrose, who quips:
+Penrose quips:
 
 > I don't like the word materialist because it suggests we know what the material is.[^15]
 
