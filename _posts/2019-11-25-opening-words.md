@@ -41,7 +41,7 @@ Nietzsche, similarly, wrote:
 
 > "...every concept originates through our equating what is unequal."[^1]
 
-Facts matter; unless they don't. Much mathematics rests on the vacuously true notion that, since one can never find an element of the empty set which is not in another set, all sets include the empty set. Did Deleuze have this in mind when he said reason is
+Much math rests on the vacuously true notion that, since one can never find an element of the empty set which is not in another set, all sets include the empty set. Did Deleuze have this in mind when he said reason is
 
 > "a region carved out... of delirium"?[^9]
 
