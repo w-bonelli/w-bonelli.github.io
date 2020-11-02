@@ -7,23 +7,21 @@ title: whatever really
 
 > Science must answer... "Why?"; it must say, "Because"... there are *different* and *inequivalent*, but equally valid, ways of saying "because".[^1]
 
-By all accounts there is order in the universe. Whether this quality is timeless or temporary, we do not know. Nonetheless science presupposes signals in the noise around us. Things, evidently, can be predicted. To predict, we model — we represent. Informed by our representations, we act. We hope our models correspond to whatever really is there; to whatever there really is. But what *is* there, really? And how ought we model it?
+By all accounts there is order in the universe. Whether this quality is timeless or temporary, we do not know. Nonetheless we presuppose signals in the noise around us. Things, evidently, can be predicted. To predict, we model &mdash; we represent, then simulate. Thus informed, we act. We hope our models correspond to whatever really is "out there", as well as "in here"; to whatever really is. But what *is* there, really? And how ought we model it?
 
-Some schools of thought assert that the world is exclusively [physical](https://en.wikipedia.org/wiki/Physicalism). Interpretations are complex, but there does seem to be a common thread &mdash; one of [Mazur's super-objects](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf), folded around its particular subject matter so tightly that, much like the extra-dimensional compactification physicists propose, we may not notice it.
+Many posit an exclusively [physical](https://en.wikipedia.org/wiki/Physicalism) universe. This is no mere monism: atop it rides a metaphysics in which the in- and for-itself alike &mdash; including all life, from the first cell to the conscious mind &mdash;
 
-But Cartwright cautions:
+> has a biological (and thus mechanical) explanation.[^2]
 
-> The fundamental laws of physics do not describe true facts about reality. Rendered as descriptions of facts, they are false; amended to be true, they lose... explanatory force.[^2]
+Such a view is usually as useful, in biology as well as everyday life, as it is intuitive. Deacon reminds that
 
-Ought biological research programs close ranks, as many did[^3] and some continue to do, around the idea that biology is strictly reducible to its substrata? Or should we try to coax useful predictions from any ground fertile enough to offer them?
+> although the abstract logic of natural selection may be multiply realizable, selection is dependent upon substrate properties and how they influence form generation.[^3]
 
-Without doubt some measure of physicalism is indispensable. Deacon reminds that
+Turing[^4] and Wolpert[^5] established half a century ago that physico-chemical processes &mdash; reaction-diffusion systems and morphogen gradients, respectively &mdash; explain certain instances of developmental patterning. And a healthy respect for the properties of solid objects in Euclidean 3-space &mdash; among them continuity, smoothness, and volume exclusion (a root cannot grow through another root; likewise, only very rarely do we attempt to walk through walls) &mdash; must underly morphological models. But the molecular biologist reaches for the graph, despite (or perhaps due to) its abstract nature, to represent gene regulation. Any physicist will agree that ours is not Newton’s universe; indeed many think it unduly bold if not preposterous to conclude, even on the basis of some grand unification of the standard model with gravity, that any theory can tell us precisely what *is*. Cartwright cautions:
 
-> although the abstract logic of natural selection may be multiply realizable, selection is dependent upon substrate properties and how they influence form generation.[^4]
+> The fundamental laws of physics do not describe true facts about reality. Rendered as descriptions of facts, they are false; amended to be true, they lose... explanatory force.[^6]
 
-A healthy respect for the obvious qualities of everyday objects in Euclidean 3-space — continuity, smoothness, volume exclusion — must underly morphological models. And Turing[^5] and Wolpert[^6] established half a century ago that chemical processes — reaction-diffusion systems and morphogen gradients, respectively — explain a number of developmental patterns. But the modern molecular biologist reaches for the graph, despite (or due to) its abstract nature, to represent gene regulation. Physicists admit that we do not live in Newton’s universe. Matter manifests just one fragment of the kaleidoscope of causality.
-
-Sometimes, as Hofstadter puts it,
+It is easy to forget, having received and consumed [Mazur's eggs](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf), that ham was on the menu. But matter and energy seem to manifest just a fragment of the kaleidoscope of causality. Sometimes, as Hofstadter puts it,
 
 > the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens.[^7]
 
@@ -49,7 +47,7 @@ He then argues this is too strong:
 
 > "Kuhn emphasized the discontinuities of language across theory change so strongly that he left no room for the possibility of convergence, for the possibility that the theories of paleontologists of today, for example, not only solve more puzzles than those of yesteryear but also tell us, with high degree of likelihood, what actually happened at distant epochs in the earth's past."[^14]
 
-Perhaps paleontology can claim "convergence" because we intuitively grasp its object. We know how it feels (and many claim to know what it means) to live on planet earth, even if we have yet to locate a satisfactory intensive definition of life. Do we really understand what happened here long ago, or are we just unusually well-equipped to discuss it? How thoroughly do we comprehend what occurs here now?
+Maybe paleontology can claim "convergence" only because we intuitively grasp its object. We know how it feels (and many claim to know what it means) to live on planet earth. Though we have yet to locate a satisfactory definition of life, we are unusually well equipped to talk about it. But do we really understand what happened here long ago? How thoroughly do we comprehend what occurs here now? We discuss everyday objects and organisms with an ease which does not extend to fields and branes, or tensors and topologies.
 
 Penrose quips:
 
@@ -59,15 +57,15 @@ Penrose quips:
 
 [^1]: Richardson, I. W., Louie, A. H.-Y., & Rosen, R. (Eds.). (1985). Theoretical biology and complexity: Three essays on the natural philosophy of complex systems. Academic Press.
 
-[^2]: Cartwright, N. (n.d.). How the Laws of Physics Lie. 145.
+[^2]: Agre, P. (1995). The Soul Gained and Lost: Artificial Intelligence as a Philosophical Project. [https://pages.gseis.ucla.edu/faculty/agre/shr.html](https://pages.gseis.ucla.edu/faculty/agre/shr.html)
 
-[^3]: Handler, P. (1970). Biology and the Future of Man. 3.
+[^3]: Deacon, T. W. (2006). Reciprocal Linkage between Self-organizing Processes is Sufficient for Self-reproduction and Evolvability. Biological Theory, 1(2), 136–149. [https://doi.org/10.1162/biot.2006.1.2.136](https://doi.org/10.1162/biot.2006.1.2.136)
 
-[^4]: Deacon, T. W. (2006). Reciprocal Linkage between Self-organizing Processes is Sufficient for Self-reproduction and Evolvability. Biological Theory, 1(2), 136–149. [https://doi.org/10.1162/biot.2006.1.2.136](https://doi.org/10.1162/biot.2006.1.2.136)
+[^4]: Turing, A. M. (1962). The chemical basis of morphogenesis. (n.d.). 36.
 
-[^5]: Turing, A. M. (1962). The chemical basis of morphogenesis. (n.d.). 36.
+[^5]: Wolpert, L. (n.d.). Positional Information and the Spatial Pattern of Cellular Differentiation. 47.
 
-[^6]: Wolpert, L. (n.d.). Positional Information and the Spatial Pattern of Cellular Differentiation. 47.
+[^6]: Cartwright, N. (n.d.). How the Laws of Physics Lie. 145.
 
 [^7]: Hofstadter, D. (2006). I Am a Strange Loop.
 
