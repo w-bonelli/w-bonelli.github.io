@@ -21,7 +21,7 @@ Turing[^4] and Wolpert[^5] established half a century ago that physico-chemical 
 
 > The fundamental laws of physics do not describe true facts about reality. Rendered as descriptions of facts, they are false; amended to be true, they lose... explanatory force.[^6]
 
-It is easy to forget, having received and consumed [Mazur's eggs](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf), that ham was on the menu. But matter and energy seem to manifest just a fragment of the kaleidoscope of causality. Sometimes, as Hofstadter puts it,
+It is easy to forget, having received and consumed [Mazur's eggs](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf), that ham was on the menu; but matter and energy seem to manifest just a fragment of the kaleidoscope of causality. Sometimes, as Hofstadter puts it,
 
 > the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens.[^7]
 
