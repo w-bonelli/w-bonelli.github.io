@@ -11,7 +11,7 @@ One function of loss, in human and non-human intelligences alike, is to recalibr
 
 We need not wait for some proto-AGI with an insufficiently nuanced objective function to witness the influence of intelligent forces larger than ourselves on our lives. What is a state, a corporation, a political party, an organized religion, an academic institution, or one's local chapter of the Rotary Club if not a suprahuman agent? That these entities string humans together in causal chains rather than cells or transistors is immaterial.
 
-Gould and Lewontin point out:
+Gould and Lewontin warn:
 
 > Human cultural practices can be orthogenetic and drive toward extinction in ways that Darwinian processes, based on genetic selection, cannot.[^2]
 
