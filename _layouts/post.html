@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>w-bonelli.github.io</title>
+        <title>wes bonelli</title>
         <link rel="stylesheet" href="/assets/css/styles.css">
         <link rel="stylesheet" href="{{'/assets/main.css' | prepend: site.baseurl}}">
         {% feed_meta %}
@@ -10,7 +10,7 @@
     </head>
     <body>
         <nav class="navbar navbar-expand-lg navbar-dark header">
-            <a class="breadcrumb" href="/"><b>w-bonelli.github.io</b></a>
+            <a class="breadcrumb" href="/"><b>wes bonelli</b></a>
             <nav class="ml-auto" aria-label="breadcrumb"> 
                 <ol class="breadcrumb"> 
                     <li class="breadcrumb-item" aria-current="page"></li>
@@ -18,11 +18,9 @@
                 </ol> 
             </nav>  
         </nav>
-        <div class="container-fluid body-text">
+	<div class="container-fluid body-text">
             <br>
-            {{ content | mardownify }}
-            <hr>
-            <p>Please <a href="mailto:wbonelli@uga.edu">tell me</a> if I've made a mistake.</p>
+            {{ content | markdownify }}
             <br>
         </div>
     </body

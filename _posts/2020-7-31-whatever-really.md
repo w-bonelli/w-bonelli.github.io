@@ -7,17 +7,17 @@ title: whatever really
 
 > Science must answer... "Why?"; it must say, "Because"... there are *different* and *inequivalent*, but equally valid, ways of saying "because".[^1]
 
-By all accounts there is order in the universe. Whether this quality is timeless or temporary, we do not know. Nonetheless we presuppose signals in the noise around us. Things, evidently, can be predicted. To predict, we model &mdash; we represent, then simulate. Thus informed, we act. We hope our models correspond to whatever really is "out there", as well as "in here"; to whatever really is. But what *is* there, really? And how ought we model it?
+By all accounts there is order in the universe. Whether this quality is timeless or temporary, we do not know. Nonetheless we presuppose signals in the noise around us. Things, evidently, can be predicted. To predict, we model. Thus informed, we act. We hope our models correspond to whatever really is "out there", as well as "in here"; to whatever really *is*. But what is there, really? And how ought we model it?
 
-Many posit an exclusively [physical](https://en.wikipedia.org/wiki/Physicalism) universe. This is no mere monism: atop it rides a metaphysics in which the in- and for-itself alike &mdash; including all life, from the first cell to the conscious mind &mdash;
+Some posit a [physical](https://en.wikipedia.org/wiki/Physicalism) universe. This is no mere monism: atop it sits a metaphysics in which the for-itself &mdash; all life, from the first cell to the conscious mind &mdash;
 
 > has a biological (and thus mechanical) explanation.[^2]
 
-Such a view is usually as useful, in biology as well as everyday life, as it is intuitive. Deacon reminds that
+This view is often as useful, in biology as well as in everyday life, as it is intuitive. Deacon reminds that
 
 > although the abstract logic of natural selection may be multiply realizable, selection is dependent upon substrate properties and how they influence form generation.[^3]
 
-Turing[^4] and Wolpert[^5] established half a century ago that physico-chemical processes &mdash; reaction-diffusion systems and morphogen gradients, respectively &mdash; explain certain instances of developmental patterning. And a healthy respect for the properties of solid objects in Euclidean 3-space &mdash; among them continuity, smoothness, and volume exclusion (a root cannot grow through another root; likewise, only very rarely do we attempt to walk through walls) &mdash; must underly morphological models. But the molecular biologist reaches for the graph, despite (or perhaps due to) its abstract nature, to represent gene regulation. Any physicist will agree that ours is not Newton’s universe; indeed many think it unduly bold if not preposterous to conclude, even on the basis of some grand unification of the standard model with gravity, that any theory can tell us precisely what *is*. Cartwright cautions:
+Turing[^4] and Wolpert[^5] established half a century ago that physico-chemical processes &mdash; reaction-diffusion systems and morphogen gradients, respectively &mdash; explain much developmental patterning. A healthy respect for the properties of solid objects in Euclidean 3-space &mdash; among them continuity, smoothness, and volume exclusion (by whose mandate we cannot walk through walls) &mdash; must underly morphological models. But the molecular biologist reaches for the graph, despite (or perhaps due to) its abstract nature, to represent gene regulation. Any physicist will agree that ours is not Newton’s universe; indeed many think it unduly bold if not preposterous to conclude, even on the basis of some hypothetical grand unification, that any theory can tell us precisely what *is*, or how it came to be. Cartwright cautions:
 
 > The fundamental laws of physics do not describe true facts about reality. Rendered as descriptions of facts, they are false; amended to be true, they lose... explanatory force.[^6]
 
@@ -25,11 +25,11 @@ It is easy to forget, having received and consumed [Mazur's eggs](http://abel.ma
 
 > the bottom level, though 100 percent responsible for what is happening, is nonetheless irrelevant to what happens.[^7]
 
-Information is physical, claims Landauer: it is subject to physical constraints.[^8] Likewise, the physical systems we call organisms are subject to informational constraints. The fundamental unit of terrestrial biology — which, as Bach[^9] and Brenner[^10] point out, looks quite like a self-replicating Turing machine, replete with read/write head and finite tape — is a vector for simultaneous spatial and temporal information transfer. Although plant cell identity seems primarily a result of location rather than lineage, Scheres reports,
+Information is physical, says Landauer: it is subject to physical constraints.[^8] Likewise, the physical systems we call organisms are subject to informational constraints. The fundamental unit of terrestrial biology — which, as Bach[^9] and Brenner[^10] point out, looks quite like a self-replicating Turing machine, replete with read/write head and tape — is a vector for simultaneous spatial and temporal information transfer. Although plant cell identity seems primarily a result of location rather than lineage, Scheres reports,
 
 > ancestral or neighboring cells can determine the fate of a given cell.[^11]
 
-Rosen says the *future* can too:
+For Rosen, the *future* can too:
 
 > [A] predictive model serves precisely to pull the future into the present.[^1]
 
@@ -47,7 +47,7 @@ He then argues this is too strong:
 
 > "Kuhn emphasized the discontinuities of language across theory change so strongly that he left no room for the possibility of convergence, for the possibility that the theories of paleontologists of today, for example, not only solve more puzzles than those of yesteryear but also tell us, with high degree of likelihood, what actually happened at distant epochs in the earth's past."[^14]
 
-Maybe paleontology can claim "convergence" only because we intuitively grasp its object. We know how it feels (and many claim to know what it means) to live on planet earth. Though we have yet to locate a satisfactory definition of life, we are unusually well equipped to talk about it. But do we really understand what happened here long ago? How thoroughly do we comprehend what occurs here now? We discuss everyday objects and organisms with an ease which does not extend to fields and branes, or tensors and topologies.
+Maybe paleontology can claim "convergence" only because we intuitively grasp its object. We know how it feels (and many purport to know what it means) to live on planet earth. Though we have yet to locate a satisfactory definition of life, we are unusually well equipped to talk about it. But do we really understand what happened here long ago? How thoroughly do we comprehend what occurs here now? We discuss everyday objects and organisms with an ease which does not extend to tensors or topologies.
 
 Penrose quips:
 
