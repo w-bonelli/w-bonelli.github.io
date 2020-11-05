@@ -9,7 +9,7 @@ title: whatever really
 
 By all accounts there is order in the universe. Whether this quality is timeless or temporary, we do not know. Nonetheless we presuppose signals in the noise around us. Things, evidently, can be predicted. To predict, we model. Thus informed, we act. We hope our models correspond to whatever really is "out there", as well as "in here"; to whatever really *is*. But what is there, really? And how ought we model it?
 
-Some posit a [physical](https://en.wikipedia.org/wiki/Physicalism) universe. This is no mere monism: atop it sits a metaphysics in which the for-itself &mdash; all life, from the first cell to the conscious mind &mdash;
+Some posit a solely [physical](https://en.wikipedia.org/wiki/Physicalism) universe. This is not an agnostic monism: atop it sits a metaphysics in which the for-itself &mdash; all life, from the first cell to the conscious mind &mdash;
 
 > has a biological (and thus mechanical) explanation.[^2]
 
@@ -33,7 +33,9 @@ For Rosen, the *future* can too:
 
 > [A] predictive model serves precisely to pull the future into the present.[^1]
 
-To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and -replication via exploitation of negentropy. Maybe some model nobody has conceived of yet would better serve us. Some derivations, apparently possible in principle, may remain infeasible only because the appropriate methods have yet to be developed; Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure.[^13] But some models may be impossible to reconcile by formal means; and it is by no means clear that any known model, however useful, can afford ontological certainty.
+To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and -replication via exploitation of negentropy. Maybe some model nobody has conceived of yet would better serve us. But it is by no means clear that any model, known or not, can afford ontological certainty.
+
+Some derivations may remain infeasible only until appropriate methods are developed. Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure:[^13] a feat we intuit should, in principle, be possible. But many other models likely cannot be reconciled by formal means. This doesn't mean we have to pick only one.
 
 McMullin paraphrases Kuhn:
 
@@ -47,7 +49,7 @@ He then argues this is too strong:
 
 > "Kuhn emphasized the discontinuities of language across theory change so strongly that he left no room for the possibility of convergence, for the possibility that the theories of paleontologists of today, for example, not only solve more puzzles than those of yesteryear but also tell us, with high degree of likelihood, what actually happened at distant epochs in the earth's past."[^14]
 
-Maybe paleontology can claim "convergence" only because we intuitively grasp its object. We know how it feels (and many purport to know what it means) to live on planet earth. Though we have yet to locate a satisfactory definition of life, we are unusually well equipped to talk about it. But do we really understand what happened here long ago? How thoroughly do we comprehend what occurs here now? We discuss everyday objects and organisms with an ease which does not extend to tensors or topologies.
+Maybe paleontology can claim "convergence" only because we intuitively grasp its object. We know how it feels (and many purport to know what it means) to live on planet earth. Though we have yet to locate a satisfactory definition of life, we are well equipped to talk about it. But do we really understand what happened here long ago? How thoroughly do we comprehend what occurs here now? We discuss everyday objects and organisms with an ease which does not extend to tensors or topologies.
 
 Penrose quips:
 
