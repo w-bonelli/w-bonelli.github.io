@@ -5,7 +5,7 @@ title: opening words
 
 > What is a word? The image of a nerve stimulus in sounds.[^1]
 
-To the causalist, words are like electrons: we can spray them at things with (sort of) consistent results.[^2] I can type "Don't pay attention to your tongue" into the void and make you do the opposite.
+Words, to Hacking, are like electrons: we can spray them at things with (sort of) consistent results.[^2] I can type "Don't pay attention to your tongue" into the void and make you do the opposite.
 
 How did it all begin? Maybe with a grunt some hundred thousand years ago: humanity's first word, so to speak. Which one was that?
 
