@@ -5,7 +5,7 @@ title: functions of loss
 
 Technologists from Minsky to Musk have considered questions of incentive misalignment in artificial agents, often with some urgency: Bostrom's [paperclip maximizer](https://nickbostrom.com/ethics/ai.html) may be the best known disaster scenario. Still, super-intelligence is typically termed hypothetical. Somehow most agree that, though we may realize these risks very soon, we presently have not.
 
-One function of loss, in human and non-human intelligences alike, is to recalibrate models to the constraints imposed by reality. A dog needs but one collision with a screen door to internalize the unreliability of its vision. Human beings (usually) avoid this particular fate, but we remain equally if not more susceptible to different sorts of blindness: to constraint classes spanning much smaller or larger spatio-temporal scales than we, for instance; or to those which, as Lippman put it a century ago,
+One function of loss, in human and non-human intelligences alike, is to recalibrate models to the constraints imposed by reality. A dog needs but one collision with a screen door to internalize the unreliability of its vision. Human beings (usually) avoid this particular fate, but we remain susceptible to different sorts of blindness: to constraint classes spanning much smaller or larger spatio-temporal scales than we, for instance; or to those which, as Lippman put it a century ago,
 
 > impugn the security of that to which we've given our allegiance.[^1]
 
