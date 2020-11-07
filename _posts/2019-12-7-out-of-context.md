@@ -20,11 +20,11 @@ Large cohorts of scientists intermittently attach their names and reputations to
 
 > If humankind does not dramatically alter its behavior, most or all of the planet may become uninhabitable.
 
-This is not a paltry requisition. Meanwhile the usual business carries on.
+Though this is not a paltry requisition, the usual business carries on.
 
 Butler and Morton might both approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
-Wicked problems &mdash; global heating, state-sanctioned brutality, institutional decay, the [sixth mass extinction](https://en.wikipedia.org/wiki/Holocene_extinction), SARS-CoV-2, the bacteriological arms race &mdash; are hard to think about. We live in them; they live in us.
+Wicked problems &mdash; global heating, plastic pollution, political corruption and institutional decay, psychological and economic warfare, state-sanctioned brutality, systemic racism, the [sixth mass extinction](https://en.wikipedia.org/wiki/Holocene_extinction), SARS-CoV-2, the bacteriological arms race &mdash; are hard to think about. We live in them; they live in us.
 
-In this warming web of stuff and life we are not alone. What now?
+In this warming web of stuff and life, what now?
 
