@@ -41,11 +41,13 @@ Nietzsche, similarly, wrote:
 
 > ...every concept originates through our equating what is unequal.[^1]
 
-Much math rests on the vacuously true notion that, since one can never find an element of the empty set which is not in another set, all sets include the empty set. Did Deleuze have this in mind when he said reason is
+Deleuze said reason is
 
-> a region carved out... of delirium?[^9]
+> carved out... of delirium, and drift.[^9]
 
-Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf) "mathematical object", I have taken the liberty of substituting "thing":
+Maybe he had mathematics in mind. Much theory rests on the vacuous fact that, since one can never find an element of the empty set which is not in another set, all sets include the empty set.
+
+To construct a ~~sentence~~ machine ~~distinctions~~ decisions must be made. Some might call them arbitrary. They are, if nothing else, open to interpretation. Where [Mazur writes](http://abel.math.harvard.edu/~mazur/preprints/when_is_one.pdf) "mathematical object", I have taken the liberty of substituting "thing":
 
 > To define the [things] we intend to study, we often &mdash; perhaps always &mdash; first make it understood, more implicitly than explicitly, how we intend these [things] to be presented to us, thereby delineating a kind of super-[thing]; that is, a species of [thing] garnished with a repertoire of modes of presentation. Only once this is done do we try to erase the scaffolding of the presentation, to say when two of these super-[things] &mdash; possibly presented to us in wildly different ways &mdash; are to be considered equal. In this oblique way, the [things] that we truly want enter the scene only defined as equivalence classes of explicitly presented [things]. That is, as specifically presented [things] with the specific presentation ignored, in the spirit of 'ham and eggs, but hold the ham.'[^10]
 

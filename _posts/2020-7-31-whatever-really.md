@@ -3,9 +3,7 @@ layout: post
 title: whatever really
 ---
 
-> The relations that exist in the external world, and that govern their succession, collectively constitute what we call causality. Without a belief in causal order, there could be no science and, very probably, no sanity.[^1]
-
-> Science must answer... "Why?"; it must say, "Because"... there are *different* and *inequivalent*, but equally valid, ways of saying "because".[^1]
+> Sensual things are elegies to the disappearance of objects.[^1]
 
 By all accounts there is order in the universe. Whether this quality is timeless or temporary, we do not know. Nonetheless we presuppose signals in the noise around us. Things, evidently, can be predicted. To predict, we model. Thus informed, we act. We hope our models correspond to whatever really is "out there", as well as "in here"; to whatever really *is*. But what is there, really? And how ought we model it?
 
@@ -31,11 +29,11 @@ Information is physical, says Landauer: it is subject to physical constraints.[^
 
 For Rosen, the *future* can too:
 
-> [A] predictive model serves precisely to pull the future into the present.[^1]
+> [A] predictive model serves precisely to pull the future into the present.[^12]
 
-To stand McLuhan[^12] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and -replication via exploitation of negentropy. Maybe some model nobody has conceived of yet would better serve us. But it is by no means clear that any model, known or not, can afford ontological certainty.
+To stand McLuhan[^13] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and -replication via exploitation of negentropy. Maybe some model nobody has conceived of yet would better serve us. But it is by no means clear that any model, known or not, can afford ontological certainty.
 
-Some derivations may remain infeasible only until appropriate methods are developed. Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure:[^13] a feat we intuit should, in principle, be possible. But many other models likely cannot be reconciled by formal means. This doesn't mean we have to pick only one.
+Some derivations may remain infeasible only until appropriate methods are developed. Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure:[^14] a feat we intuit should, in principle, be possible. But many other models likely cannot be reconciled by formal means. This doesn't mean we have to pick only one.
 
 McMullin paraphrases Kuhn:
 
@@ -43,21 +41,21 @@ McMullin paraphrases Kuhn:
 
 Nonetheless
 
-> "[t]he values a good theory is expected to embody enable comparisons to be made, even when the rival theories are incommensurable".[^14]
+> "[t]he values a good theory is expected to embody enable comparisons to be made, even when the rival theories are incommensurable".[^15]
 
 He then argues this is too strong:
 
-> "Kuhn emphasized the discontinuities of language across theory change so strongly that he left no room for the possibility of convergence, for the possibility that the theories of paleontologists of today, for example, not only solve more puzzles than those of yesteryear but also tell us, with high degree of likelihood, what actually happened at distant epochs in the earth's past."[^14]
+> "Kuhn emphasized the discontinuities of language across theory change so strongly that he left no room for the possibility of convergence, for the possibility that the theories of paleontologists of today, for example, not only solve more puzzles than those of yesteryear but also tell us, with high degree of likelihood, what actually happened at distant epochs in the earth's past."[^16]
 
 Maybe paleontology can claim "convergence" only because we intuitively grasp its object. We know how it feels (and many purport to know what it means) to live on planet earth. Though we have yet to locate a satisfactory definition of life, we are well equipped to talk about it &mdash; so long as we do not grasp unduly for details. But do we really understand what happened here long ago? How thoroughly do we comprehend what occurs here now? We discuss everyday objects and organisms with an ease which does not extend to tensors or topologies or transcription factors.
 
 Penrose quips:
 
-> I don't like the word materialist because it suggests we know what the material is.[^15]
+> I don't like the word materialist because it suggests we know what the material is.[^17]
 
 ---
 
-[^1]: Richardson, I. W., Louie, A. H.-Y., & Rosen, R. (Eds.). (1985). Theoretical biology and complexity: Three essays on the natural philosophy of complex systems. Academic Press.
+[^1]: Morton, T. (2013). Realist Magic: Objects, Ontology, Causality. 18.
 
 [^2]: Agre, P. (1995). The Soul Gained and Lost: Artificial Intelligence as a Philosophical Project. [https://pages.gseis.ucla.edu/faculty/agre/shr.html](https://pages.gseis.ucla.edu/faculty/agre/shr.html)
 
@@ -79,10 +77,12 @@ Penrose quips:
 
 [^11]: Scheres, B. (2001). Plant Cell Identity. The Role of Position and Lineage. 3.
 
-[^12]: McLuhan, M. (1964). Understanding Media: The Extensions of Man.
+[^12]: Richardson, I. W., Louie, A. H.-Y., & Rosen, R. (Eds.). (1985). Theoretical biology and complexity: Three essays on the natural philosophy of complex systems. Academic Press.
 
-[^13]: Jonas, E., & Paul, K. (2016). Could a Neuroscientist Understand a Microprocessor? [Preprint]. Neuroscience. [https://doi.org/10.1101/055624](https://doi.org/10.1101/055624)
+[^13]: McLuhan, M. (1964). Understanding Media: The Extensions of Man.
 
-[^14]: McMullin, E. (1993). Rationality and Paradigm Change in Science. 1.
+[^14]: Jonas, E., & Paul, K. (2016). Could a Neuroscientist Understand a Microprocessor? [Preprint]. Neuroscience. [https://doi.org/10.1101/055624](https://doi.org/10.1101/055624)
 
-[^15]: Fridman, L. (Producer). (2020, March 31). Roger Penrose [Audio podcast]. [https://lexfridman.com/roger-penrose/](https://lexfridman.com/roger-penrose/).
+[^15]: McMullin, E. (1993). Rationality and Paradigm Change in Science. 1.
+
+[^16]: Fridman, L. (Producer). (2020, March 31). Roger Penrose [Audio podcast]. [https://lexfridman.com/roger-penrose/](https://lexfridman.com/roger-penrose/).
