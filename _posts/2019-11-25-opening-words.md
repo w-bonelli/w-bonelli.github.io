@@ -13,7 +13,7 @@ Some words are sharp: they have a point. Where? They point fingers. Writes Morto
 
 > The first task is to abolish the idea of the possibility of a metalanguage that could account for things while remaining uncontaminated by them... [but] some metaphors are better than others.[^3]
 
-This, perhaps to Place, is
+This, per Place, is
 
 > a cornucopia of concepts spun, like clouds of sugar, around a single stick.
 
