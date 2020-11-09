@@ -57,7 +57,7 @@ To construct a ~~sentence~~ machine ~~distinctions~~ decisions must be made. Som
 
 ---
 
-[^1]: Nietzsche, Friedrich. *On Truth and Lie in an Extra-Moral Sense.* 1873.
+[^1]: Morton, Timothy. *Realist Magic: Objects, Ontology, Causality.* 2013.
 
 [^2]: Hacking, Ian. *Representing and Intervening: Introductory Topics in the Philosophy of Natural Science.* 2010.
 
@@ -65,15 +65,17 @@ To construct a ~~sentence~~ machine ~~distinctions~~ decisions must be made. Som
 
 [^4]: Place, Vanessa. *Radically Evil Poetics.* 2010.
 
-[^5]: Heidegger, Martin. *The Fundamental Concepts of Metaphysics: World, Finitude, Solitude.* 1983.
+[^5]: Nietzsche, Friedrich. *On Truth and Lie in an Extra-Moral Sense.* 1873.
 
-[^6]: Marx, Karl. *Difference Between the Democritean and Epicurean Philosophy of Nature.* 1841.
+[^6]: Heidegger, Martin. *The Fundamental Concepts of Metaphysics: World, Finitude, Solitude.* 1983.
 
-[^7]: Maturana, Humberto. *Biology of Cognition.* 1970.
+[^7]: Marx, Karl. *Difference Between the Democritean and Epicurean Philosophy of Nature.* 1841.
 
-[^8]: Derrida, Jacques. *Positions.* 1981.
+[^8]: Maturana, Humberto. *Biology of Cognition.* 1970.
 
-[^9]: Eves, Howard. *Foundations and Fundamental Concepts of Mathematics.* 1958.
+[^9]: Derrida, Jacques. *Positions.* 1981.
+
+[^10]: Eves, Howard. *Foundations and Fundamental Concepts of Mathematics.* 1958.
 
 [^11]: Deleuze, Gilles. *Desert Islands, and Other Texts* 1953-1974.
 
