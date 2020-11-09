@@ -13,9 +13,13 @@ Some words are sharp: they have a point. Where? They point fingers. Writes Morto
 
 > The first task is to abolish the idea of the possibility of a metalanguage that could account for things while remaining uncontaminated by them... [but] some metaphors are better than others.[^3]
 
-As Place put it:
+This, perhaps to Place, is
 
-> Failure to communicate... is the fundamental condition of language[^4].
+> a cornucopia of concepts spun, like clouds of sugar, around a single stick.
+
+Still it remains a
+
+> [f]ailure to communicate... the fundamental condition of language[^4].
 
 How to define the thing which must make up the definition? Nietzsche warned:
 
