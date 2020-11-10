@@ -9,7 +9,7 @@ One function of loss, among humans and non-humans alike, is to recalibrate model
 
 > impugn the security of that to which we've given our allegiance.[^1]
 
-We need not wait for generally intelligent software shackled to a badly nuanced objective function to witness intelligences larger than ourselves. What is Google, the Executive Office of the President of the United States, or the World Health Organization if not a suprahuman agent? That these things string humans together in causal chains rather than cells or transistors is immaterial.
+We need not wait for generally intelligent software shackled to a badly nuanced objective function to witness "intelligences" larger than ourselves. What is Google, the Executive Office of the President of the United States, or the Centers for Disease Control and Prevention if not suprahuman agents? That these things string humans together in causal chains rather than cells or transistors is immaterial.
 
 What do they maximize? It might as well be paperclips. It seems we live in a surveillance state incapable of controlling a pandemic, and the planet grows less hospitable by the year. Gould and Lewontin warn:
 
