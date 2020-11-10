@@ -26,7 +26,7 @@ Though this is not a paltry requisition, the usual business carries on.
 
 Butler and Morton might both approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
-Wicked problems &mdash; global heating, economic inequality, systemic racism, plastic pollution, political corruption, institutional decay, psychological warfare, state-sanctioned brutality, the sixth mass extinction, SARS-CoV-2, nuclear weapons and waste, the bacteriological arms race, soil erosion &mdash; are hard to think about. We live in them; they live in us.
+Wicked problems &mdash; global heating, economic and interpersonal inequity, systemic racism, plastic pollution, political corruption, institutional decay, physical and psychological warfare, state-sanctioned brutality, the sixth mass extinction, SARS-CoV-2, nuclear weapons and waste, the bacteriological arms race, soil erosion, ocean acidification, human migration &mdash; are hard to think about. We live in them; they live in us.
 
 In this warming web of stuff and life, what now?
 

@@ -37,21 +37,21 @@ Some derivations may remain infeasible only until appropriate methods are develo
 
 McMullin paraphrases Kuhn:
 
-> "...later theories solve more puzzles than earlier ones, or (to put this in a different idiom) they predict better. But there is... no reason to think that successive theories approximate more and more closely to the truth."
+> ...later theories solve more puzzles than earlier ones, or (to put this in a different idiom) they predict better. But there is... no reason to think that successive theories approximate more and more closely to the truth.
 
 Nonetheless
 
-> "[t]he values a good theory is expected to embody enable comparisons to be made, even when the rival theories are incommensurable".[^15]
+> [t]he values a good theory is expected to embody enable comparisons to be made, even when the rival theories are incommensurable.
 
 He then argues this is too strong:
 
-> "Kuhn emphasized the discontinuities of language across theory change so strongly that he left no room for the possibility of convergence, for the possibility that the theories of paleontologists of today, for example, not only solve more puzzles than those of yesteryear but also tell us, with high degree of likelihood, what actually happened at distant epochs in the earth's past."[^16]
+> Kuhn emphasized the discontinuities of language across theory change so strongly that he left no room for the possibility of convergence, for the possibility that the theories of paleontologists of today, for example, not only solve more puzzles than those of yesteryear but also tell us, with high degree of likelihood, what actually happened at distant epochs in the earth's past.[^15]
 
 Maybe paleontology can claim "convergence" only because we intuitively grasp its object. We know how it feels (and many purport to know what it means) to live on planet earth. Though we have yet to locate a satisfactory definition of life, we are well equipped to talk about it &mdash; so long as we do not grasp unduly for details. But do we really understand what happened here long ago? How thoroughly do we comprehend what occurs here now? We discuss everyday objects and organisms with an ease which does not extend to tensors or topologies or transcription factors.
 
 Penrose quips:
 
-> I don't like the word materialist because it suggests we know what the material is.[^17]
+> I don't like the word materialist because it suggests we know what the material is.[^16]
 
 ---
 

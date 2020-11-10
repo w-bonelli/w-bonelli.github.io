@@ -3,15 +3,15 @@ layout: post
 title: functions of loss
 ---
 
-Technologists from Minsky to Musk have considered questions of incentive misalignment in artificial agents, often with some urgency: Bostrom's [paperclip maximizer](https://nickbostrom.com/ethics/ai.html) may be the best known disaster scenario. Still, super-intelligence is typically termed hypothetical. Somehow most agree that, though we may realize these risks very soon, we presently have not.
+Technologists from Minsky to Musk have considered questions of incentive misalignment in artificial agents, often with some urgency: Bostrom's [paperclip maximizer](https://nickbostrom.com/ethics/ai.html) is one of the better known framings of the problem. Still, super-intelligence is termed hypothetical. Somehow most agree that, though we may realize these risks "soon" (how soon varies, depending who is asked), we have not yet breached the proverbial seal.
 
-One function of loss, in human and non-human intelligences alike, is to recalibrate models to the constraints imposed by reality. A dog needs but one collision with a screen door to internalize the unreliability of its vision. Human beings (usually) avoid this particular fate, but we remain susceptible to different sorts of blindness: to constraint classes spanning much smaller or larger spatio-temporal scales than we, for instance; or to those which, as Lippman put it a century ago,
+One function of loss, among humans and non-humans alike, is to recalibrate models to the constraints imposed by reality. A dog needs one collision with a screen door to internalize the unreliability of its vision. Human beings tend to avoid this fate, but it remains difficult for us to deciper different classes of objects: for instance, as Lippman put it a century ago, those which
 
 > impugn the security of that to which we've given our allegiance.[^1]
 
-We need not wait for some proto-AGI with an insufficiently nuanced objective function to witness the influence of intelligent forces larger than ourselves on our lives. What is a state, a corporation, a political party, an academic institution, a newsroom, or one's local chapter of the Rotary Club if not a suprahuman agent? That these entities string humans together in causal chains rather than cells or transistors is immaterial.
+We need not wait for generally intelligent software shackled to a badly nuanced objective function to witness intelligences larger than ourselves. What is Google, the Executive Office of the President of the United States, or the World Health Organization if not a suprahuman agent? That these things string humans together in causal chains rather than cells or transistors is immaterial.
 
-If super-intelligence exceeds every human capacity, these are not that. Gould and Lewontin warn:
+What do they maximize? It might as well be paperclips. It seems we live in a surveillance state incapable of controlling a pandemic, and the planet grows less hospitable by the year. Gould and Lewontin warn:
 
 > Human cultural practices can be orthogenetic and drive toward extinction in ways that Darwinian processes, based on genetic selection, cannot.[^2]
 
