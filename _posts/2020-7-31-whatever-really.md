@@ -5,13 +5,15 @@ title: whatever really
 
 > Sensual things are elegies to the disappearance of objects.[^1]
 
-By all accounts there is order in the universe. Whether this quality is timeless or temporary, we do not know. Nonetheless we presuppose signals in the noise around us. Things, evidently, can be predicted. To predict, we model. Thus informed, we act. We hope our models correspond to whatever really is "out there", as well as "in here"; to whatever really *is*. But what is there, really? And how ought we model it?
+By all accounts there is order in the universe. We presuppose signals in the noise. Things, evidently, can be predicted. To predict, we model. Informed, we act. The hope, it would seem, is for models which correspond to whatever really is "out there"; to what's "in here"; to whatever *is*.
 
-Some posit a solely [physical](https://en.wikipedia.org/wiki/Physicalism) universe. This is not an agnostic monism: atop it sits a metaphysics in which the for-itself &mdash; all life, from the first cell to the conscious mind &mdash;
+What and how we think, then, as well as how and what we think it is to be, informs how we model it, being.
+
+Some posit a solely [physical](https://en.wikipedia.org/wiki/Physicalism) universe. This is not an agnostic monism: atop it sits a metaphysics in which the for-itself &mdash; life, from primordial ooze to a biped behind a keyboard &mdash;
 
 > has a biological (and thus mechanical) explanation.[^2]
 
-This view is often as useful, in biology as well as in everyday life, as it is intuitive. Deacon reminds that
+This view is often as useful, in practical and scientific senses both, as it is intuitive. Deacon reminds that
 
 > although the abstract logic of natural selection may be multiply realizable, selection is dependent upon substrate properties and how they influence form generation.[^3]
 
