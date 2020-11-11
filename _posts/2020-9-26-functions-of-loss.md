@@ -13,7 +13,7 @@ We need not wait for generally intelligent software shackled to a badly nuanced 
 
 What do they maximize? It might as well be paperclips. It seems we live in a surveillance state incapable of controlling a pandemic, and the planet grows less hospitable by the year. Gould and Lewontin warn:
 
-> Human cultural practices can be orthogenetic and drive toward extinction in ways that Darwinian processes, based on genetic selection, cannot.[^2]
+> Human cultural practices can be orthogenetic and drive toward extinction[^2].
 
 Having sacrificed for and advanced within some social structure or milieu, who can resist attachment to it? Who can live in the long now, immersed in the seamless hum of the moment? Loss functions are no use until you lose.
 
