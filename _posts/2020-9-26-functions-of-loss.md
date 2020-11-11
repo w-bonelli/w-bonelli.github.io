@@ -5,7 +5,7 @@ title: functions of loss
 
 Technologists from Minsky to Musk have considered questions of incentive misalignment in artificial agents, often with some urgency: Bostrom's [paperclip maximizer](https://nickbostrom.com/ethics/ai.html) is one of the better known framings of the problem. Still, super-intelligence is termed hypothetical. Somehow most agree that, though we may realize these risks "soon" (how soon varies, depending who is asked), we have not yet breached the proverbial seal.
 
-One function of loss, among humans and non-humans alike, is to recalibrate models to the constraints imposed by reality. A dog needs one collision with a screen door to internalize the unreliability of its vision. Human beings tend to avoid this fate, but it remains difficult for us to deciper different classes of objects: for instance, as Lippman put it a century ago, those which
+One function of loss, among humans and non-humans alike, is to recalibrate models to the constraints imposed by reality. A cat or dog needs one collision with a screen door to internalize the unreliability of its vision. Though we tend to avoid this particular fate, different classes of objects present us with equal difficulty: for instance, as Lippman put it a century ago, those which
 
 > impugn the security of that to which we've given our allegiance.[^1]
 
@@ -15,7 +15,7 @@ What do they maximize? It might as well be paperclips. It seems we live in a sur
 
 > Human cultural practices can be orthogenetic and drive toward extinction[^2].
 
-Having sacrificed for and advanced within some social structure or milieu, who can resist attachment to it? Who can live in the long now, immersed in the seamless hum of the moment? Loss functions are no use until you lose.
+Having sacrificed for and advanced within some milieu, who can resist attachment to it? Who can live in the long now, immersed in the seamless hum of the moment? Loss functions are no use until you lose.
 
 ---
 
