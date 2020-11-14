@@ -21,7 +21,7 @@ Still, something recognizable passes between two distinct modes of being: someth
 
 > analogy and correspondence.[^4]
 
-Some words, like bureaucrats, point fingers.
+Words, like bureaucrats, point fingers.
 
 > The frustration of dealing with [them] often arises because they themselves can make no decisions; rather, they are permitted only to refer to decisions that have always-already been made[^5].
 
