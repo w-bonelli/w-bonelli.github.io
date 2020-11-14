@@ -5,7 +5,7 @@ title: whatever really
 
 > Sensual things are elegies to the disappearance of objects.[^1]
 
-By all accounts there is order in the universe. We presuppose signals in the noise. Things, evidently, can be predicted. To predict, we model. Informed, we act. The hope, it would seem, is for models which correspond to whatever really is "out there"; to what's "in here"; to whatever *is*.
+By all accounts there is order in the universe. We presuppose signals in the noise. Shit, evidently, can be predicted. To predict, we model. Informed, we act. The hope, it would seem, is for models which correspond to whatever really is "out there"; to what's "in here"; to whatever *is*.
 
 What and how we think, then, as well as how and what we think it is to be, informs how we model it, being.
 
@@ -17,7 +17,7 @@ This view is often as useful, in practical and scientific senses both, as it is 
 
 > although the abstract logic of natural selection may be multiply realizable, selection is dependent upon substrate properties and how they influence form generation.[^3]
 
-Turing[^4] and Wolpert[^5] established half a century ago that physico-chemical processes &mdash; reaction-diffusion systems and morphogen gradients, respectively &mdash; explain much developmental patterning. A healthy respect for the properties of solid objects in Euclidean 3-space &mdash; among them continuity, smoothness, and volume exclusion (by whose mandate we cannot walk through walls) &mdash; must underly morphological models. But the molecular biologist reaches for the graph, despite (or perhaps due to) its abstract nature, to represent gene regulation. Any physicist will agree that ours is not Newton’s universe; indeed many think it bold if not preposterous to conclude, even on the basis of some hypothetical grand unification, that any theory can tell us precisely what *is*, or how it came to be. Cartwright cautions:
+Turing[^4] and Wolpert[^5] established half a century ago that physico-chemical processes &mdash; reaction-diffusion systems and morphogen gradients, respectively &mdash; explain much developmental patterning. A healthy respect for the properties of solid objects in Euclidean 3-space &mdash; among them continuity, smoothness, and volume exclusion (by whose mandate we cannot walk through walls) &mdash; must underly morphological models. But the molecular biologist reaches for the graph, despite (or perhaps due to) its abstract nature, to represent gene regulation. Any physicist will agree that ours is not Newton’s universe; indeed many think it bold if not preposterous to conclude, even on the basis of some hypothetical grand unification, that any theory can tell us precisely what is, or how it came to be. Cartwright cautions:
 
 > The fundamental laws of physics do not describe true facts about reality. Rendered as descriptions of facts, they are false; amended to be true, they lose... explanatory force.[^6]
 
@@ -29,13 +29,13 @@ Information is physical, says Landauer: it is subject to physical constraints.[^
 
 > ancestral or neighboring cells can determine the fate of a given cell.[^11]
 
-For Rosen, the *future* can too:
+For Rosen, the future can too:
 
 > [A] predictive model serves precisely to pull the future into the present.[^12]
 
 To stand McLuhan[^13] on his head: maybe the message has hijacked the medium, encoding a strategy for self-regulation and -replication via exploitation of negentropy. Maybe some model nobody has conceived of yet would better serve us. But it is by no means clear that any model, known or not, can afford ontological certainty.
 
-Some derivations may remain infeasible only until appropriate methods are developed. Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure:[^14] a feat we intuit should, in principle, be possible. But many other models likely cannot be reconciled by formal means. This doesn't mean we have to pick only one.
+Some translations may remain infeasible only until appropriate methods are developed. Jonas and Kording, for instance, have shown modern neuroscience incapable of deriving the global function of a microprocessor from its underlying physical and logical structure:[^14] a feat we intuit should, in principle, be possible. But many other models likely cannot be reconciled by formal means. This doesn't mean we have to pick only one.
 
 McMullin paraphrases Kuhn:
 
@@ -51,7 +51,7 @@ He then argues this is too strong:
 
 Maybe paleontology can claim "convergence" only because we intuitively grasp its object. We know how it feels (and many purport to know what it means) to live on planet earth. Though we have yet to locate a satisfactory definition of life, we are well equipped to talk about it &mdash; so long as we do not grasp unduly for details. But do we really understand what happened here long ago? How thoroughly do we comprehend what occurs here now? We discuss everyday objects and organisms with an ease which does not extend to tensors or topologies or transcription factors.
 
-Penrose quips:
+One wonders if Penrose's quip will ever go out of style:
 
 > I don't like the word materialist because it suggests we know what the material is.[^16]
 
