@@ -13,9 +13,9 @@ We are told, says Deleuze, that entities like
 
 > corporations have a soul, which is the most terrifying news in the world.[^2]
 
-They also have bodies. We need not wait until an AGI with a badly nuanced objective function snaps its shackles to witness alien intelligence. What are Facebook, the NSA, Google, the Executive Office of the President of the United States, or the Centers for Disease Control and Prevention if not suprahuman agents? That these things string people together in causal chains rather than cells or transistors is immaterial.
+They also have bodies; governments too. We need not wait until an AGI with a badly nuanced objective function snaps its shackles to witness alien intelligence. What are the NSA, the Executive Office of the President of the United States, or the Centers for Disease Control and Prevention if not suprahuman agents? That these things string people together in causal chains rather than cells or transistors is immaterial.
 
-What do they maximize? Paperclips, one is tempted to wonder? It seems we live in a surveillance state incapable of controlling a pandemic, and the planet grows less hospitable by the year. Gould and Lewontin warn:
+What do they maximize? It seems we live in a surveillance state incapable of controlling a pandemic, and the planet grows less hospitable by the year. Gould and Lewontin warn:
 
 > Human cultural practices can be orthogenetic and drive toward extinction[^3].
 
