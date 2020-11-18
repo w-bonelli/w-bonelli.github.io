@@ -4,17 +4,17 @@ title: out of context
 date: 2019-12-7
 ---
 
-Attention is scarce and software is glue: it sticks to minds and bodies and itself.
+Attention is scarce and code is glue: it stick to my fingers and my eyes and my mind.
 
 Untangling knots is called "managing complexity". This is hard to do. It's made more difficult by the late profusion of mental and material machinery with which people program people and computers.
 
-Software, like language, depends on context. On this nearly everyone agrees. The proper balance of implicit and explicit detail to hold in view at any one time, however, is hotly debated.
+Software, like all language, depends on context. On this everyone agrees. The proper balance of implicit and explicit detail to hold in view at any one time, however, is hotly debated.
 
 Some camps like to KISS: *Keep It Simple, Stupid*. This, they will admit, can put complicated shit in one's face. A tolerance for local complexity engenders global simplicity, it's said.
 
 On the other side of the room clusters a ragged group, united only by a steadfast refusal to type more than necessary. Some of these, nursing a suspicion that something can be abstracted, have commandeered a whiteboard and drawn a network of neatly labeled objects and arrows.
 
-One has the feeling there's an elephant in here. Its skin is a bit like a stubbornly wrinkled shirt: you can only keep one or two bits of it straight at once. Parts of it are prickly, and it won't go away.
+One has the feeling there's an elephant in here. Its skin is like a stubbornly wrinkled shirt: you can only keep one or two bits straight at once.
 
 Time presses through us always in the same direction: forward. Something up ahead sucks.
 
