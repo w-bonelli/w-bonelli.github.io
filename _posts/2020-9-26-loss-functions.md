@@ -1,6 +1,6 @@
 ---
 layout: post
-title: functions of loss
+title: loss functions
 ---
 
 Technologists from Minsky to Musk have considered questions of incentive misalignment in artificial agents, often with urgency: Bostrom's [paperclip maximizer](https://nickbostrom.com/ethics/ai.html) is one of the better known framings. Still, super-intelligence is termed hypothetical. Somehow most agree that, though we may realize these risks "soon" (how soon varies, depending who is asked), we have not yet breached the proverbial seal.
@@ -13,7 +13,7 @@ We are told, claims Deleuze, that governments and
 
 > corporations have a soul, which is the most terrifying news in the world.[^2]
 
-They also have bodies. We need not wait for a badly nuanced loss function to snap its shackles to witness alien intelligence. What are the NSA, the Executive Office of the President of the United States, or the Centers for Disease Control and Prevention if not suprahuman agents? That these things string people together in causal chains rather than cells or transistors is immaterial.
+They also have bodies. We need not wait for a badly nuanced objective function to snap its shackles to witness alien intelligence. What are the NSA, the Executive Office of the President of the United States, or the Centers for Disease Control and Prevention if not suprahuman agents? That these things string people together in causal chains rather than cells or transistors is immaterial.
 
 What do they maximize? It seems we live in a surveillance state incapable of controlling a pandemic, and the planet grows less hospitable by the year. Gould and Lewontin warn:
 
