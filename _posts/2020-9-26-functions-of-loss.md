@@ -9,11 +9,11 @@ One function of loss, among humans and non-humans alike, is to recalibrate model
 
 > impugn the security of that to which we've given our allegiance.[^1]
 
-We are told, says Deleuze, that entities like
+We are told, claims Deleuze, that governments and
 
 > corporations have a soul, which is the most terrifying news in the world.[^2]
 
-They also have bodies; governments too. We need not wait until an AGI with a badly nuanced objective function snaps its shackles to witness alien intelligence. What are the NSA, the Executive Office of the President of the United States, or the Centers for Disease Control and Prevention if not suprahuman agents? That these things string people together in causal chains rather than cells or transistors is immaterial.
+They also have bodies. We need not wait for a badly nuanced loss function to snap its shackles to witness alien intelligence. What are the NSA, the Executive Office of the President of the United States, or the Centers for Disease Control and Prevention if not suprahuman agents? That these things string people together in causal chains rather than cells or transistors is immaterial.
 
 What do they maximize? It seems we live in a surveillance state incapable of controlling a pandemic, and the planet grows less hospitable by the year. Gould and Lewontin warn:
 
