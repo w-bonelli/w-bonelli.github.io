@@ -34,6 +34,8 @@ This post is a perpetual work in progress.
 
 - ~~In the future~~ there is [human migration](https://projects.propublica.org/climate-migration/).[^20]
 
+- ~~In the future~~ there is [methane discharge in the Arctic](https://siberiantimes.com/other/others/news/bubbling-methane-craters-and-super-seeps-is-this-the-worrying-new-face-of-the-undersea-arctic/), consequences of which remain [poorly understood](https://en.wikipedia.org/wiki/Arctic_methane_emissions).
+
 ---
 
 [^1]: Kornhuber, K., Osprey, S., Coumou, D., Petri, S., Petoukhov, V., Rahmstorf, S., & Gray, L. (2019). Extreme weather events in early summer 2018 connected by a recurrent hemispheric wave-7 pattern. Environmental Research Letters, 14(5), 054002. <a href="https://doi.org/10.1088/1748-9326/ab13bf">https://doi.org/10.1088/1748-9326/ab13bf</a>.
@@ -75,4 +77,3 @@ This post is a perpetual work in progress.
 [^19]: Sun, X.-D., Yuan, X.-Z., Jia, Y., Feng, L.-J., Zhu, F.-P., Dong, S.-S., Liu, J., Kong, X., Tian, H., Duan, J.-L., Ding, Z., Wang, S.-G., & Xing, B. (2020). Differentially charged nanoplastics demonstrate distinct accumulation in Arabidopsis thaliana. Nature Nanotechnology. <a href="https://doi.org/10.1038/s41565-020-0707-4">https://doi.org/10.1038/s41565-020-0707-4</a>
 
 [^20]: Xu, C., Kohler, T. A., Lenton, T. M., Svenning, J.-C., & Scheffer, M. (2020). Future of the human climate niche. Proceedings of the National Academy of Sciences, 117(21), 11350–11355. <a href="https://doi.org/10.1073/pnas.1910114117">https://doi.org/10.1073/pnas.1910114117</a>
-
