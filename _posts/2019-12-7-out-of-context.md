@@ -4,7 +4,7 @@ title: out of context
 date: 2019-12-7
 ---
 
-Attention is scarce and code is glue: it stick to my fingers and my eyes and my mind.
+Attention is scarce and code is glue: it sticks to my fingers and my eyes and my mind.
 
 Untangling knots is called "managing complexity". This is hard to do. It's made more difficult by the late profusion of mental and material machinery with which people program people and computers.
 

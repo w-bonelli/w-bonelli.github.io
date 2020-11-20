@@ -5,7 +5,7 @@ title: whatever really
 
 > Sensual things are elegies to the disappearance of objects.[^1]
 
-By all accounts there is order in the universe. We presuppose signals in the noise. Shit, evidently, can be predicted. To predict, we model. Informed, we act. The hope, it would seem, is for models which correspond to whatever really is "out there"; to what's "in here"; to whatever *is*.
+By all accounts there is order in the universe. Shit, it would seem, can be predicted. To predict, we model. Informed, we act. The hope, then, is for models which correspond to whatever really is "out there"; to what's "in here"; to whatever *is*.
 
 What and how we think, then, as well as how and what we think it is to be, informs how we model it, being.
 
