@@ -51,9 +51,13 @@ He then argues this is too strong:
 
 Maybe paleontology can claim "convergence" only because we intuitively grasp its object. We know how it feels (and many purport to know what it means) to live on planet earth. Though we have yet to locate a satisfactory definition of life, we are well equipped to talk about it &mdash; so long as we do not grasp unduly for details. But do we really understand what happened here long ago? How thoroughly do we comprehend what occurs here now? We discuss everyday objects and organisms with an ease which does not extend to tensors or topologies or transcription factors.
 
-One wonders if Penrose's quip will ever go out of style:
+Inevitably we are faced, says Calasso, by masks and mysteries:
 
-> I don't like the word materialist because it suggests we know what the material is.[^16]
+> ...all knowledge is physiognomic.[^16]
+
+Penrose quips:
+
+> I don't like the word materialist because it suggests we know what the material is.[^17]
 
 ---
 
@@ -87,4 +91,6 @@ One wonders if Penrose's quip will ever go out of style:
 
 [^15]: McMullin, E. (1993). Rationality and Paradigm Change in Science. 1.
 
-[^16]: Fridman, L. (Producer). (2020, March 31). Roger Penrose [Audio podcast]. [https://lexfridman.com/roger-penrose/](https://lexfridman.com/roger-penrose/).
+[^16]: Calasso, R. (1983). The Ruin of Kasch. 4.
+
+[^17]: Fridman, L. (Producer). (2020, March 31). Roger Penrose [Audio podcast]. [https://lexfridman.com/roger-penrose/](https://lexfridman.com/roger-penrose/).
