@@ -13,7 +13,7 @@ Some words are sharp: they have a point. The
 
 > movement of language through space... casts something into being that was not previously, or, put more surgically, excises something from where it once was.[^3]
 
-When speech is recorded, per Galloway,
+When speech is recorded, notes Galloway,
 
 > [t]he air outside the microphone and the copper wire inside it do not form an identity because they are qualitatively different forms of materiality.
 

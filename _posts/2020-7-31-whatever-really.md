@@ -7,7 +7,7 @@ title: whatever really
 
 By all accounts there is order in the universe. Shit, it would seem, can be predicted. To predict, we model. Informed, we act. The hope, then, is for models which correspond to whatever really is "out there"; to what's "in here"; to whatever *is*.
 
-What and how we think, then, as well as how and what we think it is to be, informs how we model it, being.
+What and how we think, then, as well as how and what we think it is to be, informs how we model what is, being.
 
 Some posit a solely [physical](https://en.wikipedia.org/wiki/Physicalism) universe. This is not an agnostic monism: atop it sits a metaphysics in which the for-itself &mdash; life, from primordial ooze to a biped behind a keyboard &mdash;
 
