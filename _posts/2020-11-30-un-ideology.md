@@ -17,7 +17,7 @@ Ballpoints and blockchains engender balmier revolutions than bombs and bayonets,
 
 > invisible, imperceptible sun of political action [is now] not to impede or foster... convulsions... but rather to *soften the blow*, to coat the sharp edges in sweet essence of balm... [and] above all to... refuse to credit them with that *extra something* which they always claim to represent &mdash; to refuse to believe, in short, that a massacre can easily be transformed into a sacrifice.[^3]
 
-Bombs still drop, of course; but only elsewhere. Perhaps predictably, most modern revolutionaries hail from elsewhere.
+Bombs still drop, of course; but only elsewhere. Perhaps predictably, the most militant revolutionaries tend to hail from elsewhere.
 
 ---
 
