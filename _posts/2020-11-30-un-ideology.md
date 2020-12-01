@@ -13,7 +13,7 @@ He who was before all else a revolutionist wrote:
 
 Indeed. The nib of a pen, suffusing the [remains of an animal](https://en.wikipedia.org/wiki/Parchment) with the [remains of a vegetable](https://en.wikipedia.org/wiki/Iron_gall_ink), can hardly do otherwise. I take issue only with "only".
 
-Ballpoints and blockchains engender balmier revolutions than bombs and bayonets, but whether this constitutes an improvement is disputed. To Calasso, the
+Ballpoints and blockchains engender balmier revolutions than bombs and bayonets. Whether this constitutes an improvement is disputed. To Calasso, the
 
 > invisible, imperceptible sun of political action [is now] not to impede or foster... convulsions... but rather to *soften the blow*, to coat the sharp edges in sweet essence of balm... [and] above all to... refuse to credit them with that *extra something* which they always claim to represent &mdash; to refuse to believe, in short, that a massacre can easily be transformed into a sacrifice.[^3]
 
