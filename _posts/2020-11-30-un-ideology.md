@@ -11,13 +11,21 @@ He who was before all else a revolutionist wrote:
 
 > The philosophers have only interpreted the world... the point, however, is to change it.[^2]
 
-Indeed. The nib of a pen, suffusing the [remains of an animal](https://en.wikipedia.org/wiki/Parchment) with the [remains of a vegetable](https://en.wikipedia.org/wiki/Iron_gall_ink), can hardly do otherwise. I take issue only with "only".
+Indeed. The nib of a pen, suffusing the [remains of an animal](https://en.wikipedia.org/wiki/Parchment) with the [remains of a vegetable](https://en.wikipedia.org/wiki/Iron_gall_ink), can hardly do otherwise. One takes issue only with "only".
 
-Ballpoints and blockchains engender balmier revolutions than bombs and bayonets. Whether this constitutes an improvement is disputed. To Calasso, the
+Ballpoints and blockchains beget milder revolutions than bombs and bayonets. Whether this constitutes an improvement is disputed. To Calasso, the
 
 > invisible, imperceptible sun of political action [is now] not to impede or foster... convulsions... but rather to *soften the blow*, to coat the sharp edges in sweet essence of balm... [and] above all to... refuse to credit them with that *extra something* which they always claim to represent &mdash; to refuse to believe, in short, that a massacre can easily be transformed into a sacrifice.[^3]
 
-Bombs still drop, of course; but only elsewhere. Perhaps predictably, the most militant revolutionaries tend to hail from elsewhere.
+Bombs still drop, to be sure, but only elsewhere: a place which, perhaps predictably, tends to produce most of the most militant revolutionaries.
+
+The modern American war machine was born of anti-fascism: contra those who had watched what went on in the American south, and taken notes.
+
+Fascism was defeated, but Bolshevism &mdash; that is, Stalin's revision of it, and all the revisions after that &mdash; followed closely behind. When it too fell, terror emerged; usually from elsewhere. Now social justice sheaths the blade of the state. This is of course a contradiction.
+
+The 45th president of the United States did not don the rags of his predecessors, and empire wore no clothes.
+
+Will we redress it? Will we re-dress it?
 
 ---
 

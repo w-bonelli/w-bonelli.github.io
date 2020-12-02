@@ -15,7 +15,7 @@ We are told, claims Deleuze, that institutions, governments, and
 
 > corporations have a soul, which is the most terrifying news in the world.[^3]
 
-They have minds and bodies too. We need not wait for a badly nuanced objective function to snap its shackles to witness alien intelligence. What are Google, the NSA, Facebook, ExxonMobil, Twitter, the Executive Office of the President of the United States, the WHO, or the Centers for Disease Control and Prevention if not suprahuman agents? That these things string people together in causal chains rather than cells or transistors is immaterial.
+They have minds and bodies too. We need not wait for a badly nuanced objective function to snap its shackles to witness alien intelligence. What are Google, the NSA, Facebook, the Pentagon, ExxonMobil, Twitter, the Executive Office of the President of the United States, the WHO, or the Centers for Disease Control and Prevention if not suprahuman agents? That these things string people together in causal chains rather than cells or transistors is immaterial.
 
 What do they maximize? It seems we live in a surveillance state incapable of controlling a pandemic, and the planet grows less hospitable by the year. Gould and Lewontin warn:
 
