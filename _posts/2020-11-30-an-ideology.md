@@ -21,7 +21,7 @@ Bombs still drop, to be sure, but only elsewhere: a place which tends to produce
 
 The modern American war engine was born of anti-fascism: contra those who had watched what went on in the American south, and taken notes.
 
-Fascism was defeated, but Bolshevism &mdash; that is, Stalin's revision of it, and all the revisions after that &mdash; followed closely behind. When it too fell, terror emerged; usually from elsewhere. Now the sheen of justice sheaths the blade of the state.
+Fascism was defeated, but Bolshevism &mdash; that is, Stalin's revision of it, and all the revisions after that &mdash; followed closely behind. When it too fell, terror emerged; usually from elsewhere. Next the sheen of justice sheathed the blade of the state.
 
 The 45th president of the United States did not don the rags of his predecessors, and empire wore no clothes.
 
