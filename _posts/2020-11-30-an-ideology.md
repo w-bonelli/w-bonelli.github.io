@@ -23,7 +23,7 @@ The modern American war engine was born of anti-fascism: contra those who had wa
 
 Fascism was defeated, but Bolshevism &mdash; that is, Stalin's revision of it, and all the revisions after that &mdash; followed closely behind. When it too fell, terror emerged; usually from elsewhere. Next the sheen of justice sheathed the blade of the state.
 
-The 45th president of the United States did not don the rags of his predecessors, and empire wore no clothes.
+45 did not don the rags of respectability, and empire wore no clothes.
 
 Will we redress it? Will we re-dress it?
 
