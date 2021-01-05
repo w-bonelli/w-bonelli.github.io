@@ -18,17 +18,11 @@ One has the feeling there's an elephant in here. Its skin is like a stubbornly w
 
 Time presses through us always in the same direction: forward. Something up ahead sucks.
 
-Large cohorts of scientists intermittently attach their names and reputations to documents which urge, more or less:
+Large cohorts of scientists stake their reputations, frequently and with growing urgency, to what is really a very simple requisition:
 
-> If humankind does not dramatically alter its behavior, most or all of the planet may become uninhabitable.
-
-Musk minces fewer words:
-
-> We're really playing a crazy game here... We're taking vast amounts of carbon from deep underground and putting [it] in the atmosphere. This is crazy. We should not do this.[^1]
+> We're really playing a crazy game here... We're taking vast amounts of carbon from deep underground and putting it in the atmosphere. This is crazy. We should not do this.[^1]
 
 Butler and Morton might both approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
-
-We live inside wicked problems &mdash; global heating, economic and interpersonal inequity, systemic racism, plastic pollution, political corruption, institutional decay, physical and psychological warfare, state-sanctioned brutality, the sixth mass extinction, SARS-CoV-2, nuclear weapons and waste, the bacteriological arms race, soil erosion, ocean acidification, human migration &mdash; just as they live in us.
 
 In this warming web of stuff and life, what now?
 
