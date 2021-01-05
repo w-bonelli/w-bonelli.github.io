@@ -22,11 +22,16 @@ Large cohorts of scientists intermittently attach their names and reputations to
 
 > If humankind does not dramatically alter its behavior, most or all of the planet may become uninhabitable.
 
-Though this is no paltry requisition, the usual business carries on.
+Musk minces fewer words:
+
+> We're really playing a crazy game here... We're taking vast amounts of carbon from deep underground and putting [it] in the atmosphere. This is crazy. We should not do this.[^1]
 
 Butler and Morton might both approve of it put this way: "being ecological", for contemporary human beings, is not an easy thing to be.
 
-Wicked problems &mdash; global heating, economic and interpersonal inequity, systemic racism, plastic pollution, political corruption, institutional decay, physical and psychological warfare, state-sanctioned brutality, the sixth mass extinction, SARS-CoV-2, nuclear weapons and waste, the bacteriological arms race, soil erosion, ocean acidification, human migration &mdash; are hard to think about. We live in them; they live in us.
+We live inside wicked problems &mdash; global heating, economic and interpersonal inequity, systemic racism, plastic pollution, political corruption, institutional decay, physical and psychological warfare, state-sanctioned brutality, the sixth mass extinction, SARS-CoV-2, nuclear weapons and waste, the bacteriological arms race, soil erosion, ocean acidification, human migration &mdash; just as they live in us.
 
 In this warming web of stuff and life, what now?
 
+---
+
+[^1]: Rogan, J. (Producer). (2018). Elon Musk [Video podcast]. <a href="https://www.youtube.com/watch?v=ycPr5-27vSI">https://www.youtube.com/watch?v=ycPr5-27vSI</a> 

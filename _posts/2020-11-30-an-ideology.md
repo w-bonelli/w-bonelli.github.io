@@ -19,9 +19,7 @@ Ballpoints and blockchains beget milder revolutions than bombs and bayonets. Whe
 
 Bombs still drop, to be sure, but only elsewhere: a place which tends to produce most of the most militant revolutionaries.
 
-This country's war engine was born of anti-fascism&mdash;contra those who had watched what went on in the American south, and taken notes.
-
-Fascism was defeated, but a different revisionism followed closely behind. When it too fell, terror emerged; usually from elsewhere. Next the sheen of justice sheathed the blade of the state.
+This country's war engine was born of anti-fascism&mdash;contra those who had watched what went on in the American south, and taken notes. They found defeat, but a different revisionism followed closely behind. When it too fell, terror emerged; usually from elsewhere. Next the sheen of justice sheathed the blade of the state.
 
 45 did not don the rags of respectability, and empire wore no clothes.
 

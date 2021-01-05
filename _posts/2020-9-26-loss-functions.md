@@ -13,13 +13,17 @@ One function of loss, among humans and non-humans alike, is to recalibrate model
 
 We are told, claims Deleuze, that institutions, governments, and
 
-> corporations have a soul, which is the most terrifying news in the world.[^3]
+> corporations have a soul[^3].
 
-They have minds and bodies too. We need not wait for a badly nuanced objective function to snap its shackles to witness alien intelligence. What are Google, the NSA, Facebook, the Pentagon, ExxonMobil, Twitter, the Executive Office of the President of the United States, the WHO, or the Centers for Disease Control and Prevention if not suprahuman agents? That these things string people together in causal chains rather than cells or transistors is immaterial.
+They have minds and bodies too:
+
+> A company is essentially a cybernetic collective of people and machines.[^4]
+
+We need not wait for a badly nuanced objective function to snap its shackles to witness alien intelligence. What are Google, the NSA, Facebook, the Pentagon, ExxonMobil, Twitter, the Executive Office of the President of the United States, the WHO, or the Centers for Disease Control and Prevention if not suprahuman agents? That these things string people together in causal chains rather than cells or transistors is immaterial.
 
 What do they maximize? It seems we live in a surveillance state incapable of controlling a pandemic, and the planet grows less hospitable by the year. Gould and Lewontin warn:
 
-> Human cultural practices can be orthogenetic and drive toward extinction[^4].
+> Human cultural practices can be orthogenetic and drive toward extinction[^5].
 
 Having sacrificed for and advanced within some milieu, who can resist attachment to it? Who can live in the long now, immersed in the seamless hum of the moment? Loss functions are no use until you lose.
 
@@ -31,5 +35,7 @@ Having sacrificed for and advanced within some milieu, who can resist attachment
 
 [^3]: Deleuze, G. (1992). Postscript on the Societies of Control.
 
-[^4]: Gould, S. J., and R. Lewontin. (1979). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. Proceedings of the Royal Society of London. <a href="https://doi.org/10.1098/rspb.1979.0086">https://doi.org/10.1098/rspb.1979.0086</a>
+[^4]: Rogan, J. (Producer). (2018). Elon Musk [Video podcast]. <a href="https://www.youtube.com/watch?v=ycPr5-27vSI">https://www.youtube.com/watch?v=ycPr5-27vSI</a> 
+
+[^5]: Gould, S. J., and R. Lewontin. (1979). The spandrels of San Marco and the Panglossian paradigm: A critique of the adaptationist programme. Proceedings of the Royal Society of London. <a href="https://doi.org/10.1098/rspb.1979.0086">https://doi.org/10.1098/rspb.1979.0086</a>
 
