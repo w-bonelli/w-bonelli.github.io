@@ -5,19 +5,17 @@ title: whatever really
 
 > Sensual things are elegies to the disappearance of objects.[^1]
 
-By all accounts there is order in the universe. Shit, it would seem, can be predicted. To predict, we model. Informed, we act. The hope, then, is for models which correspond to whatever really is "out there"; to what's "in here"; to whatever *is*.
-
-What and how we think, then, as well as how and what we think it is to be, informs how we model what is, being.
+By all accounts there is order in the universe. Shit can be predicted. To predict, we model. Informed, we act, hoping perhaps to God or Science that the model corresponds to whatever really is.
 
 Some posit a solely [physical](https://en.wikipedia.org/wiki/Physicalism) universe. This is not an agnostic monism: atop it sits a metaphysics in which the for-itself &mdash; life, from primordial ooze to a biped behind a keyboard &mdash;
 
 > has a biological (and thus mechanical) explanation.[^2]
 
-This view is often as useful, in practical and scientific senses both, as it is intuitive. Deacon reminds that
+This view is useful, in practical and scientific senses both, as it is intuitive. Deacon reminds that
 
 > although the abstract logic of natural selection may be multiply realizable, selection is dependent upon substrate properties and how they influence form generation.[^3]
 
-Turing[^4] and Wolpert[^5] established half a century ago that physico-chemical processes &mdash; reaction-diffusion systems and morphogen gradients, respectively &mdash; explain much developmental patterning. A healthy respect for the properties of solid objects in Euclidean 3-space &mdash; among them continuity, smoothness, and volume exclusion (by whose mandate we cannot walk through walls) &mdash; must underly morphological models. But the molecular biologist reaches for the graph, despite (or perhaps due to) its abstract nature, to represent gene regulation. Any physicist will agree that ours is not Newton’s universe; indeed many think it bold if not preposterous to conclude, even on the basis of some hypothetical grand unification, that any theory can tell us precisely what is, or how it came to be. Cartwright cautions:
+Turing[^4] and Wolpert[^5] established half a century ago that physico-chemical processes &mdash; reaction-diffusion systems and morphogen gradients, respectively &mdash; explain much developmental patterning. Healthy respect for the properties of solid objects in Euclidean 3-space &mdash; among them continuity, smoothness, and volume exclusion (by whose mandate we cannot walk through walls) &mdash; must underly morphological models. But the molecular biologist employs the graph to disentangle gene regulation. Physicists agree that ours is not Newton’s billiard-ball universe. Indeed to many a theory cannot tell us precisely what is, or how it came to be; only what it *does*. Cartwright cautions:
 
 > The fundamental laws of physics do not describe true facts about reality. Rendered as descriptions of facts, they are false; amended to be true, they lose... explanatory force.[^6]
 
